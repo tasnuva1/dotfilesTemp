@@ -1,0 +1,63 @@
+#!/bin/bash
+
+urls=(
+  "https://calendar.google.com/calendar/u/0/r"
+  "https://learn.letsgetrusty.com/beginner/constants-statics.html"
+  "https://www.youtube.com/watch?v=L-EbslnLvIw&list=PLsFgad1IlFAQ-eaS_LsaHvBHHf8Qj_qBN"
+)
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+
+mounter &
+sleep 2
+xdotool key super+1 &
+sleep 1
+xdotool key super+T &
+sleep 1
+xdotool key super+a &
+sleep 1
+st -e bash -c "ebook-viewer /home/fahmida/Calibre\ Library/Gene\ Kim/The\ DevOps\ Handbook\ \(16\)/The\ DevOps\ Handbook\ -\ Gene\ Kim.epub" &
+sleep 1 
+st -e bash -c "mpv '/home/fahmida/downloads/videos/movies/The DevOps Handbook/The DevOps Handbook,_B09L55NZ82_LC_128_44100.m4b'" &
+sleep 1 
+xdotool key super+enter &
+sleep 1 
+
+xdotool key super+2 &
+sleep 1
+xdotool key super+enter &
+sleep 1
+st -e bash -c "mpv '/home/fahmida/Rust open-source contributions stream_ Rust tools and std__future.mp4'" &
+sleep 2
+# xdotool key super+f &
+sleep 1
+
+xdotool key super+3 &
+sleep 1
+sleep 1
+st -e bash -c "ebook-viewer '/home/fahmida/Calibre Library/Sky Nelson-Isaacs/Living in Flow (15)/Living in Flow - Sky Nelson-Isaacs.epub'" &
+sleep 1
+st -e bash -c "mpv '/mnt/3/Courses/media/audiobooks/Computer Programming/Living in Flow: The Science of Synchronicity and How Your Choices Shape Your World/output_image.mp4'" &
+sleep 1
+st -e bash -c "lf '/home/fahmida/downloads/books/books/audio_available/'" &
+sleep 1
+
+xdotool key super+4 &
+st -e bash -c "qbittorrent" &
+sleep 1
+
+xdotool key super+5 &
+sleep 1
+xdotool key super+w &
+sleep 5 
+# Open each URL in a new tab
+for url in "${urls[@]}"; do
+    "$chrome" --new-tab "$url" &
+    sleep 1
+done
+sleep 1
+
+xdotool key super+9 &
+st -e bash -c "python3 '/home/fahmida/gits(all-code)/clock/app3.py'" &
+sleep 1

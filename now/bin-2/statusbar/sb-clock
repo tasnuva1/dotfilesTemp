@@ -1,0 +1,42 @@
+#!/bin/sh
+
+clock=$(date '+%I')
+hour_part=$(date "+%R" | cut -c 1-2)
+hour_passed=$(expr ${hour_part#0} - 7)
+# date "+%Y %b %d (%a) $icon%I:%M%p %R $hour_passed"
+
+case "$clock" in
+	"00") icon="🕛" ;;
+	"01") icon="🕐" ;;
+	"02") icon="🕑" ;;
+	"03") icon="🕒" ;;
+	"04") icon="🕓" ;;
+	"05") icon="🕔" ;;
+	"06") icon="🕕" ;;
+	"07") icon="🕖" ;;
+	"08") icon="🕗" ;;
+	"09") icon="🕘" ;;
+	"10") icon="🕙" ;;
+	"11") icon="🕚" ;;
+	"12") icon="🕛" ;;
+esac
+
+case $BLOCK_BUTTON in
+	1) notify-send "This Month" "$(cal | sed "s/\<$(date +'%e')\>/<b><span color='red'>&<\/span><\/b>/")" && notify-send "Appointments" "$(calcurse -d3)" ;;
+	2) setsid -f "$TERMINAL" -e calcurse ;;
+	3) notify-send "📅 Time/date module" "\- Left click to show upcoming appointments for the next three days via \`calcurse -d3\` and show the month via \`cal\`
+- Middle click opens calcurse if installed" ;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+date_num=$(date | cut -c 9-10)
+date=$(date "+%I:%M%p %R")
+time_12=$(date "+%I:%M%p")
+time_24=$(date "+%R")
+
+# date "+%Y %b %d (%a) $icon%I:%M%p ${hour_passed}h-gone %R"
+# date "+%Y %b %d (%a) $icon %I:%M%p %R"
+# date "(%a) $icon %I:%M%p %R"
+# echo "$date_num $date"
+# echo "$date_num $only_time"
+echo "$time_24 $time_12 $date_num"

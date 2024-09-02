@@ -1,0 +1,57 @@
+---
+---
+**Source:** David Perell Newsletter
+ 
+----
+
+- Lesson 1: Write about small topics
+	- Don't try to tackle too many ideas in a single article. It will just end up paralyzing you
+	- Stop hitting too many targets
+	- When you try to cover a big topic, your ideas can expand in infinite ways
+	- Focus on the smallest idea. Lay out the builiding brick-by-brick.
+	- Expect 75% of your ideas come after you start writing.
+	- You will unlock ideas you have never thought before putting your pen to papaer
+	- **Focus on the smallest viable idea**
+- Lesson 2: Build a note-taking system
+	- To be a better writer, don't read another book, start capturing your best ideas.
+	- Learn to use digital tools and systems. Computer are better at remembering things than we are.
+	- Write everytime you get something valuable.
+	- You are already doing the hard work of reading books, listening to podcasts and having ideas. Now all you need is a system to care of all the information that you have consumed.
+- Lesson 3: Build Your Personal Monopoly
+	- Writing online's goal = Building personal monopoly
+	- Your unique combinations of skills, interests, and personality
+	- You won't have personal monopoly from the start
+	- It will take time to But don't wait till then
+	- You develop personal monopoly by laying brick-by-brick, article-by-article.
+	- Don't just focus on yourself, forcus on what the world wants too. Think like an investor.
+	- Learn everything you can about that people want to learn and share the best of what you have learned
+	- The more you share, the faster you find personal monopoly
+	- Collect ideas, talk about them, turn them intor writing. This will teach you more than any rational planning process ever could.
+	- Being unique is the fastest way to build your personal Monopoly.
+- Lesson 4: Time to talk
+	- Have a system for saving ideas
+	- Talk to your friends, find what they are interested in and and write abou it
+	- Zoom in best ideas and get rid of the rest
+- Lesson 5: Follow the Netflix principle
+	- Write evergreen content that will be relevent even in the next 5 years
+	- When you write, think in decades instead of days
+	- Reward your writing
+- Lesson 6: Write in short chunks
+	- Don't block a big chunk of time. It will go against the natural flow. Write in small chunks as you would write to a friend
+	- Capture ideas in small brust of time
+	- They will build over time
+- Lesson 7: Own your distribution
+	- Build a direct relationship with your readers
+	- Other platforms will hurt you. You don't reach your audience
+	- They will quickly fade away. They won't know you.
+	- There is a few chance you will build relationship with them
+	- Focus on distribution. Build a simple website.
+- Lesson 8: What if I'm not ready yet?
+	- It takes courage to say something and publish it. People are afraid to make that leap
+	- NOt ready, they don't know what to write about, They don't feel smart enough, they don't have enougu ideas, or they may have too many interest
+	- They stay quit, belittle their ambitions and keep their knowledge to themselves
+	- Share what you know
+	- Don't spend your whole life waiting for the sound of starting gun. There's no sucht thing as fully reday. Don't wait. Pull the trigger yourself. THe thing you've been waiting for is your own permission
+	- You don't have to have everything  planned out. The way will emerge throught action only. 
+	- Forcing yourselft to share your ideas can rather develop an immense expertise on a topic
+	- Start before you are ready. Make it a habit to publish your ideas.

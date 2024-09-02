@@ -1,0 +1,9 @@
+- Here is a list of some of the larger examples this book includes:
+- Mandelbrot set renderer
+- A grep clone
+- CPU emulator
+- Generative art
+- A database
+- HTTP, NTP, and hexdump clients
+- LOGO language interpreter
+- Operating system kernel

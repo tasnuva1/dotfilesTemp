@@ -1,0 +1,57 @@
+#!/bin/bash
+
+# Function to convert time to minutes
+to_minutes() {
+    local h=$(echo $1 | cut -d: -f1)
+    local m=$(echo $1 | cut -d: -f2)
+    echo $(( 10#$h * 60 + 10#$m ))
+}
+
+# Function to calculate time difference in hours and minutes
+calculate_diff() {
+    local start=$1
+    local end=$2
+    local diff=$((end - start))
+    if [ $diff -lt 0 ]; then
+        diff=$((diff + 1440)) # Add 24 hours in minutes
+    fi
+    local hours=$((diff / 60))
+    local minutes=$((diff % 60))
+    printf "%02dh %02dm\n" $hours $minutes
+}
+
+# Function to get the current time in minutes
+get_current_time_in_minutes() {
+    local current_time=$1
+    to_minutes $current_time
+}
+
+# Check if at least one argument is provided
+if [ $# -lt 1 ]; then
+    echo "Usage: $0 <current_time_in_24hr_format> [optional_second_argument]"
+    exit 1
+fi
+
+current_time=$1
+current_time_in_minutes=$(get_current_time_in_minutes $current_time)
+start_time_in_minutes=$(to_minutes "16:00")
+end_time_in_minutes=$(to_minutes "07:00")
+
+# Calculate time passed since 16:00
+time_passed=$(calculate_diff $start_time_in_minutes $current_time_in_minutes)
+
+# Calculate time left until 07:00 the next day
+time_left=$(calculate_diff $current_time_in_minutes $end_time_in_minutes)
+
+# echo "Time passed since 16:00: $time_passed"
+# echo "Time left until 07:00: $time_left"
+
+if [ $# -ne 2 ]; then
+echo "Time passed since 4 PM: $time_passed"
+echo "Time left until 7 AM: $time_left"
+fi
+
+# Check if the second argument is provided
+if [ $# -ge 2 ]; then
+    echo "$time_left"
+fi

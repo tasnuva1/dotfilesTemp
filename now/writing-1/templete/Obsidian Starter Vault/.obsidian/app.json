@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "byModifiedTime",
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showFrontmatter": false,
+  "foldIndent": true,
+  "rightToLeft": false
+}

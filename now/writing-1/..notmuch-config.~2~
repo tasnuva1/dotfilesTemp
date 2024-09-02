@@ -1,0 +1,19 @@
+ignore=/.*[.](json|lock|bak)$/
+
+built_with.compact=true
+built_with.field_processor=true
+built_with.retry_lock=true
+built_with.sexp_queries=true
+crypto.gpg_path=gpg
+database.autocommit=8000
+database.backup_dir=/home/fahmida/.local/share/mail/.notmuch/backups
+database.hook_dir=/home/fahmida/.local/share/mail/.notmuch/hooks
+database.mail_root=/home/fahmida/.local/share/mail
+database.path=/home/fahmida/.local/share/mail
+maildir.synchronize_flags=true
+new.ignore=.mbsyncstate;.uidvalidity
+new.tags=unread;inbox;
+search.exclude_tags=deleted;spam;
+user.name=Fahmida Mashura Tasnuva
+user.primary_email=tasnuva.contact@gmail.com
+Z

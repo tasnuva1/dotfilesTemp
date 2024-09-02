@@ -1,0 +1,70 @@
+#!/bin/bash
+
+# Initialize the timer
+timer=0
+timer2=0
+running=false
+
+# Function to display the timer
+display_timer() {
+    # clear
+    # echo "Timer: $timer seconds"
+    # echo "Timer: $timer2 seconds"
+
+    clear
+    minutes=$((timer / 60))
+    seconds_display=$((timer % 60))
+    hours=$((minutes / 60))
+    minutes_display=$((minutes % 60))
+
+    minutes_2=$((timer2 / 60))
+    seconds_display_2=$((timer2 % 60))
+    hours_2=$((minutes_2 / 60))
+    minutes_display_2=$((minutes_2 % 60))
+
+    printf "Total Work: %02d:%02d:%02d\n" "$hours" "$minutes_display" "$seconds_display"
+    printf "Current Time: %02d:%02d:%02d\n" "$hours_2" "$minutes_display_2" "$seconds_display_2"
+
+}
+
+# Function to update the timer
+update_timer() {
+    if $running; then
+        ((timer++))
+        ((timer2++))
+    fi
+    display_timer
+}
+
+# Display the initial state
+display_timer
+
+# Capture key presses
+while true; do
+    read -n 1 -s key
+
+    if [[ $key == "k" ]]; then
+        running=true
+        timer2=0
+    elif [[ $key == "p" ]]; then
+        running=false
+    elif [[ $key == "q" ]]; then
+        break
+    fi
+
+    while $running; do
+        sleep 1
+        update_timer
+        read -t 0.1 -n 1 -s key
+        if [[ $key == "p" ]]; then
+            running=false
+        elif [[ $key == "q" ]]; then
+            running=false
+            break
+        fi
+    done
+done
+
+echo "Timer stopped at $timer seconds. Exiting script."
+
+

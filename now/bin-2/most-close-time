@@ -1,0 +1,56 @@
+#!/bin/bash
+
+# Function to convert time to minutes
+to_minutes() {
+    # local h=$(echo $1 | cut -d: -f1)
+    # local m=$(echo $1 | cut -d: -f2)
+    local h=$(echo $1 | sed 's/^0*//' | cut -d: -f1) # Remove leading zeros
+    local m=$(echo $1 | sed 's/^0*//' | cut -d: -f2) # Remove leading zeros
+    # echo $(($h * 60 + $m))
+    echo $(( 10#$h * 60 + 10#$m ))
+
+}
+
+# Function to find the closest time
+find_closest_time() {
+    local current_time_in_minutes=$(to_minutes $1)
+    local closest_time=""
+    local closest_diff=1440 # Max possible difference in minutes (24 * 60)
+
+    for time in "$@"; do
+        local time_in_minutes=$(to_minutes $time)
+        local diff=$((time_in_minutes - current_time_in_minutes))
+        # If the difference is negative, consider it as the next day
+        if [ $diff -lt 0 ]; then
+            diff=$((diff + 1440)) # Add 24 hours (in minutes)
+        fi
+        if [ $diff -lt $closest_diff ] && [ $diff -gt 0 ]; then
+            closest_diff=$diff
+            closest_time=$time
+        fi
+    done
+
+    echo $closest_time
+    # printf "%s" "$closest_time"
+
+}
+
+# Usage: ./script.sh "current_time" "time1" "time2" ...
+current_time=$1
+shift
+closest_time=$(find_closest_time $current_time "$@")
+
+# echo "Closest time to $current_time is $closest_time"
+
+
+# Usage: ./script.sh "current_time" "time1" "time2" ...
+# ./script.sh "15:30" "12:00" "18:00" "21:00"
+# output: Closest time to 15:30 is 18:00
+
+# echo "$current_time"
+# echo "$@"
+# echo "this is $closest_time"
+
+echo "$closest_time"
+# printf "%s" "$closest_time"
+

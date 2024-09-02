@@ -1,0 +1,26 @@
+/* .heading-collapse-indicator, .cm-fold-indicator .collapse-indicator {
+  opacity: 1 !important;
+}
+
+.markdown-source-view, .markdown-preview-view {
+max-width: 900px;
+margin: auto;
+}
+*/
+
+.CodeMirror-cursor, 
+div.CodeMirror-cursor, 
+.cm-fat-cursor,
+.cm-animate-fat-cursor,
+.cm-fat-cursor-mark, 
+.cm-cursor{
+ visibility: visible !important;
+}
+
+.CodeMirror-focused .CodeMirror-cursors {
+	visibility: visible !important;
+}
+
+.cm-cursorLayer {
+    animation: none !important;
+}

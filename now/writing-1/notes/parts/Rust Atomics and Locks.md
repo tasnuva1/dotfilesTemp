@@ -1,0 +1,19 @@
+- **Chapter 1 — Basics-of-Rust-Concurrency:**
+  - This chapter provides a foundational understanding of basic concurrency concepts in Rust, covering threads, mutexes, thread safety, shared and exclusive references, and interior mutability. It serves as a refresher for experienced Rust programmers and fills in Rust-specific knowledge for those familiar with concurrency concepts from other languages.
+- **Chapter 2 — Atomics:**
+  - This chapter delves into Rust's atomic types and their operations, progressing from simple load and store operations to advanced compare-and-exchange loops. Real-world examples illustrate each new concept, focusing on situations where relaxed memory ordering is sufficient.
+- **Chapter 3 — Memory Ordering:**
+  - Introducing the complex topic of memory ordering, this chapter explores the Rust memory model, happens-before relationships, different memory orderings, and the limitations of sequentially consistent ordering.
+- ****Chapter 4 — Building Our Own Spin Lock:****
+  - Putting theory into practice, this chapter implements a spin lock, starting with a minimal version to apply release and acquire memory ordering. It explores Rust's safety concepts to transform it into an ergonomic and misuse-resistant Rust data type.
+- ****Chapter 5 — Building Our Own Channels:****
+  - The fifth chapter involves implementing variations of a one-shot channel from scratch. Beginning with an unsafe version, the chapter progresses to design safe interfaces, considering design decisions and their implications.
+- ****Chapter 6 — Building Our Own "Arc":****
+  - Taking on a challenging memory ordering puzzle, this chapter implements a version of atomic reference counting from scratch. The final version closely resembles Rust's std::sync::Arc type, including support for weak pointers and optimizations for performance.
+- **Chapter 7 — Understanding the Processor:**
+  - This deep dive into low-level details explores processor-level operations, assembly instructions behind atomic operations on popular architectures, caching, and the impact on code performance. It examines the remaining aspects of the memory model at the hardware level.
+- **Chapter 8 — Operating System Primitives:**
+  - Acknowledging the role of the operating system, this chapter covers functionality available on Linux, macOS, and Windows. It discusses concurrency primitives through pthreads on POSIX systems, the Windows API, and the Linux futex syscall.
+- ****Chapter 9 — Building Our Own Locks:****
+  - Applying knowledge from previous chapters, this chapter constructs implementations of a mutex, condition variable, and reader-writer lock from scratch. Optimization attempts are explored with benchmark tests, highlighting design trade-offs.
+- **Chapter 10 — Ideas and Inspiration**

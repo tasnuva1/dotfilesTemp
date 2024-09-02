@@ -1,0 +1,79 @@
+#!/bin/bash
+
+# email writting & the issu with mohamuod (pace and blassing be upon him)
+# For research & knowlagede
+urls=(
+  "https://doc.rust-lang.org/std/index.html"
+  "https://github.com/codecrafters-io/build-your-own-x"
+  "https://dtolnay.github.io/rust-quiz/1"
+  "https://doc.rust-lang.org/rust-by-example/"
+  "https://rust-book.cs.brown.edu/ch10-00-generics.html"
+)
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+
+xdotool key super+1 &
+sleep 1
+st -e bash -c "calcurse" &
+sleep 1
+
+
+xdotool key super+2 &
+sleep 1
+xdotool key super+w &
+sleep 5 
+# mounter &
+
+# Open each URL in a new tab
+for url in "${urls[@]}"; do
+    "$chrome" --new-tab "$url" &
+    sleep 1
+done
+
+sleep 3
+xdotool key ctrl+1 &
+sleep 1
+xdotool key ctrl+w &
+sleep 1
+xdotool key ctrl+w &
+sleep 1
+xdotool key ctrl+9 &
+sleep 1
+# st -- bash -c 'echo "Running CLI Tool 1"; v go-to.txt' &
+st -e bash -c "helix ~/go-to.md" &
+sleep 6
+xdotool key G &
+
+
+sleep 1 
+xdotool key super+3 &
+sleep 1
+st -e bash -c "mpv ~/downloads/videos/CoursesTutorials/Rust/learning/Easy-Rust-bite-sized-Rust-tutorials/'035
+- Easy Rust 035： Implementing structs and enums 1.mp4'" &
+sleep 1
+st -e bash -c "lf ~/'gits(all-code)'/rust/small-exercises/rustlings/exercises/options" &
+sleep 3
+st -e bash -c "helix ~/coding.md" &
+sleep 1 
+xdotool key super+u &
+sleep 1
+xdotool key super+j &
+sleep 1
+
+xdotool key super+4 &
+sleep 1
+st -e bash -c "python3 ~/'gits(all-code)'/clock/app3.py" &
+sleep 3
+
+xdotool key super+2 &
+sleep 1
+xdotool key super+j &
+sleep 1
+xdotool key ctrl+9 &
+sleep 1
+xdotool key super+a &
+
+
+xdotool key super+1 &
+sleep 1

@@ -1,0 +1,1 @@
+koreader-appimage-x86_64-linux-gnu-v2022.11.AppImage

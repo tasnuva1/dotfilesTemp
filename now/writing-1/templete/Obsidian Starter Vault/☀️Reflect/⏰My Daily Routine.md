@@ -1,0 +1,15 @@
+# MY Routine
+- Morning Ritual
+	- Wake up
+	- Drink 1 Glass of Water
+	- Turn off my alarm
+	- Practice Stomach vaccum (5 Sets)
+	- Drink 1 Glass of water
+	- Meditate on my goal
+	- Journal
+- Night Ritual
+	- Before having dinner, prepare for your next day
+	- Do a 10 Minutes stretching or Yoga
+	- Journal
+	- Read a book 
+	- Place your phone away and sleep

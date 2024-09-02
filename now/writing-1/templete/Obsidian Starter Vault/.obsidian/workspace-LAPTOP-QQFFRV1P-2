@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "ff7e7852af662eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfe805e71992074",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "💹Stock Market-LAPTOP-QQFFRV1P.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bd2ecf094720476",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de23a0b25e7f609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "599c9be38ba6fb7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0864ee018c01bf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "year",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.01219177246094
+  },
+  "right": {
+    "id": "4bf4c7ea2c67e9fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec17289e58ee815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abe090e15636173a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "💹Stock Market-LAPTOP-QQFFRV1P.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "561a5fe778baa5f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84fd8b268ad16463",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "💹Stock Market-LAPTOP-QQFFRV1P.md"
+              }
+            }
+          },
+          {
+            "id": "e4de6db86eea3e35",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b05c9072425e773",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9dfe805e71992074",
+  "lastOpenFiles": [
+    "💹Stock Market-LAPTOP-QQFFRV1P.md",
+    "🎯 My Goals/Short Books to Read.md",
+    "🎯 My Goals/🎯000 GOALS.md",
+    "Task Management in Amazing Marvin- A complete Setup tutorial.md",
+    "Dr. Yogi Vikasananda.md",
+    "✈️Fleeting Note.md",
+    "✍️Writing.md",
+    "💹Stock Market.md",
+    "You are taking notes the wrong way.md",
+    "Your mind has to be stronger than your feelings.md"
+  ]
+}

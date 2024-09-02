@@ -1,0 +1,42 @@
+---
+---
+**Source:**https://medium.com/mind-cafe/two-skills-have-made-me-a-time-billionaire-theyve-taken-a-lifetime-to-master-4870ab748a3b
+**Type:** #litnote 
+
+----
+- Time buys experiences. Experiences are the most important things
+- [[Say No More Often]]
+	- Want to help everybody. it crushes me when someone ghosts me. Saying "No" makes you an asshole. Not saying it the right way will ruin relationships
+	- You need ***Logical, polite, and kind 'NO'***
+	- Learn to say no from people smarter than you.
+	- How to say 'No' 
+		- 1. How to say no to a meeting — Naval Ravikant
+			- Hey {{ first_name }},
+			- Just want to be upfront, so I don’t waste your time because I value you [second half is my addition]
+			- I don’t do non-transactional meetings. I don’t do meetings without a strict agenda. I don’t do meetings unless we absolutely have to.- {Pax}
+		- How to say no on principle — Tim Ferriss
+			- John, thanks so much for reaching out and apologies for my delayed response.
+			- I have been trying to do too much of late, which makes it hard to keep up with correspondence. I also have to admit I am not good at saying no, because I enjoy meeting people and discussing new ideas.
+			- Unfortunately, the truth is that I am maxed out and need to take a step back.
+			- Over the next few months, I will not be taking any new calls or meetings outside of my existing commitments to my business, family and myself. This will give me the energy and time I need to complete some big projects (such as finishing my second book) and be more successful in reaching my most important goals.
+			-  This is my blanket policy until I am caught up.
+			- Thanks in advance for your understanding.
+		- How to say no to a written interview — James Clear
+			- Hi Pat,
+			- First, thank you so much for thinking of me for this opportunity! Unfortunately, my calendar is completely full right now so I’m not going to be able to do this.
+			- I can offer my work as an alternative. You are welcome to share quotes from Atomic Habits or my articles with your audience. I know this isn’t quite what you were hoping for, but I’d like to think that this work will be useful to your audience all the same.
+			- I’m sorry I don’t have better news. Thank you for understanding and I wish you continued success.
+		- How to say no to a phone call (keep things over email/DM) — Paul Graham
+			- Hey {{ first_name }},
+			- What do you want to talk about?
+		- How I say no to podcasts
+			- Hi,
+			-  It means a lot that you would ask and thanks for supporting my work.
+			- Unfortunately, the only format I do is written form. I’m not a great speaker so I stick to my strengths.
+			- Happy to recommend other guests that may be better suited.
+- ***The path to becoming a time billionaire***
+	- Make the other person feel good even when you say 'No'
+	- Time is the currency you want in life not money.
+	- Create templates from people who are smarter than you are. 
+- ***A request is an option, not an obligation.***
+- *If you knew tomorrow you’d die, you’d say no today. That’s the mindset that leads you to become a time billionaire.*

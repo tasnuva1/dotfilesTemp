@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# Define an array of URLs you want to open
+items=(
+    "https://www.amplenote.com/notes/c7453934-ce22-11ed-8871-76979436bcb1"
+    "https://news.ycombinator.com/"
+    "https://openhub.net/explore/projects?lang=rust"
+    "https://www.codetriage.com/?language=Rust"
+    "https://ovio.org/projects?skills=Rust"
+    "https://lib.rs/?ref=blog.meilisearch.com"
+    "https://www.oswc.is/search-projects"
+    "https://www.libhunt.com/l/rust"
+    "https://www.developer-tech.com/categories/developer-languages/developer-languages-rust/"
+    "https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+"
+)
+
+# todos: "All offical links for ferther learning [link]"
+# then extract the line value
+ 
+# Create a list of item names for dmenu
+items_list=$(printf "%s\n" "${items[@]}")
+
+# Print the final output
+selected_item=$(echo -e "$items_list" | dmenu -i -l 5 -p "Select an item:")
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+
+if [[ " ${items[*]} " =~ " $selected_item " ]]; then
+      "$chrome" --new-tab "$selected_item" &
+else
+    echo "Invalid selection"
+fi
+wait  # Because runing script window it's opening. 

@@ -1,0 +1,138 @@
+---
+---
+**Creator:** Jack Butcher
+**Price:** $149
+**Link:** [How to Visualize Value](https://visualizevalue.com/products/how-to-visualize-value)
+**Type:** #litnote  [[Courses]]
+**Topics:** [[Design]] [[Content Creation]]
+
+- ** Context setting**
+	- > "The world rewards people who are best at communicating ideas not those who have best ideas"-  David Perell
+	- Most of us are visual learners. **Visual communication has a huge leverage.** It creates massive opportunity and advantages. 
+	- Why create designs?
+		- **Good design makes things easier**
+		- Design organizes information visually to mkae it more readable, easier to understand and remember
+	- Don't create designs just for the sake of creating it.  Create for the sake of making things better.
+	- This course will teach you to  better articulate concepts visually and communicate more clearly
+- **Why visuals work?**
+	- You are limited by your ability to communicate ideas through images
+	- De-cliche ideas with images
+	- Don't try many fonts and design types. Build a brand with colors and designs.
+	- Make a decision to save a 1000 decisions.
+	- Don't spend your excessive energy on anythign that doesn't drive your craft forward.
+	- Don't get distracted with colors, backgrounds, typography and other stuff thats not really important. 
+	- Focus on you ideas more 
+	- Humans are very good at picking the transformational stories.
+	- Look for a transformation, a contrast, a beginning and an end, a before and after paradigm
+	- Visuals not only helps to add additional context to your ideas, it also makes your viewers reach conclusions faster and recall the idea better.
+	- Your brain processes images 15.6 times faster than text.
+	- When you see someone doing somethign, we figure out how to emulate it. 
+	- Showing is more important than explaining. 
+	- Visuals massively acceleratet the learning curve, and the adoption of the idea.
+	- Shared symbols
+- **Visualizing value**
+	- Visualizing value via symbols
+		- Symbols are a powerful way to reinforce a concept
+	- Visualizing value via comparison
+		- The ability to create contrast through comparison is one of the most powerful tools for visual creators
+	- Visualzing value via scale
+		- Scale is another tool to communicate ideas quickly.
+	- Visualizing value of service
+		- Use clear, concise, and descriptive language
+		- Leverage visuals to expand upon ideas
+		- Break down what you do into 'transformations'
+	- **Design Fundamentals**
+		- Designing a content system
+			- TRAIN
+				- Typography
+					- Pick your type face
+				- Restraint
+					- Use limited color palatte
+				- Alignment
+					- Establish geometrci relationships
+				- Image treatment
+					- Unify your images with a simple, consistent treatment
+				- Negative space
+					- Guide the eye by letting the elements breathe
+	- **The tools**
+		- typography
+		- Alt
+		- Shift alt
+		- shift
+		- fill, stroke
+	- **Google Fonts**
+		- https://fonts.google.com
+	- **Consistent content brands**
+		- Not many brands are leveraging the power of consistent content(look,feel, message, and frequency). You have the opportunity to implement the lessons and stand out.
+		- Use simple 2-color system
+		- Use consistent graphic approach
+		- Use  recognizable typeface
+		- use consistent style
+	- **Unsplash**
+		-  You can't use photos that you don't own. Unsplash is a great place for that
+		- Free, straightforward and completely safe to use.
+	- **Icons**
+		- Websites:
+			- https://thenounproject.com
+			- https://nucleoapp.com
+- **Publishing your work**
+	- 3 things to remember
+		- **want to break through the noise? be prolific**
+		- **You improve with repetition**
+			- *Everyone starts weak. Mastery comes with putting in the reps*
+		- ***Iteration > Invention***
+			- Focusing on single idea will pay dividends over time
+- **Bonus:**
+	- VV office hours:
+		- 67% of people love to learn with visuals. Viusals help your audience to understand the information
+		- Establishing visual leverage
+			- Charge more price
+			- Explain less in time
+			- Eliminate objections
+			- Eclipse competition
+			- Provide proof
+		- **Look for logic**:
+			- Sequences: 1,2,3,4,5
+			- Transformation: Before vs after
+			- Recipes: A+B+C=
+			- Hierchies: AAA,AA,A
+	- **Proof of Work:**
+		- Greatest lesson: **Nobody cares what you can do, everybody cares what you can do for them.**
+		- Helpful people are valued whereas self-serving people are ignored.
+		- **Come for sawust. Stay for mentorship**
+		- Show them don't tell them
+	- **Building a Profitable content ecosystem:**
+		- Product: "You will solve your problem."
+		- Productized service: "We will solve your problem together"
+		- Service: "I will solve your problem"
+		- *Create a product that solves a problem*
+			- Makes transformation
+			- Disconnected= connected(social)
+			- Struggling=stable(monetary)
+			- Anxious= assured(Psychological)
+			- Inefficient=efficient(functional)
+		- You have to reduce the friction between producing and publishing
+	- **Proving Your intellectual capital:**
+		- **How we learn:**
+			- *The world rewards people who are best at communicating ideas, not the people with the best ideas.*
+			- We are visual learning machine
+			- IMage recognigition is 1000x faster than word recognition
+			- You learn by jumping into the water and swimming, not by sitting in a classroom and studying aqua-dynamic theory. - Jeo mckenna
+			- If you can't explain it simply, you don't understand it enough.
+			- Intellectual capital is something that doesn't have tangible value but covers 80% of the total value. People, relationships, process, culture, etc
+		- How to increase intellectual capital
+			- If you are not creating visuals, you are missing a ton of opportunities.   
+			- Visual communication has a huge leverage
+				- Sequence
+				- Commonality
+				- Scale
+				- Gesturak data expression
+				- Progress
+				- Spectrum
+				- Contrast
+				- Known objects
+				- relationships
+			- Visual leverage
+				- What is necessary to show and what can be taken out without affecting what needs to be said?
+
+----

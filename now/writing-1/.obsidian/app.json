@@ -1,0 +1,15 @@
+{
+  "showInlineTitle": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true
+}

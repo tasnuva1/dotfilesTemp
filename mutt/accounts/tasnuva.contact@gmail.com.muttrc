@@ -1,0 +1,29 @@
+#  override any settings, set those in your .config muttrc.
+# all default settings in here /usr/local/share/mutt-wizard/mutt-wizard.muttrc
+
+# vim: filetype=neomuttrc
+# muttrc file for account tasnuva.contact@gmail.com
+set realname = "Fahmida Tasnuva"
+set from = "tasnuva.contact@gmail.com"
+set sendmail = "msmtp -a tasnuva.contact@gmail.com"
+alias me tasnuva.contact <tasnuva.contact@gmail.com>
+set folder = "/home/fahmida/.local/share/mail/tasnuva.contact@gmail.com"
+set header_cache = "/home/fahmida/.cache/mutt-wizard/tasnuva.contact_gmail.com/headers"
+set message_cachedir = "/home/fahmida/.cache/mutt-wizard/tasnuva.contact_gmail.com/bodies"
+set mbox_type = Maildir
+set hostname = "gmail.com"
+source /usr/local/share/mutt-wizard/switch.muttrc
+set spoolfile = "+INBOX"
+set postponed = "+Drafts"
+set trash = "+Trash"
+set record = "+Sent"
+
+macro index o "<shell-escape>mailsync tasnuva.contact@gmail.com<enter>" "sync tasnuva.contact@gmail.com"
+mailboxes "=INBOX" "=[Gmail]/All Mail" "=[Gmail]/Drafts" "=[Gmail]/Important" "=[Gmail]/Sent Mail" "=[Gmail]/Spam" "=[Gmail]/Starred" "=[Gmail]/Trash" 
+
+macro index \Cl "<search>from:updates-noreply@linkedin.com<enter>" "Saved Search: All Senders"
+macro index \Cs "<search>from:twir@rust-lang.org OR from:newsletter@libhunt.com<enter><sort-reverse-date>" "Saved Search: All Senders"
+
+# mailboxes "=INBOX" "=[Gmail]/All Mail" "=[Gmail]/Drafts" "=[Gmail]/Important" "=[Gmail]/Sent Mail" "=[Gmail]/Spam" "=[Gmail]/Starred" "=[Gmail]/Trash" "=[Gmail]/FormUpdate" "=[Gmail]/OpenSource" "=[Gmail]/Rust" "=[Gmail]/LinkedIn" "=[Gmail]/Webinar"
+alias family naimasultana0001@gmail.com, fahmidamashura@gmail.com
+

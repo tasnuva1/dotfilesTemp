@@ -1,0 +1,64 @@
+#!/bin/bash
+
+########################### For more visit: https://muslimsalat.com/api/#key ##################################
+# summary:
+# Today times:   (City, country, state)
+# https://muslimsalat.com/london.json?key=api_key 
+
+# Weekly times:    (weekly, monthly, yearly)
+# https://muslimsalat.com/london/weekly.json?key=api_key 
+
+# Next date weekly times:
+# https://muslimsalat.com/london/weekly/12-01-2013.json?key=api_key 
+
+# hours are incremented by 1+:    (True or false)
+# https://muslimsalat.com/london/weekly/12-01-2013/true.json?key=api_key 
+
+# which Muslim World League calculation method to use:
+# https://muslimsalat.com/london/weekly/12-01-2013/true/5.json?key=api_key 
+
+# Method:
+# 1 = Egyptian General Authority of Survey
+# 2 = University Of Islamic Sciences, Karachi (Shafi)
+# 3 = University Of Islamic Sciences, Karachi (Hanafi)
+# 4 = Islamic Circle of North America
+# 5 = Muslim World League
+# 6 = Umm Al-Qura
+# 7 = Fixed Isha
+
+############################################## SUMMARY DOC END ##############################################
+
+# API_URL="https://muslimsalat.com/dhaka.json?key=api_key"
+# API_URL="https://muslimsalat.com/dhaka/true/2.json?key=api_key"
+API_URL="https://muslimsalat.com/dhaka/2.json?key=api_key"
+
+response=$(curl -s "$API_URL")
+
+if [ -z "$response" ]; then
+  echo "Error: Failed to fetch data from the API."
+  exit 1
+fi
+
+# Parse the response using jq (make sure jq is installed)
+prayer_method_name=$(echo "$response" | jq '.prayer_method_name')
+city=$(echo "$response" | jq '.city')
+date=$(echo "$response" | jq '.items[0].date_for')
+fair=$(echo "$response" | jq '.items[0].fajr')
+sunrise=$(echo "$response" | jq '.items[0].shurooq')
+dhuhr=$(echo "$response" | jq '.items[0].dhuhr')
+asr=$(echo "$response" | jq '.items[0].asr')
+maghrib=$(echo "$response" | jq '.items[0].maghrib')
+isha=$(echo "$response" | jq '.items[0].isha')
+
+# Print the prayer times
+echo "'---------+---------+---------+---------+---------+---------+---------'"
+echo "Prayer method name: $prayer_method_name "
+echo "Today: $date"
+echo "City: $city"
+echo "Dawn / Fair: $fair 2"
+echo "Sunrise: $sunrise"
+echo "Forenoon / Dhuhr: $dhuhr"
+echo "Declining Afternoon / Asr: $asr"
+echo "Sunset / Maghrib: $maghrib 3"
+echo "Evening / Isha: $isha"
+echo "'---------+---------+---------+---------+---------+---------+---------'"

@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "65368f5325f7512a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd08d9c7b4f5ddbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dashboard.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7723b25c544b98e6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "80caed2b5ae33b1a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "694c2c1757e3280e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "14b42cd9adf52425",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f421c1e7ff960c3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "8dbd5ea765ac8ba7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Dashboard.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "cd08d9c7b4f5ddbc",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "Readwise/Books/2_5336938293428752297.pdf.md",
+    "Jared Tendler, M.S..md",
+    "Readwise/Books/How Will You Measure Your Life.md",
+    "Readwise/Books/The Brain That Changes Itself.md",
+    "Readwise/Books/The Four Agreements.md",
+    "Readwise/Books/The Mental Game of T... by Jared Tendler (z-lib.org).pdf.md",
+    "Readwise/Books/The Molecule of More How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race.md",
+    "Readwise/Books/Relentless.md",
+    "Readwise/Books/Talking to Strangers.md"
+  ]
+}

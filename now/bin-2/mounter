@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# Function to check if a directory is empty
+is_directory_empty() {
+    if [ -z "$(ls -A "$1")" ]; then
+        return 0 # Directory is empty
+    else
+        return 1 # Directory is not empty
+    fi
+}
+
+# Check if /mnt/3/ directory is empty
+if is_directory_empty "/mnt/3/"; then
+    sudo mount /dev/sda3 /mnt/3/
+else
+    echo "/mnt/3/ folder is not empty. Skipping mount for /dev/sda3."
+fi
+
+# Check if /mnt/4/ directory is empty
+if is_directory_empty "/mnt/4/"; then
+    sudo mount /dev/sda4 /mnt/4/
+else
+    echo "/mnt/4/ folder is not empty. Skipping mount for /dev/sda4."
+fi
+

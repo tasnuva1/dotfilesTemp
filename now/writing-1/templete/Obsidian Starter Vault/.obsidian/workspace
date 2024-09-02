@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "65368f5325f7512a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd0f4d040276525",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Thank You.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "239c2d2bfd9383d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "221d5ff95ec0dac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efce06f71170ac4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fafc29d9ceaa7ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.00793838500977
+  },
+  "right": {
+    "id": "ae8c1a88028f22aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f4a8cc8777c5912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1788078e34c13733",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thank You.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3747528a60c7d858",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Thank You.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4635f62ddc5a2be1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thank You.md"
+              }
+            }
+          },
+          {
+            "id": "01de2b2d69e7d1f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c9cf82a01c2883fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b5c0601696d3fac",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Thank You.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000018,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ddd0f4d040276525",
+  "lastOpenFiles": [
+    "Thank You.md",
+    "Dashboard.md",
+    "🌻References/Better Time Management.md",
+    "Productivity Trap.md",
+    "🍕 Fleeting Notes.md",
+    "Writing Ideas.md",
+    "🌻References/🧔Dr. Yogi Vikasananda.md",
+    "Notes to Process.md",
+    "Best Links on Writing.md",
+    "Reading List.md"
+  ]
+}

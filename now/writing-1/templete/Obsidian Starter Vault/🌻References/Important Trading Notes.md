@@ -1,0 +1,3 @@
+---
+---
+- [[Trading Plan Template That Made Me]]

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Mon, 16 Jan 2023 20:57:18 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="Mine">
+      <outline type="rss" text="Quiet Scheme" xmlUrl="https://quietscheme.com/rss.xml" htmlUrl="https://quietscheme.com"/>
+      <outline type="rss" text="The VeGen X Podcast" xmlUrl="https://vegenx.com/rss.xml" htmlUrl="https://vegenx.com"/>
+      <outline type="rss" text="The VeGen X Podcast - mp3 Feed" xmlUrl="https://vegenx.com/feed/mp3/rss.xml" htmlUrl="https://vegenx.com"/>
+      <outline type="rss" text="The Command Line" xmlUrl="https://thecommandline.net/rss.xml" htmlUrl="https://thecommandline.net"/>
+    </outline>
+    <outline text="Beer and Brewing">
+      <outline type="rss" text="American Homebrewers Association" xmlUrl="http://feeds.feedburner.com/AmericanHomebrewersAssociation" htmlUrl="https://www.homebrewersassociation.org"/>
+      <outline type="rss" text="BeerSmith Home Brewing" xmlUrl="http://feeds.feedburner.com/BeersmithcomHomeBrewingBlog" htmlUrl="https://beersmith.com/blog"/>
+      <outline type="rss" text="Beervana" xmlUrl="https://www.beervanablog.com/home?format=RSS" htmlUrl="https://www.beervanablog.com/"/>
+      <outline type="rss" text="Brewed in Maryland" xmlUrl="https://brewedinmaryland.com/feed/" htmlUrl="https://brewedinmaryland.com"/>
+      <outline type="rss" text="Brewed in Maryland" xmlUrl="https://brewedinmaryland.com/feed" htmlUrl="https://brewedinmaryland.com"/>
+      <outline type="rss" text="CraftBeer.com" xmlUrl="http://feeds.feedburner.com/craftbeercom" htmlUrl="https://www.craftbeer.com"/>
+      <outline type="rss" text="Frank About Beer" xmlUrl="https://frankaboutbeer.com/feed/" htmlUrl="https://frankaboutbeer.com"/>
+      <outline type="rss" text="RSS Feed" xmlUrl="http://www.dcbeer.com/rss" htmlUrl="http://www.dcbeer.com/rss-page"/>
+      <outline type="rss" text="Shut up about Barclay Perkins" xmlUrl="http://barclayperkins.blogspot.com/feeds/posts/default" htmlUrl="http://barclayperkins.blogspot.com/feeds/posts/"/>
+      <outline type="rss" text="Zythophile" xmlUrl="http://zythophile.co.uk/feed/" htmlUrl="http://zythophile.co.uk"/>
+      <outline type="rss" text="|Brülosophy|" xmlUrl="http://brulosophy.com/feed/" htmlUrl="http://brulosophy.com"/>
+    </outline>
+    <outline text="Comics">
+      <outline type="rss" text="David Revoy" xmlUrl="https://www.davidrevoy.com/feed/en/rss" htmlUrl="https://www.davidrevoy.com/"/>
+      <outline type="rss" text="Joshua Wright Dot Net" xmlUrl="https://joshuawright.net/rss_joshuawright.xml" htmlUrl="http://www.joshuawright.net"/>
+      <outline type="rss" text="Swords" xmlUrl="https://swordscomic.com/comic/feed/" htmlUrl="https://swordscomic.com/comic/"/>
+      <outline type="rss" text="The Awkward Yeti" xmlUrl="https://theawkwardyeti.com/feed/" htmlUrl="https://theawkwardyeti.com"/>
+      <outline type="rss" text="Wallace-the-brave" xmlUrl="https://www.gocomics.com/wallace-the-brave" htmlUrl="https://www.gocomics.com/wallace-the-brave"/>
+      <outline type="rss" text="Baldo" xmlUrl="https://www.gocomics.com/baldo" htmlUrl="https://www.gocomics.com/baldo"/>
+      <outline type="rss" text="Bignate" xmlUrl="https://www.gocomics.com/bignate" htmlUrl="https://www.gocomics.com/bignate"/>
+      <outline type="rss" text="Calvinandhobbes" xmlUrl="https://www.gocomics.com/calvinandhobbes" htmlUrl="https://www.gocomics.com/calvinandhobbes"/>
+      <outline type="rss" text="Fowl-language" xmlUrl="https://www.gocomics.com/fowl-language" htmlUrl="https://www.gocomics.com/fowl-language"/>
+      <outline type="rss" text="Foxtrot" xmlUrl="https://www.gocomics.com/foxtrot" htmlUrl="https://www.gocomics.com/foxtrot"/>
+      <outline type="rss" text="Grimmy - Today's Cartoon" xmlUrl="http://www.grimmy.com/RSS/todays_grimmy_cartoons.php" htmlUrl="http://www.grimmy.com/comics.php"/>
+      <outline type="rss" text="Lunarbaboon" xmlUrl="https://www.gocomics.com/lunarbaboon" htmlUrl="https://www.gocomics.com/lunarbaboon"/>
+      <outline type="rss" text="Pearlsbeforeswine" xmlUrl="https://www.gocomics.com/pearlsbeforeswine" htmlUrl="https://www.gocomics.com/pearlsbeforeswine"/>
+      <outline type="rss" text="Pickles" xmlUrl="https://www.gocomics.com/pickles" htmlUrl="https://www.gocomics.com/pickles"/>
+      <outline type="rss" text="Redandrover" xmlUrl="https://www.gocomics.com/redandrover" htmlUrl="https://www.gocomics.com/redandrover"/>
+      <outline type="rss" text="Roseisrose" xmlUrl="https://www.gocomics.com/roseisrose" htmlUrl="https://www.gocomics.com/roseisrose"/>
+      <outline type="rss" text="Saturday Morning Breakfast Cereal (updated daily)" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="https://www.smbc-comics.com/"/>
+      <outline type="rss" text="Wizardofid" xmlUrl="https://www.gocomics.com/wizardofid" htmlUrl="https://www.gocomics.com/wizardofid"/>
+      <outline type="rss" text="Wondermark" xmlUrl="https://www.gocomics.com/wondermark" htmlUrl="https://www.gocomics.com/wondermark"/>
+    </outline>
+    <outline text="Friends">
+      <outline type="rss" text="Cory Doctorow's craphound.com" xmlUrl="https://craphound.com/feed" htmlUrl="https://craphound.com"/>
+      <outline type="rss" text="Quinn Said" xmlUrl="http://www.quinnnorton.com/said/?feed=rss2" htmlUrl="https://www.quinnnorton.com/said"/>
+    </outline>
+    <outline text="High Noise">
+</outline>
+    <outline text="High Signal">
+      <outline type="rss" text="Ed Zitron's Where's Your Ed At" xmlUrl="https://ez.substack.com/feed" htmlUrl="https://ez.substack.com"/>
+      <outline type="rss" text="Letters from an American" xmlUrl="https://heathercoxrichardson.substack.com/feed" htmlUrl="https://heathercoxrichardson.substack.com"/>
+      <outline type="rss" text="Molly White" xmlUrl="https://blog.mollywhite.net/feed.xml" htmlUrl="https://blog.mollywhite.net/"/>
+      <outline type="rss" text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="Ars Technica" xmlUrl="http://arstechnica.com/feed/?t=7b7b2e02d7b8b61fdb5abff19600e976" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="Ars Technica » Law &amp; Disorder" xmlUrl="http://feeds.arstechnica.com/arstechnica/tech-policy?format=xml" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="O'Reilly Radar - Insight, analysis, and research about emerging technologies" xmlUrl="http://feeds.feedburner.com/oreilly/radar/atom" htmlUrl="https://www.oreilly.com"/>
+      <outline type="rss" text="Pluralistic: Daily links from Cory Doctorow" xmlUrl="https://pluralistic.net/feed/" htmlUrl="https://pluralistic.net"/>
+      <outline type="rss" text="Policy – Ars Technica" xmlUrl="http://arstechnica.com/tech-policy/feed/?t=7b7b2e02d7b8b61fdb5abff19600e976" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="ProPublica: Articles and Investigations" xmlUrl="http://feeds.propublica.org/propublica/main" htmlUrl="https://www.propublica.org/feeds/54Ghome"/>
+      <outline type="rss" text="Technology :: The Atlantic" xmlUrl="http://feeds.feedburner.com/AtlanticScienceAndTechnology" htmlUrl="http://feeds.feedburner.com/"/>
+      <outline type="rss" text="Technology Review RSS Feeds" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
+      <outline type="rss" text="The Intercept" xmlUrl="https://theintercept.com/feed/?lang=en" htmlUrl="https://theintercept.com"/>
+      <outline type="rss" text="The Lost Drive-In" xmlUrl="https://www.patreon.com/rss/darcythemailgirl?auth=fsEqrivkabpulw3OUHPysNElUsvXMzZj" htmlUrl="https://www.patreon.com/darcythemailgirl"/>
+      <outline type="rss" text="open..." xmlUrl="http://opendotdotdot.blogspot.com/feeds/posts/default" htmlUrl="http://opendotdotdot.blogspot.com/"/>
+    </outline>
+    <outline text="Low Noise">
+      <outline type="rss" text="The MoCo Show" xmlUrl="https://mocoshow.com/feed/" htmlUrl="https://mocoshow.com"/>
+      <outline type="rss" text="The Thunderbird Blog" xmlUrl="https://blog.thunderbird.net/feed/" htmlUrl="https://blog.thunderbird.net"/>
+      <outline type="rss" text="The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/"/>
+      <outline type="rss" text="BBC News - Technology" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
+      <outline type="rss" text="EETimes" xmlUrl="http://www.eetimes.com/rss_simple.asp" htmlUrl="https://www.eetimes.com"/>
+      <outline type="rss" text="EFF Updates" xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
+      <outline type="rss" text="ExtremeTech" xmlUrl="http://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com"/>
+      <outline type="rss" text="Techdirt" xmlUrl="http://www.techdirt.com/techdirt_rss.xml" htmlUrl="https://www.techdirt.com/"/>
+      <outline type="rss" text="Threatpost | The first stop for security news" xmlUrl="http://threatpost.com/feed" htmlUrl="https://threatpost.com"/>
+      <outline type="rss" text="Wired Top Stories" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="https://www.wired.com/latest"/>
+    </outline>
+    <outline text="Software Releases">
+      <outline type="rss" text="Release notes from CookCLI" xmlUrl="https://github.com/cooklang/CookCLI/releases.atom" htmlUrl="https://github.com/cooklang/CookCLI/releases"/>
+      <outline type="rss" text="Release notes from gitea" xmlUrl="https://github.com/go-gitea/gitea/releases.atom" htmlUrl="https://github.com/go-gitea/gitea/releases"/>
+      <outline type="rss" text="Release notes from neovide" xmlUrl="https://github.com/neovide/neovide/releases.atom" htmlUrl="https://github.com/neovide/neovide/releases"/>
+      <outline type="rss" text="Release notes from taskwarrior-tui" xmlUrl="https://github.com/kdheepak/taskwarrior-tui/releases.atom" htmlUrl="https://github.com/kdheepak/taskwarrior-tui/releases"/>
+      <outline type="rss" text="Release notes from neovim" xmlUrl="https://github.com/neovim/neovim/releases.atom" htmlUrl="https://github.com/neovim/neovim/releases"/>
+      <outline type="rss" text="Release notes from rust-analyzer" xmlUrl="https://github.com/rust-analyzer/rust-analyzer/releases.atom" htmlUrl="https://github.com/rust-analyzer/rust-analyzer/releases"/>
+      <outline type="rss" text="Release notes from zola" xmlUrl="https://github.com/getzola/zola/releases.atom" htmlUrl="https://github.com/getzola/zola/releases"/>
+      <outline type="rss" text="Release notes from InfiniTime" xmlUrl="https://github.com/InfiniTimeOrg/InfiniTime/releases.atom" htmlUrl="https://github.com/InfiniTimeOrg/InfiniTime/releases"/>
+    </outline>
+    <outline text="WFPBNO">
+      <outline type="rss" text="Fatfree Vegan Recipes" xmlUrl="https://feeds.feedburner.com/FatfreeVeganRecipes" htmlUrl="https://fatfreevegan.com"/>
+      <outline type="rss" text="Brand New Vegan" xmlUrl="https://www.brandnewvegan.com/feed" htmlUrl="https://www.brandnewvegan.com"/>
+    </outline>
+    <outline text="Programming">
+      <outline type="rss" text="Design, Digested by Silvia Maggi" xmlUrl="https://silviamaggidesign.com/newsletter.xml" htmlUrl="https://silviamaggidesign.com/newsletter/archive/"/>
+      <outline type="rss" text="TypeScript Weekly Archive Feed" xmlUrl="http://us14.campaign-archive1.com/feed?u=809daf9442ece0a92a3d65f99&amp;id=5693c0ed42" htmlUrl="https://us14.campaign-archive.com/feed?u=809daf9442ece0a92a3d65f99&amp;id=5693c0ed42"/>
+      <outline type="rss" text="Alarming Development" xmlUrl="http://alarmingdevelopment.org/?feed=rss2" htmlUrl="https://alarmingdevelopment.org"/>
+      <outline type="rss" text="De Programmatica Ipsum" xmlUrl="https://deprogrammaticaipsum.com/rss" htmlUrl="https://deprogrammaticaipsum.com"/>
+      <outline type="rss" text="Mozilla Hacks - the Web developer blog" xmlUrl="http://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org"/>
+      <outline type="rss" text="Ralf's Ramblings" xmlUrl="https://www.ralfj.de/blog/feed.xml" htmlUrl="https://www.ralfj.de/blog/"/>
+      <outline type="rss" text="RustSec Advisories" xmlUrl="https://rustsec.org/feed.xml" htmlUrl="https://rustsec.org/"/>
+      <outline type="rss" text="The Rust Programming Language Blog" xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+      <outline type="rss" text="This Week in Rust" xmlUrl="https://this-week-in-rust.org/atom.xml" htmlUrl="https://this-week-in-rust.org/"/>
+    </outline>
+    <outline text="Profession">
+      <outline type="rss" text="/\ndy" xmlUrl="http://feeds.feedburner.com/pragandy" htmlUrl="http://toolshed.com/"/>
+      <outline type="rss" text="HBR.org" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness" htmlUrl="http://feeds.harvardbusiness.org/"/>
+      <outline type="rss" text="Increment" xmlUrl="https://increment.com/feed.xml" htmlUrl="https://increment.com"/>
+      <outline type="rss" text="Marcus Blankenship" xmlUrl="https://marcusblankenship.com/feed/atom/" htmlUrl="https://marcusblankenship.com/feed/atom/"/>
+      <outline type="rss" text="Wait But Why" xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com"/>
+    </outline>
+  </body>
+</opml>

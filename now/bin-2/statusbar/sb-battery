@@ -1,0 +1,84 @@
+#!/bin/sh
+
+# Prints all batteries, their percentage remaining and an emoji corresponding
+# to charge status (🔌 for plugged up, 🔋 for discharging on battery, etc.).
+
+case $BLOCK_BUTTON in
+	3) notify-send "🔋 Battery module" "🔋: discharging
+🛑: not charging
+♻: stagnant charge
+🔌: charging
+⚡: charged
+❗: battery very low!
+- Scroll to change adjust xbacklight." ;;
+	4) xbacklight -inc 10 ;;
+	5) xbacklight -dec 10 ;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+# Loop through all attached batteries and format the info
+for battery in /sys/class/power_supply/BAT?*; do
+	# If non-first battery, print a space separator.
+	[ -n "${capacity+x}" ] && printf " "
+	# Sets up the status and capacity
+	case "$(cat "$battery/status" 2>&1)" in
+		"Full") status="⚡" ;;
+		"Discharging") status="🔋" ;;
+		"Charging") status="🔌" ;;
+		"Not charging") status="🛑" ;;
+		"Unknown") status="♻️" ;;
+		*) exit 1 ;;
+	esac
+	capacity="$(cat "$battery/capacity" 2>&1)"
+
+	battery_level_0=100
+	battery_level_1=95
+	battery_level_2=90
+	battery_level_3=80
+	battery_level_4=60
+	battery_level_5=50
+	battery_level_6=40
+	battery_level_7=30
+	battery_level_8=20
+
+	# Battary is charging && its equal to 95 && notifite me for 2 secoud && 95 file can not find then create 95 file && delete all files execpt 95 file
+
+	[ "$status" = "🔌" ] && [ "$capacity" -eq "$battery_level_0" ] && notify-send "Battery is $battery_level_0 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_0 && find /battary-log -type f -not -name $battery_level_0 -delete
+	[ "$status" = "🔌" ] && [ "$capacity" -eq "$battery_level_1" ] && notify-send "Battery is $battery_level_1 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_1 && find /battary-log -type f -not -name $battery_level_1 -delete
+	# [ "$status" = "🔌" ] && [ "$capacity" -eq "$battery_level_1" ] && notify-send "Battery is $battery_level_1 Now" -i "battery" -r 9991 && [ -f "/battary-log/$battery_level_1" ] || touch /battary-log/$battery_level_1 && find /battary-log -type f -not -name $battery_level_1 -delete
+	# [[ -f "/battary-log/$battery_level_1" ] || "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_1" ] && notify-send "Battery is $battery_level_1 Now" -i "battery" -w -t "60000" && touch /battary-log/$battery_level_1 && find /battary-log -type f -not -name $battery_level_1 -delete
+
+	# [ "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_2" ] && notify-send "Battery is $battery_level_2 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_2 && find /battary-log -type f -not -name $battery_level_2 -delete
+	[ "$status" = "🔌" ] && [ "$capacity" -eq "$battery_level_2" ] && notify-send "Battery is $battery_level_2 Now" -i "battery" -r 9991 && [ -f "/battary-log/$battery_level_2" ] || touch /battary-log/$battery_level_2 && find /battary-log -type f -not -name $battery_level_2 -delete
+
+	#####################################
+	# [ "$status" = "🔌" ] && [ "$capacity" -eq "$battery_level_3" ] && notify-send "Battery is $battery_level_3 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_3 && find /battary-log -type f -not -name $battery_level_3 -delete
+	##########################################
+	# [ -f "/battary-log/$battery_level_3" ] || [ "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_3" ] && notify-send "Battery is $battery_level_3 Now" -r 9991 -i "battery" && touch /battary-log/$battery_level_3 && find /battary-log -type f -not -name $battery_level_3 -delete
+
+#############################
+	[ "$status" = "🔋" ] &&  [ "$capacity" -eq "$battery_level_4" ] && notify-send "Battery is $battery_level_4 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_4 && find /battary-log -type f -not -name $battery_level_4 -delete
+
+	[ "$status" = "🔋" ] &&  [ "$capacity" -eq "$battery_level_5" ] && notify-send "Battery is $battery_level_5 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_5 && find /battary-log -type f -not -name $battery_level_5 -delete
+
+	# Battary is charging && its equal to 95 && notifite me for 2 secoud && create 95 file && delete all files execpt 95 file
+#############################
+
+	[ "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_6" ] && notify-send "Battery is $battery_level_6 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_6 && find /battary-log -type f -not -name $battery_level_6 -delete
+	# [ "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_6" ] && [ -f "/battary-log/$battery_level_6" ] || notify-send "Battery is $battery_level_6 Now" -r 9991 -i "battery" -w -t "60000" && touch /battary-log/$battery_level_6 && find /battary-log -type f -not -name $battery_level_6 -delete
+
+	[ "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_7" ] && notify-send "Battery is $battery_level_7 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_7 && find /battary-log -type f -not -name $battery_level_7 -delete
+	# [ "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_7" ] && notify-send "Battery is $battery_level_7 Now" -i "battery" -r 9991 && [ -f "/battary-log/$battery_level_7" ] || touch /battary-log/$battery_level_7 && find /battary-log -type f -not -name $battery_level_7 -delete
+
+	[ "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_8" ] && notify-send "Battery is $battery_level_8 Now" -i "battery" -r 9991 && touch /battary-log/$battery_level_8 && find /battary-log -type f -not -name $battery_level_8 -delete
+	# [ "$status" = "🔋" ] && [ "$capacity" -eq "$battery_level_8" ] && notify-send "Battery is $battery_level_8 Now" -i "battery" -r 9991 && [ -f "/battary-log/$battery_level_8" ] || touch /battary-log/$battery_level_8 && find /battary-log -type f -not -name $battery_level_8 -delete
+
+
+	# [ "$capacity" -le "$battery_level1" ] && [ $(find /battary-log -name "$battery_level1" | wc -w) = "0" ] && touch /battary-log/555
+
+	#  Will make a warn variable if discharging and low
+	[ "$status" = "🔋" ] && [ "$capacity" -le 25 ] && warn="❗"
+
+	# Prints the info
+	printf "%s%s%d%%" "$status" "$warn" "$capacity"; unset warn
+done && printf "\\n"

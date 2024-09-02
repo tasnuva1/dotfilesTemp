@@ -1,0 +1,208 @@
+# I Will Teach You to Be Time-Rich
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+[[ReadWise]]
+## Metadata
+- Author: [[forge.medium.com]]
+- Full Title: I Will Teach You to Be Time-Rich
+- Category: #articles
+- URL: https://forge.medium.com/sunbaking-on-the-sands-of-time-dacdb5366987
+
+## Highlights
+- I wasn’t over-committed, and I wasn’t inefficient. I wasn’t sick, but I wasn’t well. Or, if time is money — I wasn’t poor, but I wasn’t rich.
+- Ramit Sethi says that living the “rich life” is not about rationing your café visits, but taking the big wins like investing, earning a raise, marrying the right person, or whatever allows you to spend big on the things you enjoy.
+- What did it mean to be time-rich? I wanted to see time as an ally and to feel it as a rhythmic, benevolent force in my life. It came down to two factors:
+- Big rocks: I wanted to have time for the things that were most important for me
+- overfull. I wanted to have time for serendipity, adventures, spontaneity, and experiments. I called it the “golden ticket test”, in honour of my favourite childhood novel: if I found a golden ticket to a magic chocolate factory inside my Wonka Bar, could I immediately drop everything and seize the opportunity?
+- ️Manage energy (not time)
+- Consider how we talk about time: as if it’s a resource we can manage
+- But we can’t change the amount of time we have per week, nor the speed at which it passes.
+- Time is a natural phenomenon, like a river. And you’re cruising down that river, at a constant rate.
+- So time management has to be about more than doing stuff efficiently until you drop. It has to be about the journey — making the process meaningful or useful to us — and not only about getting somewhere (after all: the final destination is one of life’s few guarantees).
+- I realised that I couldn’t manage the river. But I could manage my vessel by being conscious about how I allocated my energy. I could become more efficient by following a rhythm of work and rest, steering my vessel with the flow as much as practical.
+- An uninterrupted period on one task tends to be more productive than the same amount of time spread through the day amidst various interruptions.
+- we are constantly allocating energy with our attention and can choose to give more attention to the bigger rocks in our lives.
+- Be a tortoise (not a bunny)
+- Not all to-dos are created equal, so I looked for leverage points.
+- “Slow is smooth, and smooth is fast.” — US Navy SEALS proverb
+- From simple checklists, processes, new habits, to principles (like these) and even a life philosophy or identity shift, there are actions you can take that will require extra time now, but will save you time in the long run.
+- Aim for enough (not perfect)
+- Nothing is static so don’t chase completion. Chase something else like impact, meaning, or just a good story.
+- “If everything seems under control, you’re not going fast enough.”
+## New highlights added March 27, 2022 at 7:03 AM
+- was fairly organised, so it seemed my temporal turmoil
+- stumble down the rabbit hole was considering what I wanted from
+- Big rocks: I wanted to have time for the things that were most important for me.
+- I will teach you to be time-rich
+- Once you scratch its dry surface, the subject of time management gets interesting… and deep.
+- we talk about time: as if it’s a resource we can manage. We make time for family taco night, kill time doom-scrolling TikTok on the tram, and save time by taking that totally safe shortcut through the abandoned cemetery. But we can’t change the amount of time we have per week, nor the speed at which it passes.
+- Time is a natural phenomenon, like a river. And you’re cruising down that river, at a constant rate. Whether you’re floating in an inner tube, tinnie in hand, or helmeted up in a kayak, we all follow the same trajectory of working, playing, and doing stuff… until we’re not.
+## New highlights added March 29, 2022 at 10:36 PM
+- Black time
+- Black time is like baseline health, and the tactics below are my daily best-practice prescription to most effectively use your everyday.
+- Power break
+- If time were health, being in the red is like bleeding out. Your priority is to bandage up, create breathing room and get some of your time back in the black. Read on for your first aid kit.
+- Renegotiate your agreements. Are there any deadlines you can push into the future, or projects for which you can hit the snooze button
+- Distributed cognition
+- You’re a post-millennial practitioner of productivity as it pertains to a plethora of pursuits, keeping busy like most modern mammals
+- The best financial advice for Elon Musk is going to be different from that for the dude flogging The Big Issue outside my local fruit shop
+- You are not a computer and context-switching costs you
+- It will force you to think about what’s important to you, come to terms with how committed your weeks are, find a sense of rhythm between work, rest and play, encourage consistency in habits and batch similar tasks into contexts
+- You’ll end up with a long list comprising unordered tasks, reminders, and half-baked ideas. But you’ll probably already feel lighter after this thorough mental purge.
+- Little wins
+- Mise en place (“everything in its place”)
+- Triage
+- have a place to put important information, outside your mind
+- we want to move slowly to move quickly — but not too slowly… huh
+- Starting here might look slightly like procrastination by organisation.
+- Take a tactical power break to top up your energy.
+- Plan your ideal week
+- What’s the quickest, easiest victory you can go after, right now? What’s the sound of one person high-fiving themselves? Winning gives you dopamine, and the beginning of a virtuous tortoise-rolling-down-a-hill snowballing of energy and achievement.
+- brain dump at least weekly, no matter what colour my time is.
+- In the red, you’re in a race against the clock.
+- “Your mind is a great place to have ideas, and a terrible place to hold them.” — David Allen
+- my ideal week features time blocks for client work (heavy thinking), admin work (light thinking), and even play sessions to help me turn chilling out into a true art form
+- The difference is that you’re organising only up to the point of lining everything up to cook up the next task on your list.
+- Working in a disorganised “kitchen” creates drag, but mise en place has other benefits.
+- Brain dump (aka mind-sweep)
+- Are you really too busy for a 10 minute Tim Tam slam? What if the time-out might make your next few hours more productive? Tortoise beats bunny.
+- procrasti-work [forbidden technique]
+- “What is urgent is seldom important and what is important is seldom urgent.” — Dwight David Eisenhower
+- Apart from simply enjoying the good life, the highest-leverage thing you can do will be some form of investment: activities that will yield compound interest on your time. I see two broad categories of investment: you can invest in efficiency or effectiveness.
+- Any big addictions or distractions? Are you a procrastinator, a multi-tasker, an over-committer or a people-pleaser?
+- Review
+- “trusted system”: do you feel comfortable “procrastinating on purpose” by putting everything other than what you’re doing right now into the system, to forget about and check later?
+- it turns procrastination into a productive pursuit: better to avoid work by doing other work, instead of calling beer o’clock at midday.
+- Do you have a final boss in your time management? A single key offender that accounts for 80% of your time woes?
+- . I may never be a morning person — however, I can structure my life to limit the damage done
+- you brain-dumped to get out of the red is a great starting point. Now organise it. Second Brain, Bullet Journal, commonplace book, Zettelkasten, Life OS, GTD, Playbook (my model)… your chosen approach doesn’t matter, as long as it’s complete enough that it’s what David Allen calls a
+- Time boss
+- This is like wellness: going beyond surviving and toward thriving.
+- Weekly or otherwise, simple or complex, a review of some kind allows us to adapt to new information, pausing our busy climbing to ensure the ladder’s leaning against the right wall.
+- Personal change is difficult enough without overcomplicating things by trying to change everything at once. So focus on the biggest leverage point you can.
+- . Overwhelmed by project A? Switch to project B and do some work on that, until you’re tired of it, then repeat.
+- I prepare everything the night before and avoid screens for an hour before bed to encourage quality rest
+- In the red, the answer is clear and urgent: there is a fire that needs extinguishing. But with more time comes more options. What’s the most important thing you could be doing right now? What would the tortoise do?
+- Systems
+- You’re coming to this article with a job or two, a goal or ten, various hobbies and projects.
+- The Weekly Review will sharpen your intuitive focus on your important projects as you deal with the flood of new input and potential distractions coming at you the rest of the week.” — David Allen
+- Golden (time-rich! 💰)
+- Have two or more projects on the go, and switch between them depending on where your energy/inspiration is.
+- Investing in efficiency is like financial investing: you spend time now to receive dividends on that time later.
+# I Will Teach You to Be Time-Rich
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+
+## Metadata
+- Author: [[forge.medium.com]]
+- Full Title: I Will Teach You to Be Time-Rich
+- Category: #articles
+- URL: https://forge.medium.com/sunbaking-on-the-sands-of-time-dacdb5366987
+
+## Highlights
+- I wasn’t over-committed, and I wasn’t inefficient. I wasn’t sick, but I wasn’t well. Or, if time is money — I wasn’t poor, but I wasn’t rich.
+- Ramit Sethi says that living the “rich life” is not about rationing your café visits, but taking the big wins like investing, earning a raise, marrying the right person, or whatever allows you to spend big on the things you enjoy.
+- What did it mean to be time-rich? I wanted to see time as an ally and to feel it as a rhythmic, benevolent force in my life. It came down to two factors:
+- Big rocks: I wanted to have time for the things that were most important for me
+- overfull. I wanted to have time for serendipity, adventures, spontaneity, and experiments. I called it the “golden ticket test”, in honour of my favourite childhood novel: if I found a golden ticket to a magic chocolate factory inside my Wonka Bar, could I immediately drop everything and seize the opportunity?
+- ️Manage energy (not time)
+- Consider how we talk about time: as if it’s a resource we can manage
+- But we can’t change the amount of time we have per week, nor the speed at which it passes.
+- Time is a natural phenomenon, like a river. And you’re cruising down that river, at a constant rate.
+- So time management has to be about more than doing stuff efficiently until you drop. It has to be about the journey — making the process meaningful or useful to us — and not only about getting somewhere (after all: the final destination is one of life’s few guarantees).
+- I realised that I couldn’t manage the river. But I could manage my vessel by being conscious about how I allocated my energy. I could become more efficient by following a rhythm of work and rest, steering my vessel with the flow as much as practical.
+- An uninterrupted period on one task tends to be more productive than the same amount of time spread through the day amidst various interruptions.
+- we are constantly allocating energy with our attention and can choose to give more attention to the bigger rocks in our lives.
+- Be a tortoise (not a bunny)
+- Not all to-dos are created equal, so I looked for leverage points.
+- “Slow is smooth, and smooth is fast.” — US Navy SEALS proverb
+- From simple checklists, processes, new habits, to principles (like these) and even a life philosophy or identity shift, there are actions you can take that will require extra time now, but will save you time in the long run.
+- Aim for enough (not perfect)
+- Nothing is static so don’t chase completion. Chase something else like impact, meaning, or just a good story.
+- “If everything seems under control, you’re not going fast enough.”
+- was fairly organised, so it seemed my temporal turmoil
+- stumble down the rabbit hole was considering what I wanted from
+- Big rocks: I wanted to have time for the things that were most important for me.
+- I will teach you to be time-rich
+- ️Manage energy (not time)
+- Once you scratch its dry surface, the subject of time management gets interesting… and deep.
+- we talk about time: as if it’s a resource we can manage. We make time for family taco night, kill time doom-scrolling TikTok on the tram, and save time by taking that totally safe shortcut through the abandoned cemetery. But we can’t change the amount of time we have per week, nor the speed at which it passes.
+- Time is a natural phenomenon, like a river. And you’re cruising down that river, at a constant rate. Whether you’re floating in an inner tube, tinnie in hand, or helmeted up in a kayak, we all follow the same trajectory of working, playing, and doing stuff… until we’re not.
+- Be a tortoise (not a bunny)
+- Black time
+- Black time is like baseline health, and the tactics below are my daily best-practice prescription to most effectively use your everyday.
+- Power break
+- If time were health, being in the red is like bleeding out. Your priority is to bandage up, create breathing room and get some of your time back in the black. Read on for your first aid kit.
+- Renegotiate your agreements. Are there any deadlines you can push into the future, or projects for which you can hit the snooze button
+- Distributed cognition
+- You’re a post-millennial practitioner of productivity as it pertains to a plethora of pursuits, keeping busy like most modern mammals
+- The best financial advice for Elon Musk is going to be different from that for the dude flogging The Big Issue outside my local fruit shop
+- You are not a computer and context-switching costs you
+- It will force you to think about what’s important to you, come to terms with how committed your weeks are, find a sense of rhythm between work, rest and play, encourage consistency in habits and batch similar tasks into contexts
+- You’ll end up with a long list comprising unordered tasks, reminders, and half-baked ideas. But you’ll probably already feel lighter after this thorough mental purge.
+- Little wins
+- Mise en place (“everything in its place”)
+- Triage
+- have a place to put important information, outside your mind
+- we want to move slowly to move quickly — but not too slowly… huh
+- Starting here might look slightly like procrastination by organisation.
+- Take a tactical power break to top up your energy.
+- Plan your ideal week
+- What’s the quickest, easiest victory you can go after, right now? What’s the sound of one person high-fiving themselves? Winning gives you dopamine, and the beginning of a virtuous tortoise-rolling-down-a-hill snowballing of energy and achievement.
+- brain dump at least weekly, no matter what colour my time is.
+- In the red, you’re in a race against the clock.
+- “Your mind is a great place to have ideas, and a terrible place to hold them.” — David Allen
+- my ideal week features time blocks for client work (heavy thinking), admin work (light thinking), and even play sessions to help me turn chilling out into a true art form
+- The difference is that you’re organising only up to the point of lining everything up to cook up the next task on your list.
+- Working in a disorganised “kitchen” creates drag, but mise en place has other benefits.
+- Brain dump (aka mind-sweep)
+- Are you really too busy for a 10 minute Tim Tam slam? What if the time-out might make your next few hours more productive? Tortoise beats bunny.
+- procrasti-work [forbidden technique]
+- “What is urgent is seldom important and what is important is seldom urgent.” — Dwight David Eisenhower
+- Apart from simply enjoying the good life, the highest-leverage thing you can do will be some form of investment: activities that will yield compound interest on your time. I see two broad categories of investment: you can invest in efficiency or effectiveness.
+- Any big addictions or distractions? Are you a procrastinator, a multi-tasker, an over-committer or a people-pleaser?
+- Review
+- “trusted system”: do you feel comfortable “procrastinating on purpose” by putting everything other than what you’re doing right now into the system, to forget about and check later?
+- it turns procrastination into a productive pursuit: better to avoid work by doing other work, instead of calling beer o’clock at midday.
+- Do you have a final boss in your time management? A single key offender that accounts for 80% of your time woes?
+- . I may never be a morning person — however, I can structure my life to limit the damage done
+- you brain-dumped to get out of the red is a great starting point. Now organise it. Second Brain, Bullet Journal, commonplace book, Zettelkasten, Life OS, GTD, Playbook (my model)… your chosen approach doesn’t matter, as long as it’s complete enough that it’s what David Allen calls a
+- Time boss
+- This is like wellness: going beyond surviving and toward thriving.
+- Weekly or otherwise, simple or complex, a review of some kind allows us to adapt to new information, pausing our busy climbing to ensure the ladder’s leaning against the right wall.
+- Personal change is difficult enough without overcomplicating things by trying to change everything at once. So focus on the biggest leverage point you can.
+- . Overwhelmed by project A? Switch to project B and do some work on that, until you’re tired of it, then repeat.
+- I prepare everything the night before and avoid screens for an hour before bed to encourage quality rest
+- In the red, the answer is clear and urgent: there is a fire that needs extinguishing. But with more time comes more options. What’s the most important thing you could be doing right now? What would the tortoise do?
+- Systems
+- You’re coming to this article with a job or two, a goal or ten, various hobbies and projects.
+- The Weekly Review will sharpen your intuitive focus on your important projects as you deal with the flood of new input and potential distractions coming at you the rest of the week.” — David Allen
+- Golden (time-rich! 💰)
+- Have two or more projects on the go, and switch between them depending on where your energy/inspiration is.
+- Investing in efficiency is like financial investing: you spend time now to receive dividends on that time later.
+- Having some good friends, or being involved in a local scene doesn’t earn a bullet point in many management e-books, but it creates unexpected efficiencies, opportunities and forward motion. Most things are easier, not to mention more fun, in a group.
+- You protected and maintained your energy with habits like good sleep, good food, and physical activity.
+- Deliberate practice
+- Some of the “systems” I’ve most impactfully built or improved on have been my morning routine, weekly review checklist (discussed earlier) and social circle
+- Investing in effectiveness means expanding your capacity.
+- And going deep will often win out against going wide in the long run. Mastering a few core areas (and having a few deep relationships) is higher leverage than being a Jack/Jill of all trades.
+## New highlights added March 31, 2022 at 8:38 PM
+- Physical practice
+- Not sporty or into exercise? Take up pole dancing, join the football club, learn to fight… the best exercise for you is the one you’ll actually do, so exercise on your own terms
+- if you’re allergic to tiny rooms full of other people’s sweat, go surfing instead. Making it social helps.
+- Stillness practice
+- It is literally just training one’s attention, so it will directly increase your capacity for doing stuff effectively. Like physical activity, the “best” modality is the one you follow through on: if you can’t stand the idea of sitting in the lotus position for 10 minutes, go for a no-technology-allowed nature walk.
+- Retreat
+- Take an extended power break as much as possible (I aim for once per year, although once per quarter might be better if you can swing it), to “sharpen the saw”.
+- Time rules
+- I’m making time for what’s important, which includes writing every day. In two short respites from lockdown conditions, I’ve taken two very well-timed holidays interstate with friends, so I’m cashing those golden tickets too.
+- If you’re a note-taker/rule-maker, use them as a thought starter and modify them to suit yourself.
+- Start strong with a morning routine: brief, move, coffee
+- End strong with an evening routine: debrief, unplug, relax
+- Spend one hour in the gold (for me, writing) as early as possible
+- Do first things first: business and deadlines before pleasure. Aim to get to a place where I can completely relax in the evening.
+- Be a “No” man: Is it essential? Is it exciting? If it’s not a “hell yeah”, it’s a “no”. Corollary: it’s alright to say no to everything and “do nothing”.
+- Keep my energy up with short regular breaks and exercise every day (even if only a 4-minute Tabata or kettlebell swings)
+- Protect my energy: avoid multi-tasking, rushing, and work “heroics”.
+- Manage time, not people: be willing and able to drop everything for friends in need.
+- Aim for rhythm. Work hard now so I can fully relax tonight. Make Monday organised so Saturday can be wild.

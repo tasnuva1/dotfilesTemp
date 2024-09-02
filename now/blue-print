@@ -1,0 +1,121 @@
+#!/bin/bash
+
+# command;command;command # run command one after the another
+echo "setup and config"
+
+prosses_runing=48
+file_name=config.yaml
+echo "file name: $file_name"
+
+current_files=$(ls -la) # exicute and stores
+ 
+condition=$(test -d "connfig") # test short notation [ ... ]
+echo "the condition $condition"
+
+########## Logic based on condiftion #########
+# -b (block special file) -c (character) -d -f (normal) -g (set GID) -u (UID) -s (0 size) -r -w -x -k (sticky bit) -p 
+
+# if [  -d "config" ] # if name of that dir exites 
+if test -d "config"; # test short notation [ ... ]
+then 
+  echo "reading config dir"
+  config_files=$(ls config)
+else
+  echo "config dir is not found, creating one"
+  mkdir config
+fi
+
+# if test -d "config" # test short notation [ ... ]
+# -eq -ne (not eq) -gt -lt -ge -le 
+if [ "$prosses_runing" -eq 20 ];
+then 
+  echo "this is something.txt"
+elif [[ "$file_name" == "config.js" ]];  
+then
+  echo "this is config.js"
+elif [ "$file_name" = "config.js" ];  
+then
+  echo "this is config.js"
+else
+  echo "non mathch"
+fi
+
+echo "Here are all the config files: $config_files "
+# == is BASH espacific and = is POSIX standerd meaning it's cross compatible for all shell programs
+
+echo "something starting"
+read -p "please enter your password: " user_pwd # -p (prompt)
+echo "thanks for your password. this you're password now: $user_pwd"
+
+echo "all params that you wrote: $*"
+echo "number of params: $#"
+
+######## LOOPS ########
+# while, for, until, select
+# Loop through list
+for params in $*
+do
+  echo "this is: $params"
+done
+
+cd config
+all_file=$(ls)
+for file in $all_file
+do
+  echo "this is file: $file"
+done
+
+# Looping as long as condition is true then if break
+sum=0
+while [ true ] 
+do
+  read -p "enter your score: " score 
+
+  if [ "$score" == "q" ]
+  then
+    break 
+  fi
+
+  sum=$(($sum+$score))
+  echo "Current total score is: $sum"
+done
+
+# [] is POSIX and [[]] is BASH meaning variable doesn't need ""
+
+######### Function ########
+function sum() {
+  total=$(($1+$2)) # sum function arguments
+  return $total
+}
+
+sum 934 59
+result=$? # stores last command returned value
+
+echo "sum of 934 and 59 is $result"
+
+##############
+case $COUNTRY in
+
+  Lithuania)
+    echo -n "Lithuanian"
+    ;;
+
+  Romania | Moldova)
+    echo -n "Romanian"
+    ;;
+
+  Italy | "San Marino" | Switzerland | "Vatican City")
+    echo -n "Italian"
+    ;;
+
+  *)
+    echo -n "unknown"
+    exit 1
+    ;;
+esac
+
+############### syntax ##############
+sussed && echo "if sussed this will print" 
+falied || echo "if falied this will print"
+paralal & echo "rendom exicution"
+done ; echo "run one after the other. Wayther it's failed or not"

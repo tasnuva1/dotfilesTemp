@@ -1,0 +1,25 @@
+#!/bin/sh
+
+# This file runs when a DM logs you into a graphical session.
+# If you use startx/xinit like a Chad, this file will also be sourced.
+
+xrandr --dpi 96		# Set DPI. --> 96 User may want to use a larger number for larger screens. It set your display size, refresh rates, and orientation
+
+#### you can add command with set key binding - For that a package to start. Like sxhkd &
+
+setbg &			# set the background with the `setbg` script
+# xwallpaper --zoom ~/.local/share/bg/wall-3.png
+
+xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/xresources & xrdbpid=$!	# Uncomment to use Xresources colors/settings on startup --- I changed
+
+# It should auto run, if it's not running with || then run the commends
+autostart="mpd xcompmgr dunst unclutter pipewire remapd"
+
+for program in $autostart; do
+	pidof -sx "$program" || "$program" &
+done >/dev/null 2>&1
+
+# Ensure that xrdb has finished running before moving on to start the WM/DE - window manager or disktop enverment. Althourgh this script is missting.
+[ -n "$xrdbpid" ] && wait "$xrdbpid" && # checks if $xrdbpid variable is empty or not, if is then wait for xrdbpid variable to be set.  
+
+# st -e bash -c "current-2" && # not working

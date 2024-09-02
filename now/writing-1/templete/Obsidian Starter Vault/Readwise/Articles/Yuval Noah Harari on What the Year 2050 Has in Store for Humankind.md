@@ -1,0 +1,78 @@
+# Yuval Noah Harari on What the Year 2050 Has in Store for Humankind
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+#done 
+## Metadata
+- Author: [[wired.co.uk]]
+- Full Title: Yuval Noah Harari on What the Year 2050 Has in Store for Humankind
+- Category: #articles
+- URL: https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century
+
+## Highlights
+- "As the pace of change increases, **the very meaning of being human is likely to mutate and physical and cognitive structures will melt**"
+- - **the best skill to teach children is reinvention.**
+- Humankind is facing unprecedented revolutions, all our old stories are crumbling and no new story has so far emerged to replace them
+- **What should we teach that baby that will help him or her survive and flourish in the world of 2050 or of the 22nd century**
+- since nobody knows how the world will look in 2050 – not to mention 2100 – we don’t know the answer to these questions
+- But today it is more difficult than ever before, **because once technology enables us to engineer bodies, brains and minds, we can no longer be certain about anything – including things that previously seemed fixed and eternal**
+- We don’t know what people will do for a living, we don’t know how armies or bureaucracies will function, and we don’t know what gender relations will be like
+- Much of what kids learn today will likely be irrelevant by 2050.
+- too many schools focus on cramming information.
+- In the past this made sense, because information was scarce, and even the slow trickle of existing information was repeatedly blocked by censorship
+- There was no radio, television, daily newspapers or public libraries
+- Even if you were literate and had access to a private library, there was not much to read other than novels and religious tract
+- When modern schools came along, teaching every child to read and write and imparting the basic facts of geography, history and biology, they represented an immense improvement.
+- in the 21st century we are flooded by enormous amounts of information, and even the censors don’t try to block it. Instead, they are busy spreading misinformation or distracting us with irrelevancies.
+- People all over the world are but a click away from the latest accounts of the bombardment of Aleppo or of melting ice caps in the Arctic, but there are so many contradictory accounts that it is hard to know what to believe
+- In such a world, the last thing a teacher needs to give her pupils is more information
+- They assumed that as long as we give students lots of data and a modicum of freedom, the students will create their own picture of the world, and even if this generation fails to synthesise all the data into a coherent and meaningful story of the world, there will be plenty of time to construct a good synthesis in the future.
+- We have now run out of time
+- The decisions we will take in the next few decades will shape the future of life itself, and we can take these decisions based only on our present world view.
+- we have no idea how the world and the job market will look in 2050, we don’t really know what particular skills people will need.
+- Many pedagogical experts argue that schools should switch to teaching “the four Cs” – critical thinking, communication, collaboration and creativity.
+- Most important of all will be the ability to deal with change, to learn new things and to preserve your mental balance in unfamiliar situations
+- you will need not merely to invent new ideas and products – you will above all need to reinvent yourself again and again
+- For as the pace of change increases, not just the economy, but the very meaning of “being human” is likely to mutate
+- By 2048, physical and cognitive structures will also melt into air, or into a cloud of data bits.
+- You just wait for an algorithm to find (or create) the perfect match for you.
+- Please don’t take this scenario literally. Nobody can really predict the specific changes we will witness
+- If somebody describes to you the world of the mid-21st century and it sounds like science fiction, it is probably false
+- But then if somebody describes to you the world of the mid 21st-century and it doesn’t sound like science fiction – it is certainly false
+- We cannot be sure of the specifics, but change itself is the only certainty.
+- Even if at 15 you spent most of your day working in the family’s rice field (rather than in a formal school), the most important thing you were doing was learning: how to cultivate rice, how to conduct negotiations with the greedy rice merchants from the big city and how to resolve conflicts over land and water with the other villagers
+- even at 50 you continued to learn new things about rice, about merchants and about conflicts, but these were just small tweaks to well-honed abilities
+- Life will come apart at the seams, and there will be less and less continuity between different periods of life. “Who am I?” will be a more urgent and complicated question than ever before.
+- growing, your mind is developing, your relationships are deepening. Everything is in flux, and everything is new. You are busy inventing yourself. Most teenagers find it frightening, but at the same time, also exciting.
+- time you are 50, you don’t want change, and most people have given up on conquering the world.
+- The harder you’ve worked on building something, the more difficult it is to let go of it and make room for something new. You might still cherish new experiences and minor adjustments, but most people in their fifties aren’t ready to overhaul the deep structures of their identity and personalityE.
+- Reconnecting neurons and rewiring synapses is damned hard work
+- There are neurological reasons for this. Though the adult brain is more flexible and volatile than was once thought, it is still less malleable than the teenage brain.
+- If you try to hold on to some stable identity, job or world view, you risk being left behind as the world flies by you with a whooooosh.
+- To stay relevant – not just economically, but above all socially – you will need the ability to constantly learn and to reinvent yourself, certainly at a young age like 50.
+- Humans as individuals and humankind as a whole will increasingly have to deal with things nobody ever encountered before, such as super-intelligent machines, engineered bodies, algorithms that can manipulate your emotions with uncanny precision, rapid man-made climate cataclysms, and the need to change your profession every decade
+- Unfortunately, teaching kids to embrace the unknown and to keep their mental balance is far more difficult than teaching them an equation in physics or the causes of the first world war.
+- The teachers themselves usually lack the mental flexibility that the 21st century demands, for they themselves are the product of the old educational system.
+- The Industrial Revolution has bequeathed us the production-line theory of education
+- One of them tells you about the shape of the Earth, another tells you about the human past, and a third tells you about the human body. It is easy to laugh at this model, and almost everybody agrees that no matter its past achievements, it is now bankrupt.
+- But so far we haven’t created a viable alter- native. Certainly not a scaleable alternative that can be implemented in rural Mexico rather than just in upmarket California suburbs.
+- So the best advice I could give a 15-year-old stuck in an outdated school somewhere in Mexico, India or Alabama is: don’t rely on the adults too much.
+- Most of them mean well, but they just don’t understand the world
+- In the past, it was a relatively safe bet to follow the adults, because they knew the world quite well, and the world changed slowl
+- But the 21st century is going to be different. Due to the growing pace of change, you can never be certain whether what the adults are telling you is timeless wisdom or outdated bias.
+- Technology can help you a lot, but if technology gains too much power over your life, you might become a hostage to its agenda.
+- So on what can you rely instead? Technology? That’s an even riskier gamble.
+- Technology isn’t bad. If you know what you want in life, technology can help you get it.
+- But if you don’t know what you want in life, it will be all too easy for technology to shape your aims for you and take control of your life.
+- Especially as technology gets better at understanding humans, you might increasingly find yourself serving it, instead of it serving you
+- Have you seen those zombies who roam the streets with their faces glued to their smartphones? Do you think they control the technology, or does the technology control them
+- As biotechnology and machine learning improve, it will become easier to manipulate people’s deepest emotions and desires, and it will become more dangerous than ever to just follow your heart
+- To succeed in such a daunting task, you will need to work very hard on getting to know your operating system better
+- know thyself
+- For thousands of years, philosophers and prophets have urged people to know themselves
+- Coca-Cola, Amazon, Baidu and the government are all racing to hack you.
+- Not your smartphone, not your computer, and not your bank account – they are in a race to hack you, and your organic operating system.
+- we are living in the era of hacking humans.
+- The algorithms are watching you right now. They are watching where you go, what you buy, who you meet. Soon they will monitor all your steps, all your breaths, all your heartbeats
+- you might be perfectly happy ceding all authority to the algorithms and trusting them to decide things for you and for the rest of the world. If so, just relax and enjoy the ride. You don’t need to do anything about it. The algorithms will take care of everything
+- If, however, you want to retain some control of your personal existence and of the future of life, you have to run faster than the algorithms, faster than Amazon and the government, and get to know yourself before they do
+- To run fast, don’t take much luggage with you. Leave all your illusions behind. They are very heavy.

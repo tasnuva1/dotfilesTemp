@@ -1,0 +1,64 @@
+---
+---
+**Source:** https://blog.samaltman.com/how-to-be-successful
+**Type:** #litnote 
+
+----
+- Everything becomes easier when you reach the baseline degree of success and want to shine from there
+- Compound yourself
+	- Exponential curves
+	- Do things that have extreme scalability
+	- Be a exponential curve yourself
+	- Do things that have compounding effects
+- Self-belief
+	- Balanced with awareness
+	- believe in yourself to the point of delusion
+	- Seek truth
+- Think independently
+	- Think original
+	- Noone teaches this
+	- Thinking from the first principles
+- Get good at 'sales'
+	- Ability to convince others what you believe
+	- Communicate clearly. Use plain, concise language
+	- Like any other skills, you can get good at it
+- ***Make it easy to take risks***
+	- People overestimate risk and underestimate reward
+	- The earlier you take risks , the higher potential you have to gain
+	- Its hard to live once you have a comfortable life. 
+	- Life is all risky. Not about not taking risks but reducing risks
+- FOCUS
+	- Force multiplier
+	- Work on right thing than wasting time on stuff that doesn't matter
+	- Be unstoppable once you know what to work on
+- Work hard
+	- Nothing can be achieved without hard work
+	- Work hard
+	- Put twice as work as others
+	- Extreme people get extreme results
+- Be bold
+	- Others associate with things that are exciting and adventerous
+	- Making progress on important problem, you will attract peole
+	- Follow your curiosity. Work on what you want to
+- Be Willful
+	- You can bend the world to your will a surprising percentage of time
+	- Most don't try
+	- Don't give up early, don't self-doubt. DonPush hard
+	- Be willful, be optimistic
+- Be HARD TO COMPETE WITH
+	- Do things that only you can do and noone else can do
+	- If you do what everyone else can do, you are easy to replace with
+	- Build leverage
+	- Build personal relationship
+	- Get good across multiple domains
+- Build a Network
+	- Develop reputation for taking care of people you work with
+	- Define yourself by your strengts, not weakness
+- Get RICH by owning things
+	- People don't get rich from salaries. Thats the biggest misunderstanding. There might be exceptions. No one ever has got rich with salary.
+	- Get rich by owning things that increase rapidly in value
+- Be INTERNALLY DRIVEN
+	- Don't do things to impress people
+	- Do work to impress yourself
+	- Do things that are important to you
+	- You will never be wildly successful in areas, you are not obsessed with. 

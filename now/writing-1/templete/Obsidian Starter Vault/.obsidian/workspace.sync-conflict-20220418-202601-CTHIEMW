@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "ee5f9bb350d7a03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1761a96e5d07a22d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c324bb9351a4fa31",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🌻References/& Can't Hurt Me Master Your Mind & Defy the Odds.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "ad9bd49382863575",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MIstakes I Made in Trading.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85e2cbbf9d7ec5b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e0a1d40f966c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8adaaf526235db5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3edec9ee378e59c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abd24d24c07c7910",
+    "type": "split",
+    "children": [
+      {
+        "id": "a32dae8b2984ffe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1851f4d482dd6dc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aeea1acd34edae84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MIstakes I Made in Trading.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fde7b0dbfe6664e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MIstakes I Made in Trading.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7732be00dff64456",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7c596939d3395ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MIstakes I Made in Trading.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad9bd49382863575",
+  "lastOpenFiles": [
+    "MIstakes I Made in Trading.md",
+    "🌻References/& Can't Hurt Me Master Your Mind & Defy the Odds.md",
+    "Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md",
+    "🍕 Fleeting Notes.md",
+    "Forestry Bloq.md",
+    "🌻References/📕Quotes Worth Reading.md",
+    "TRADING NOTES.md",
+    "Crypto Traders on Twitter.md",
+    "Crypto Analysis.md",
+    "Notes to Process.md"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "ee5f9bb350d7a03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54144d59f2d13e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🌻References/Writing Courses That Had The Most Impact  on My Writing.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1a06037b91c584e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a9f25b15e8ec45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbdb984596279dc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df654b4dbaf03cb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68bbe10696117c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "266154d8511d4f89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b22aeedb909f281",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f687fd5197c9fcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🌻References/Writing Courses That Had The Most Impact  on My Writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72a1a03fd3c464b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌻References/Writing Courses That Had The Most Impact  on My Writing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f99ed28da2294b87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dad9b7e19338ea1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🌻References/Writing Courses That Had The Most Impact  on My Writing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f54144d59f2d13e7",
+  "lastOpenFiles": [
+    "🌻References/Writing Courses That Had The Most Impact  on My Writing.md",
+    "Dashboard.md",
+    "☀️Reflect/Goals/Publish 100 Articles on Medium.md",
+    "Jesse livermore.md",
+    "🍀Permanent Notes/Why friends and family won't support you.md",
+    "DON'T SET FREE TIME.md",
+    "Crypto Journal.md",
+    "Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md",
+    "Readwise/Books/The Molecule of More How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race.md",
+    "Reading List.md"
+  ]
+}

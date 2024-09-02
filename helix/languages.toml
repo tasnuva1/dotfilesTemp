@@ -1,0 +1,109 @@
+# [[language]]
+# name = "markdown"
+# language-server = { command = "/home/fahmida/.local/share/cargo/bin/mdpls" }
+
+ # config = { markdown.preview.auto = true, markdown.preview.browser = "google-chrome-stable" }
+ # language-servers = [ "marksman" ]
+ # language-server = { command = "/usr/bin/marksman" }
+
+
+
+#[[language]]
+#name = "markdown"
+#language-server = { command = "/home/fahmida/.local/share/cargo/bin/mdpls" }
+
+# config = { markdown.preview.auto = true, markdown.preview.browser = "google-chrome-stable" }
+# language-servers = [ "marksman" ]
+# language-server = { command = "/usr/bin/marksman" }
+
+[[language]]
+name = "rust"
+
+[language-server.rust-analyzer.config]
+[language-server.rust-analyzer.config.cargo.buildScripts]
+enable = true
+
+[language-server.rust-analyzer.config.check]
+command = "clippy"
+
+[language-server.rust-analyzer.config.procMacro]
+enable = true
+
+[[language]]
+name = "markdown"
+formatter = { command = "dprint", args = ["fmt", "--stdin", "md"]}
+scope = "source.md"
+injection-regex = "md|markdown"
+file-types = ["md", "markdown", "PULLREQ_EDITMSG", "mkd", "mdwn", "mdown", "markdn", "mdtxt", "mdtext", "workbook"]
+roots = [".marksman.toml"]
+language-servers = [ "marksman" ]
+# indent = { tab-width = 2, unit = "  " }
+indent = { tab-width = 8, unit = "        " }
+
+
+[[language]]
+name = "bash"
+scope = "source.bash"
+injection-regex = "(shell|bash|zsh|sh)"
+file-types = [
+  "sh",
+  "bash",
+  "zsh",
+  ".bash_history",
+  ".bash_login",
+  ".bash_logout",
+  ".bash_profile",
+  ".bashrc",
+  ".profile",
+  ".zshenv",
+  "zshenv",
+  ".zlogin",
+  "zlogin",
+  ".zlogout",
+  "zlogout",
+  ".zprofile",
+  "zprofile",
+  ".zshrc",
+  "zshrc",
+  ".zimrc",
+  "APKBUILD",
+  "PKGBUILD",
+  "eclass",
+  "ebuild",
+  "bazelrc",
+  ".bash_aliases",
+  "Renviron",
+  ".Renviron",
+  ".xprofile",
+  ".xsession",
+  ".xsessionrc",
+  "zsh-theme",
+  "ksh",
+  "cshrc",
+  "tcshrc",
+  ".yashrc",
+  ".yash_profile",
+  ".hushlogin",
+  "bashrc_Apple_Terminal",
+  "zshrc_Apple_Terminal"
+]
+shebangs = ["sh", "bash", "dash", "zsh"]
+comment-token = "#"
+language-servers = [ "bash-language-server" ]
+indent = { tab-width = 2, unit = "  " }
+
+[[language]]
+name = "vue"
+scope = "source.vue"
+# injection-regex = "mylang"
+file-types = ["vue"]
+comment-tokens = "//"
+# indent = { tab-width = 2, unit = "  " }
+# formatter = { command = "mylang-formatter" , args = ["--stdin"] }
+# language-servers = [ "mylang-lsp" ]
+
+[[language]]
+name = "typescript"
+scope = "source.ts"
+# injection-regex = "mylang"
+file-types = ["ts"]

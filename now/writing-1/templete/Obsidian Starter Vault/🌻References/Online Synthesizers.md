@@ -1,0 +1,141 @@
+---
+---
+**Creator:** Andrew Kirby
+**Price:** Free
+**Link:** (https://www.skool.com/creators-8374/classroom/4f7c0b95?md=5a79f69d18804f298dc4de87d88bd363)
+**Type:** #litnote 
+**Topics:** [[Side Hustle]] [[Courses]]
+
+---
+- **Introduction**
+	- *The Million Dollar Opportunity in 2022*
+		- Drowning in information but attention is same
+		- Be a synthesizer
+		- Different kinds of characters in online game
+			- Consumer
+			- Influencer
+			- Youtuber
+			- Podcaster
+			- Writer
+			- Synthsizer
+		- In the increasingly complex world, the fragemented state of knowledge can be seen as one of the most pressing social problems of our time
+		- Algorithms don't produce good ideas. They are for attention
+		- Learn from the people ahead of you and share to the people behind you.
+		- Learn 10 hours in learning and spend 10 minutes to share it.
+		- > **Consume----- curate------ create**(student-philosopher-teacher)
+	- *Build Specific Knowledge, leverage and accountability*
+		- It's no longer rich vs poor or one class vs another class. **It's about leverage vs non-leverage**
+		- Internet has so many tools that are permissionless
+		- Code and content is what you should focus on. 
+		- Specific knowledge
+			- Follow what interests you not what's hot right now. 
+			- Follow your curiousity and what you are deeply passionate about and be authentic
+		- Accountability
+			- It makes you vulnerable but also has huge rewards. 
+		- **Productize yourself** 
+	- *Synthesizing made me a millionaire*
+		- **Take information diet seriously**
+			- Exposing yourself to the best things humans have done and then try to bring those things into what you are doing. - Steve Jobs
+			- What information you consmue is equivalent to what diet you eat.
+			- Change what you consume 
+			- Take your information diet seriously
+		- **Write things down**
+			- Writing slows down your brain and helps you think *more clearly*
+			- Write down thoughts that are repeated on your mind and analyze them
+			- Lower down your verbal communication and write more.
+		- **Creating content**
+			- Creating content is incredible to learn things.
+			- You teach yourself as well as thousands of others while you create content
+	- *Start, then learn. Don't learn, then start.*
+		- Don't focus from step 2-100. Focus on step 1.
+		- Don't focus on the answers you don't know for the 99 steps
+		- You can't figure everything out until you start.
+		- You don't have to have everything figured out yet.
+- **Consume Intentionally**
+	- *Seek Wisdom*
+		- Everything in the universe is a cause-and-effect
+		- Right now is a resul of all the causes that happened previously.
+		- It's not about hard work, consistency, trying. This might help
+		- The more wise you are, the clearer you see the world. The clearer you can depict the causes that lead to the effect. the faster you can reach your goals
+		- Wisdom is power and knowledge is power
+		- The more wisdom we can get the more powerful we can get. The widsom we can get the faster we can reach our goals.
+		- Figuring out how things work out and having more knowledge will make it easier for you achieve your goals
+	- *Books everyone should read*
+	- *Reading list of reading list*
+	- *Beware society's opinion*
+		- We all have our own view of the world.
+		- If we have the right view of the world, we'd be infinitely powerful
+		- Some of the beliefs you have are incorrect or false
+		- They are inaccurate and delusional
+		- The more you understand this, the more curious and the more you can learn about the reality of the world in which we live
+		- We don't have to force ourselves to learn or to read when we know how naive we are. It makes us want to learn effortlessly.
+		- Think for yourself. Process it through your own brain power
+		- How are our beliefs formed?
+			- They are as a result of the experiences and the inputs you have
+			- Society's delusions get passed on to you
+		- Start questioning things. Inspecting them when somebody says something. 
+		- It's scary when we can't ask questions or we are not allowed to think
+		- If someone gets offended by questions it's because they don't understand it themselves. They don't have core principles to defend their own beliefs.
+		- Don't have an opinion on something until you have looked into it. You don't need to always have an opinion about something.
+		- **All suffering comes from not seeing the world clearly.**
+	- *Don't watch the news*
+		- If you don't watch the news, you are uninformed. If you watch the news, you are misinformed.
+	- [[🌻References/I hate the news]]
+- **Curate Authentically**
+	- *Curation is increasingly valuable*
+		- Attention is same but content is growing exponentially. 
+		- Therefore, curation is getting more and more valuable.
+		- Curation gets more valuable every single day
+	- *Build an information capture  center*
+		- If you find sometihng you love, save it. 
+		- You play the online game by consuming whatever has the highest pleaseure/time ration and then sharing things that are abnormally high.
+		- You capture the best bits into one place
+		- Get into the habit of saving your highlights in life. It's crucial.
+	- *Take Notes:*
+	- *Write Privately*
+		- Knowledge is power
+		- Writing helps you see clearly.
+		- Make a habit of writing privately.
+		- The clearer you can see the reality, the easier it will be for you to get what you want.
+- **Share Prolifically**
+	- *The heart of content creation:*
+		- Find the intersection of what you want to make and what people want
+		- This will help you be viral as well as stay consistent on your journey
+	- *Have an audience of one*
+		- Don't create content for others. If you don't see others viewing your content, you'll quit
+		- Act because of intrinsic motivation. 
+		- Don't create for others.
+		- Create for yourself. Have an audience of one. 
+		- That's what will help others find you
+		- Don't write to be read or create to be seen. That will cause a huge problem
+	- *Build a personal monopoly*
+		- It is a unique intersection of skills, interests, and personalitytraits that make you one of a kind.
+		- Its easier to beat competition by being different than by  being better. 
+		- Follow your curiosity and double down on being you rather than following the trends
+	- *Create a serendipity Vehicle*
+	- *Create where you consume*
+	- *Modern Writing is assembled*
+		- Don't try to start from scratch. Thats where writers's block is waiting for you
+		- A better way is to summairse and synthesise the things you consume
+		- You can turn content consumption into a superpower
+		- Nothing gets created out of thin air. Don't be afraid ot copy.
+		- André Gide once said, “Everything that needs to be said has already been said. But, since no one was listening, everything must be said again.”
+		- Take notes and turn them into small blocks and build bridges between different islands.
+	- *Mr Beast Youtube Growth*
+	- [[How to Grow on Youtube]]
+	- *Make something people want*
+		- Your goal should be to create something that people want
+		- Give them high pleasure/time ratio. Higher than they expect
+		- Create something that is so value-densed that the audience pulls you to make more
+	- *Follow Trends*
+		- Use google trends, buzzsomo
+		- Put yourself at the end of the trend and ride it.
+		- Either create evergreen content as well as ride the trends to take advantage
+	- *Set sacred hours*
+		- If you don't set your time, someone else will set it for you
+		- Sacred hours are unreachable times with no distraction around.
+		- They should be when you are the most productive and can be least responsive
+		- You defend sacred hours ruthlessly and let nobody intrude on your sacred hours
+	- *"But I don't have anything original to say"*
+		- Does a university professor says anything new? Anything original? Does she cancel teaching a course just because somone else is teaching the same course at some other place
+		- "Unoriginal writing is useful because it helps in the process of discovery and in the process of supporting underappreciated ideas."

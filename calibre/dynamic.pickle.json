@@ -1,0 +1,39 @@
+{
+  "add books dialog dir": "/home/fahmida/get-into",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "annots-export-save": "/home/fahmida/writing/highlights.txt",
+  "choose library location": "/home/fahmida/downloads/Calibre Library",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.4",
+      "7.5",
+      "6.25",
+      "6.28",
+      "7.1",
+      "6.26",
+      "6.29"
+    ]
+  },
+  "s_r_search_mode": 0,
+  "sort_history": [
+    [
+      "#lastopened",
+      false
+    ],
+    [
+      "#pages",
+      true
+    ],
+    [
+      "title",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}

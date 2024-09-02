@@ -1,0 +1,17 @@
+{
+  "allow_other_years": false,
+  "auto_add_column": "",
+  "auto_add_value": "",
+  "auto_collapse": "",
+  "autofill": true,
+  "genre_column": "tags",
+  "jump_to_selected": false,
+  "keep_rereading_color": false,
+  "main_action": "Statistics",
+  "page_count_column": "#pages",
+  "reading_progress_column": "#readingprogress",
+  "rereading_shelf": true,
+  "shelf_colors": "",
+  "sorting": "Title",
+  "status_date_column": ""
+}

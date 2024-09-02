@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# give me a random wallpaper from this
+# XW shortcut for setbg 
+find ~/.local/share/bg -type f | shuf | nsxiv -

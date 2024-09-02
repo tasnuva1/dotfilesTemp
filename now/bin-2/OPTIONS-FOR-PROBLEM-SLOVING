@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# st -- bash -c 'sleep 5; wmctrl -s 0' &
+# sleep 2
+# # google-chrome-stable &
+# lf /home/fahmida/downloads/videos/CoursesTutorials
+# 
+# st -- bash -c 'sleep 5; wmctrl -s 0' &
+# sleep 2
+# # google-chrome-stable &
+# st -- bash -c 'echo "Running CLI Tool 1";  mpv /home/fahmida/downloads/videos/CoursesTutorials/Rust/learning/Rust-Book/01\ Common\ Collections\ in\ Rust.mp4' &
+# Run multiple CLI tools sequentially
+mounter &
+sleep 2
+xdotool key super+1 &
+sleep 1
+st -e bash -c 'echo "Running CLI Tool 1";  mpv /home/fahmida//home/fahmida/2. I-ll be the best in theory (videos)      I have to servive - I dont have money/1. Rust Developer Bootcamp (syntax learning)/3. Advanced/1. Concurrency & async/072. Intro to Concurrency.mp4' &
+sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 2"; lf "/home/fahmida/gits(all-code)/rust/small-programs"' &
+# sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 3"; lf "/home/fahmida/gits(all-code)/rust/small-exercises/rustlings"' &
+# sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 4"; mpv /home/fahmida/downloads/videos/CoursesTutorials/Rust/learning/Learn\ Rust\ Programming\ Complete\ Course.mp4' &
+# sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 6"; mpv  ~/downloads/videos/CoursesTutorials/Rust/libMaking/RustLiveCoding\ a\ linked\ hash\ map\ in\ Rust.mp4' &
+# sleep 2
+# st -e bash -c 'echo "Running CLI Tool 7"; mpv /mnt/4/Courses/The-Git-and-Github-Bootcamp/1.-Course-Orientation/1.-Welcome-To-The-Course.mp4' & 
+# sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 8"; mpv "/mnt/4/Courses/The-Tech-Resume-Inside-Out-Complete-Package/[TutsNode.com]---The-Tech-Resume-Inside-Out-Complete-Package/Part 1 - The Tech Resume Inside Out Videos.mp4"' &
+# sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 9";  mpv "/mnt/3/Courses/media/audiobooks/Gene--Kim,-Kevin--Behr,-George--Spafford/The-Phoenix-Project-/The Phoenix Project.m4b"' &
+# sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 11"; zathura ~/downloads/books/books/How\ Linux\ Works,\ 3rd\ Edition\ What\ Every\ Superuser\ Should\ Know\ \(Brian\ Ward\)\ \(Z-Library\).epub' &
+# sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 13"; mpv /mnt/4/Courses/Computer-Networking-Full-Course.mp4' &
+# sleep 2 
+# st -e bash -c 'echo "Running CLI Tool 14"; mpv /mnt/4/Courses/Architecture----Introduction-to-Computer-Architecture/Architecture---Introduction-to-Computer-Architecture--RAHEE220/01---Introduction/001\ Introduction.mp4' &
+sleep 2 
+xdotool key super+i &
+sleep 1
+xdotool key super+j &
+sleep 3
+

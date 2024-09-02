@@ -1,0 +1,80 @@
+#!/bin/bash
+
+# Function to convert 12-hour time format to minutes
+to_minutes() {
+    local time=$1
+    local am_pm=${time: -2}
+    local h=$(echo $time | cut -d: -f1 | sed 's/^0*//')
+    local m=$(echo $time | cut -d: -f2 | cut -d" " -f1 | sed 's/^0*//')
+    if [ "$am_pm" == "PM" ] && [ "$h" -ne 12 ]; then
+        h=$((h + 12))
+    elif [ "$am_pm" == "AM" ] && [ "$h" -eq 12 ]; then
+        h=0
+    fi
+    echo $((10#$h * 60 + 10#$m))
+}
+
+# Function to convert minutes to 12-hour format
+to_12_hour_format() {
+    local total_minutes=$1
+    local h=$((total_minutes / 60 % 12))
+    local m=$((total_minutes % 60))
+    if [ $h -eq 0 ]; then
+        h=12
+    fi
+    printf "%02d:%02d\n" $h $m
+}
+
+# Function to print the header row
+print_header_row() {
+    local start_time=$1
+    local duration=$2
+    local hourss=${duration%h*}
+    local hours=$((${hourss#0}))
+    local current_time=$(to_minutes "$start_time")
+
+    for ((i=0; i<hours; i++)); do
+        # header+=$(date -d "1970-01-01 $current_time minutes" +"%I")"    |   " # 1st row without 1st cell
+        header+=$(date -d "1970-01-01 $current_time minutes" +"%I")"        " # 1st row without 1st cell
+        current_time=$((current_time + 60))
+    done
+
+    header+=" $(date -d "1970-01-01 $current_time minutes" +"%I")        " # 1st row last cell right
+    echo "    $header" # 1st row, 1st cell
+}
+
+# Function to print the second row
+print_second_row() {
+    local duration=$1
+    local hourss=${duration%h*}
+    local hours=$((${hourss#0}))
+    local minutes=${duration#*h }
+    local row=""
+
+    for ((i=1; i<=hours; i++)); do
+        row+="$i    |    " # 2nd row without 1st cell
+    done
+
+    row+="$minutes     " # last one
+    echo "     $row" # last one
+}
+
+# Check if the correct number of arguments is provided
+if [ $# -ne 2 ]; then
+    echo "Usage: $0 \"current_time\" \"duration\""
+    exit 1
+fi
+
+current_time=$1
+duration=$2
+
+header_row=$(print_header_row "$current_time" "$duration")
+second_row=$(print_second_row "$duration")
+
+# Print the output
+echo " "
+echo " $header_row "
+echo "---------------------------------------------------------------------------------------------------------"
+echo "|$second_row|"
+echo "---------------------------------------------------------------------------------------------------------"
+

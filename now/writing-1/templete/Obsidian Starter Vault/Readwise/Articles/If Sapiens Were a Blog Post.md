@@ -1,0 +1,221 @@
+# If Sapiens Were a Blog Post
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+
+## Metadata
+- Author: [[Neil Kakkar]]
+- Full Title: If Sapiens Were a Blog Post
+- Category: #articles
+- URL: https://neilkakkar.com/sapiens.html
+
+## Highlights
+- What caused our brains to develop? We’re not sure.
+- Some scholars believe there is a direct link between the advent of cooking, the shortening of the human intestinal track, and the growth of the human brain.
+- larger brain needs more energy and thus reduces the chance you’ll survive. Getting more energy meant hunting more.
+- long intestines and large brains are both massive energy consumers, it’s hard to have both.
+- I’ve tried to keep editing to a minimum: It’s the original text, edited to ensure it still flows like the book.
+- I spent over 25 hours building a cut-down version of Sapiens. The goal? Future-me should be happy to read this once future-me forgets how we evolved.
+- Development of brains
+- One of history’s few iron laws is that luxuries tend to become necessities and spawn new obligations
+- We can connect a limited number of sounds and signs to produce an infinite number of sentences, each with a distinct meaning. We can thereby ingest, store and communicate a prodigious amount of information about the surrounding world
+- The most commonly believed theory argues that accidental genetic mutations changed the inner wiring of the brains of Sapiens, enabling them to think in unprecedented ways and to communicate using a new type of language. We might call it the Tree of Knowledge mutatio
+- Imagined Realities - Solving the co-ordination problem
+- the Agricultural Revolution left farmers with lives generally more difficult and less satisfying than those of foragers. Hunter-gatherers spent their time in more stimulating and varied ways, and were less in danger of starvation and disease
+- Cognitive Revolution
+- In order to safeguard an imagined order, continuous and strenuous efforts are imperative. Some of these efforts take the shape of violence and coercion.
+- population growth burned humanity’s boats. If the adoption of ploughing increased a village’s population from a hundred to 110, which ten people would have volunteered to starve so that the others could go back to the good old times? There was no going back. The trap snapped shut.
+- To say that a social order is maintained by military force immediately raises the question: what maintains the military order? It is impossible to organise an army solely by coercion. At least some of the commanders and soldiers must truly believe in something, be it God, honour, motherland, manhood or money.
+- The Agricultural Revolution certainly enlarged the sum total of food at the disposal of humankind, but the extra food did not translate into a better diet or more leisure. Rather, it translated into population explosions and pampered elites.
+- Using language, lots of humans could work together, form a tribe, help each other, and hunt together
+- According to the science of biology, people were not ‘created’. They have evolved. And they certainly did not evolve to be ‘equal’. The idea of equality is inextricably intertwined with the idea of creation
+- Homo sapiens conquered the world thanks above all to its unique language.
+- From such a perspective, 1,000 copies are always better than a hundred copies. This is the essence of the Agricultural Revolution: the ability to keep more people alive under worse conditions
+- Our language is amazingly supple.
+- Agricultural Revolution
+- Compared to foraging, working a bit harder on the farm meant more food. Settling down on the farm also meant greater freedom to reproduce - you’re not travelling all the time, so you can afford to have more children
+- The currency of evolution is neither hunger nor pain, but rather copies of DNA helixes
+- As far as we know, only Sapiens can talk about entire kinds of entities that they have never seen, touched or smelled.
+- in turn, meant a higher population. And a higher population meant higher food requirements. Thus, the farmers were forced to work even harder.
+- The Agricultural Revolution was history’s biggest fraud.
+- When two strangers in a tribal society want to trade, they will often establish trust by appealing to a common god, mythical ancestor or totem animal.
+- If a species boasts many DNA copies, it is a success, and the species flourishes.
+- How did Homo sapiens manage to cross this critical threshold, eventually founding cities comprising tens of thousands of inhabitants and empires ruling hundreds of millions? The secret was probably the appearance of fiction. Large numbers of strangers can cooperate successfully by believing in common myths. This is an imagined reality.
+- Unlike lying, an imagined reality is something that everyone believes in, and as long as this communal belief persists, the imagined reality exerts force in the world.
+- It follows that in order to change an existing imagined order, we must first believe in an alternative imagined order.
+- One example is the dark-skinned slaves.
+- With an order came social and political hierarchies.
+- With greater numbers and growing imagined orders, we needed a system to organise the rules: No one person could remember all of them
+- Preserving the imagined reality
+- Romanticism tells us that in order to make the most of our human potential we must have as many different experiences as we can.
+- If you want to keep any human group isolated – women, Jews, Roma, gays, blacks – the best way to do it is convince everyone that these people are a source of pollution.
+- If a single individual changes his or her beliefs, or even dies, it is of little importance. However, if most individuals in the network die or change their beliefs, the inter-subjective phenomenon will mutate or disappear
+- More individual suffering
+- In order to change the imagined order I must convince millions of strangers to cooperate with me.
+- To maintain an imagined order, we need people who believe in it - the military, the elites, and the peasants.
+- This led to a vicious circle of exploitation of people “lower” on the social ladder.
+- The inter-subjective is something that exists within the communication network linking the subjective consciousness of many individuals
+- Most people do not wish to accept that the order governing their lives is imaginary, but in fact every person is born into a pre-existing imagined order, and his or her desires are shaped from birth by its dominant myths.
+- how did humans organise themselves in mass-cooperation networks
+- A wealthy man in ancient Egypt would never have dreamed of solving a relationship crisis by taking his wife on holiday to Babylon. Instead, he might have built for her the sumptuous tomb she had always wanted.
+- The imagined order is inter-subjective.
+- People today spend a great deal of money on holidays abroad because they are true believers in the myths of romantic consumerism
+- The elite of ancient Egypt spent their fortunes building pyramids and having their corpses mummified, but none of them thought of going shopping in Babylon or taking a skiing holiday in Phoenicia.
+- change of such magnitude can be accomplished only with the help of a complex organisation, such as a political party, an ideological movement, or a religious cult. However, in order to establish such complex organisations, it’s necessary to convince many strangers to cooperate with one another. And this will happen only if these strangers believe in some shared myths
+- Thus, the Agricultural Revolution led to much individual suffering. It led to more humans with a limited diet, higher risk of starvation, imagined realities to co-ordinate so many people, scripts to preserve that order, and social hierarchies to maintain that order. At the same time, it was an evolutionary success - much more people were alive at any given time.
+- Paradoxically, genetic superiority (in terms of immunity) translated into social inferiority.
+- Unification of Humankind
+# If Sapiens Were a Blog Post
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+
+## Metadata
+- Author: [[Neil Kakkar]]
+- Full Title: If Sapiens Were a Blog Post
+- Category: #articles
+- URL: https://neilkakkar.com/sapiens.html
+
+## Highlights
+- What caused our brains to develop? We’re not sure.
+- Some scholars believe there is a direct link between the advent of cooking, the shortening of the human intestinal track, and the growth of the human brain.
+- larger brain needs more energy and thus reduces the chance you’ll survive. Getting more energy meant hunting more.
+- long intestines and large brains are both massive energy consumers, it’s hard to have both.
+- I’ve tried to keep editing to a minimum: It’s the original text, edited to ensure it still flows like the book.
+- I spent over 25 hours building a cut-down version of Sapiens. The goal? Future-me should be happy to read this once future-me forgets how we evolved.
+- Development of brains
+- One of history’s few iron laws is that luxuries tend to become necessities and spawn new obligations
+- We can connect a limited number of sounds and signs to produce an infinite number of sentences, each with a distinct meaning. We can thereby ingest, store and communicate a prodigious amount of information about the surrounding world
+- The most commonly believed theory argues that accidental genetic mutations changed the inner wiring of the brains of Sapiens, enabling them to think in unprecedented ways and to communicate using a new type of language. We might call it the Tree of Knowledge mutatio
+- Imagined Realities - Solving the co-ordination problem
+- the Agricultural Revolution left farmers with lives generally more difficult and less satisfying than those of foragers. Hunter-gatherers spent their time in more stimulating and varied ways, and were less in danger of starvation and disease
+- Cognitive Revolution
+- In order to safeguard an imagined order, continuous and strenuous efforts are imperative. Some of these efforts take the shape of violence and coercion.
+- population growth burned humanity’s boats. If the adoption of ploughing increased a village’s population from a hundred to 110, which ten people would have volunteered to starve so that the others could go back to the good old times? There was no going back. The trap snapped shut.
+- To say that a social order is maintained by military force immediately raises the question: what maintains the military order? It is impossible to organise an army solely by coercion. At least some of the commanders and soldiers must truly believe in something, be it God, honour, motherland, manhood or money.
+- The Agricultural Revolution certainly enlarged the sum total of food at the disposal of humankind, but the extra food did not translate into a better diet or more leisure. Rather, it translated into population explosions and pampered elites.
+- Using language, lots of humans could work together, form a tribe, help each other, and hunt together
+- According to the science of biology, people were not ‘created’. They have evolved. And they certainly did not evolve to be ‘equal’. The idea of equality is inextricably intertwined with the idea of creation
+- Homo sapiens conquered the world thanks above all to its unique language.
+- From such a perspective, 1,000 copies are always better than a hundred copies. This is the essence of the Agricultural Revolution: the ability to keep more people alive under worse conditions
+- Our language is amazingly supple.
+- Agricultural Revolution
+- Compared to foraging, working a bit harder on the farm meant more food. Settling down on the farm also meant greater freedom to reproduce - you’re not travelling all the time, so you can afford to have more children
+- The currency of evolution is neither hunger nor pain, but rather copies of DNA helixes
+- As far as we know, only Sapiens can talk about entire kinds of entities that they have never seen, touched or smelled.
+- in turn, meant a higher population. And a higher population meant higher food requirements. Thus, the farmers were forced to work even harder.
+- The Agricultural Revolution was history’s biggest fraud.
+- When two strangers in a tribal society want to trade, they will often establish trust by appealing to a common god, mythical ancestor or totem animal.
+- If a species boasts many DNA copies, it is a success, and the species flourishes.
+- How did Homo sapiens manage to cross this critical threshold, eventually founding cities comprising tens of thousands of inhabitants and empires ruling hundreds of millions? The secret was probably the appearance of fiction. Large numbers of strangers can cooperate successfully by believing in common myths. This is an imagined reality.
+- Unlike lying, an imagined reality is something that everyone believes in, and as long as this communal belief persists, the imagined reality exerts force in the world.
+- It follows that in order to change an existing imagined order, we must first believe in an alternative imagined order.
+- One example is the dark-skinned slaves.
+- With an order came social and political hierarchies.
+- With greater numbers and growing imagined orders, we needed a system to organise the rules: No one person could remember all of them
+- Preserving the imagined reality
+- Romanticism tells us that in order to make the most of our human potential we must have as many different experiences as we can.
+- If you want to keep any human group isolated – women, Jews, Roma, gays, blacks – the best way to do it is convince everyone that these people are a source of pollution.
+- If a single individual changes his or her beliefs, or even dies, it is of little importance. However, if most individuals in the network die or change their beliefs, the inter-subjective phenomenon will mutate or disappear
+- More individual suffering
+- In order to change the imagined order I must convince millions of strangers to cooperate with me.
+- To maintain an imagined order, we need people who believe in it - the military, the elites, and the peasants.
+- This led to a vicious circle of exploitation of people “lower” on the social ladder.
+- The inter-subjective is something that exists within the communication network linking the subjective consciousness of many individuals
+- Most people do not wish to accept that the order governing their lives is imaginary, but in fact every person is born into a pre-existing imagined order, and his or her desires are shaped from birth by its dominant myths.
+- how did humans organise themselves in mass-cooperation networks
+- A wealthy man in ancient Egypt would never have dreamed of solving a relationship crisis by taking his wife on holiday to Babylon. Instead, he might have built for her the sumptuous tomb she had always wanted.
+- The imagined order is inter-subjective.
+- People today spend a great deal of money on holidays abroad because they are true believers in the myths of romantic consumerism
+- The elite of ancient Egypt spent their fortunes building pyramids and having their corpses mummified, but none of them thought of going shopping in Babylon or taking a skiing holiday in Phoenicia.
+- change of such magnitude can be accomplished only with the help of a complex organisation, such as a political party, an ideological movement, or a religious cult. However, in order to establish such complex organisations, it’s necessary to convince many strangers to cooperate with one another. And this will happen only if these strangers believe in some shared myths
+- Thus, the Agricultural Revolution led to much individual suffering. It led to more humans with a limited diet, higher risk of starvation, imagined realities to co-ordinate so many people, scripts to preserve that order, and social hierarchies to maintain that order. At the same time, it was an evolutionary success - much more people were alive at any given time.
+- Paradoxically, genetic superiority (in terms of immunity) translated into social inferiority.
+- Unification of Humankind
+# If Sapiens Were a Blog Post
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+
+## Metadata
+- Author: [[Neil Kakkar]]
+- Full Title: If Sapiens Were a Blog Post
+- Category: #articles
+- URL: https://neilkakkar.com/sapiens.html
+
+## Highlights
+- What caused our brains to develop? We’re not sure.
+- Some scholars believe there is a direct link between the advent of cooking, the shortening of the human intestinal track, and the growth of the human brain.
+- larger brain needs more energy and thus reduces the chance you’ll survive. Getting more energy meant hunting more.
+- long intestines and large brains are both massive energy consumers, it’s hard to have both.
+- I’ve tried to keep editing to a minimum: It’s the original text, edited to ensure it still flows like the book.
+- I spent over 25 hours building a cut-down version of Sapiens. The goal? Future-me should be happy to read this once future-me forgets how we evolved.
+- Development of brains
+- One of history’s few iron laws is that luxuries tend to become necessities and spawn new obligations
+- We can connect a limited number of sounds and signs to produce an infinite number of sentences, each with a distinct meaning. We can thereby ingest, store and communicate a prodigious amount of information about the surrounding world
+- The most commonly believed theory argues that accidental genetic mutations changed the inner wiring of the brains of Sapiens, enabling them to think in unprecedented ways and to communicate using a new type of language. We might call it the Tree of Knowledge mutatio
+- Imagined Realities - Solving the co-ordination problem
+- the Agricultural Revolution left farmers with lives generally more difficult and less satisfying than those of foragers. Hunter-gatherers spent their time in more stimulating and varied ways, and were less in danger of starvation and disease
+- Cognitive Revolution
+- In order to safeguard an imagined order, continuous and strenuous efforts are imperative. Some of these efforts take the shape of violence and coercion.
+- population growth burned humanity’s boats. If the adoption of ploughing increased a village’s population from a hundred to 110, which ten people would have volunteered to starve so that the others could go back to the good old times? There was no going back. The trap snapped shut.
+- To say that a social order is maintained by military force immediately raises the question: what maintains the military order? It is impossible to organise an army solely by coercion. At least some of the commanders and soldiers must truly believe in something, be it God, honour, motherland, manhood or money.
+- The Agricultural Revolution certainly enlarged the sum total of food at the disposal of humankind, but the extra food did not translate into a better diet or more leisure. Rather, it translated into population explosions and pampered elites.
+- Using language, lots of humans could work together, form a tribe, help each other, and hunt together
+- According to the science of biology, people were not ‘created’. They have evolved. And they certainly did not evolve to be ‘equal’. The idea of equality is inextricably intertwined with the idea of creation
+- Homo sapiens conquered the world thanks above all to its unique language.
+- From such a perspective, 1,000 copies are always better than a hundred copies. This is the essence of the Agricultural Revolution: the ability to keep more people alive under worse conditions
+- Our language is amazingly supple.
+- Agricultural Revolution
+- Compared to foraging, working a bit harder on the farm meant more food. Settling down on the farm also meant greater freedom to reproduce - you’re not travelling all the time, so you can afford to have more children
+- The currency of evolution is neither hunger nor pain, but rather copies of DNA helixes
+- As far as we know, only Sapiens can talk about entire kinds of entities that they have never seen, touched or smelled.
+- in turn, meant a higher population. And a higher population meant higher food requirements. Thus, the farmers were forced to work even harder.
+- The Agricultural Revolution was history’s biggest fraud.
+- When two strangers in a tribal society want to trade, they will often establish trust by appealing to a common god, mythical ancestor or totem animal.
+- If a species boasts many DNA copies, it is a success, and the species flourishes.
+- How did Homo sapiens manage to cross this critical threshold, eventually founding cities comprising tens of thousands of inhabitants and empires ruling hundreds of millions? The secret was probably the appearance of fiction. Large numbers of strangers can cooperate successfully by believing in common myths. This is an imagined reality.
+- Unlike lying, an imagined reality is something that everyone believes in, and as long as this communal belief persists, the imagined reality exerts force in the world.
+- It follows that in order to change an existing imagined order, we must first believe in an alternative imagined order.
+- One example is the dark-skinned slaves.
+- With an order came social and political hierarchies.
+- With greater numbers and growing imagined orders, we needed a system to organise the rules: No one person could remember all of them
+- Preserving the imagined reality
+- Romanticism tells us that in order to make the most of our human potential we must have as many different experiences as we can.
+- If you want to keep any human group isolated – women, Jews, Roma, gays, blacks – the best way to do it is convince everyone that these people are a source of pollution.
+- If a single individual changes his or her beliefs, or even dies, it is of little importance. However, if most individuals in the network die or change their beliefs, the inter-subjective phenomenon will mutate or disappear
+- More individual suffering
+- In order to change the imagined order I must convince millions of strangers to cooperate with me.
+- To maintain an imagined order, we need people who believe in it - the military, the elites, and the peasants.
+- This led to a vicious circle of exploitation of people “lower” on the social ladder.
+- The inter-subjective is something that exists within the communication network linking the subjective consciousness of many individuals
+- Most people do not wish to accept that the order governing their lives is imaginary, but in fact every person is born into a pre-existing imagined order, and his or her desires are shaped from birth by its dominant myths.
+- how did humans organise themselves in mass-cooperation networks
+- A wealthy man in ancient Egypt would never have dreamed of solving a relationship crisis by taking his wife on holiday to Babylon. Instead, he might have built for her the sumptuous tomb she had always wanted.
+- The imagined order is inter-subjective.
+- People today spend a great deal of money on holidays abroad because they are true believers in the myths of romantic consumerism
+- The elite of ancient Egypt spent their fortunes building pyramids and having their corpses mummified, but none of them thought of going shopping in Babylon or taking a skiing holiday in Phoenicia.
+- change of such magnitude can be accomplished only with the help of a complex organisation, such as a political party, an ideological movement, or a religious cult. However, in order to establish such complex organisations, it’s necessary to convince many strangers to cooperate with one another. And this will happen only if these strangers believe in some shared myths
+- Thus, the Agricultural Revolution led to much individual suffering. It led to more humans with a limited diet, higher risk of starvation, imagined realities to co-ordinate so many people, scripts to preserve that order, and social hierarchies to maintain that order. At the same time, it was an evolutionary success - much more people were alive at any given time.
+- Paradoxically, genetic superiority (in terms of immunity) translated into social inferiority.
+- Unification of Humankind
+- People like us, do things like this.”
+- Money
+- Everyone always wants money.
+- This is perhaps its most basic quality. Everyone always wants money because everyone else also always wants money, which means you can exchange money for whatever you want or need
+- How Money Works
+- Money is a psychological construct. It works by converting matter into mind
+- Its a system of mutual trust, and not just any system of mutual trust: money is the most universal and most efficient system of mutual trust ever devised.
+- Why are you willing to flip hamburgers, sell health insurance or babysit three obnoxious brats when all you get for your exertions is a few pieces of coloured paper?
+- Coins helped solve these problems. The mark imprinted on them testifies to their exact value, so the shoemaker doesn’t have to keep a scale on his cash register. More importantly, the mark on the coin is the signature of some political authority that guarantees the coin’s value.
+- Proliferation of gold
+- The Europeans believed in gold: They considered it to be very valuable. They wanted to trade gold with the world, and turns out, almost everyone else did, too.
+- Once trade is established, thanks to laws of supply and demand, the value of gold in India and the Mediterranean would be quite similar
+- The mere fact that Mediterranean people believed in gold would cause Indians to start believing in it as well.
+- When everything is convertible, and when trust depends on anonymous coins and cowry shells, it corrodes local traditions, intimate relations and human values, replacing them with the cold laws of supply and demand.
+- The Imperial Cycle
+- Religion
+- Today religion is often considered a source of discrimination, disagreement and disunion. Yet, in fact, religion has been the third great unifier of humankind, alongside money and empires
+- Religions assert that our laws are not the result of human caprice, but are ordained by an absolute and supreme authority. This helps place at least some fundamental laws beyond challenge, thereby ensuring social stability
+- Religions hold that there is a superhuman order, which is not the product of human whims or agreements. Professional football is not a religion, because despite its many laws, rites and often bizarre rituals, everyone knows that human beings invented football themselves, and FIFA may at any moment enlarge the size of the goal or cancel the offside rule.
+- religion establishes norms and values that it considers binding. Many Westerners today believe in ghosts, fairies and reincarnation, but these beliefs are not a source of moral and behavioural standards. As such, they do not constitute a religion.
+- During the last five centuries, humans increasingly came to believe that they could increase their capabilities by investing in scientific research. This wasn’t just blind faith - it was proven empirically.
+- The willingness to admit ignorance.
+- The centrality of observation and mathematics.

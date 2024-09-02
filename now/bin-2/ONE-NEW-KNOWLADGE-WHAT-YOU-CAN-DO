@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# Define an array of URLs you want to open
+items=(
+    "https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqbQRXSFWBLGWzXtMhdLGWbZqnhRCtbvFpflqKMvNJRGbqDdvLqdXCdWhrgQnwRVjjkPHL"
+    "https://www.google.com/search?q=best+sites+for+networking&sxsrf=AB5stBiVfQ3z3SYJf66hBc2euQlo3sOjNQ%3A1690954694871&ei=xuvJZNfjNNKw2roP742qCA&ved=0ahUKEwjX3qyPob2AAxVSmFYBHe-GCgEQ4dUDCA8&uact=5&oq=best+sites+for+networking&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWJlc3Qgc2l0ZXMgZm9yIG5ldHdvcmtpbmcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEdIyk1Q7wdY40lwAHgCkAEAmAEAoAEAqgEAuAEDyAEA-AEB-AEC4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp"
+    "https://medium.com/search?q=open+source+funding"
+    "https://medium.com/open-collective"
+    "https://medium.com/open-collective/about"
+    "https://medium.com/@OpenAtMicrosoft"
+    "https://medium.com/?tag=rust"
+    "https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8"
+    "https://app.hackernoon.com/reader"
+    "https://www.linkedin.com/feed/"
+)
+
+
+# todos: "All offical links for ferther learning [link]"
+# then extract the line value
+ 
+# Create a list of item names for dmenu
+items_list=$(printf "%s\n" "${items[@]}")
+
+# Print the final output
+selected_item=$(echo -e "$items_list" | dmenu -i -l 5 -p "Select an item:")
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+
+if [[ " ${items[*]} " =~ " $selected_item " ]]; then
+      "$chrome" --new-tab "$selected_item" &
+else
+    echo "Invalid selection"
+fi
+wait  # Because runing script window it's opening. 

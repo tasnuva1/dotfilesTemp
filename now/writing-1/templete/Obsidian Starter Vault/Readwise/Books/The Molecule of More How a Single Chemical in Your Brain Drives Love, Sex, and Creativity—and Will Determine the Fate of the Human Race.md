@@ -1,0 +1,414 @@
+# The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-3.40504e56b01b.png)
+
+## Metadata
+- Author: [[Daniel Z. Lieberman
+Daniel Z. Lieberman
+Michael E. Long
+Michael E. Long]]
+- Full Title: The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race
+- Category: #books
+
+## Highlights
+- Once you **understand the power and peril of dopamine, you’ll better understand the human condition itself**.”
+- epic saga of dopamine as a page-turner that you simply can’t put down.”
+- have created a road map for all those wrestling between insatiable longing and the here and now.”
+- **“Why do we crave what we don’t have rather than feel good about what we do—and why do fools fall in love? Haunting questions of human biology are answered by The Molecule of More, a must-read about the human condition.”**
+- “Jim Watson, who deciphered the genetic code, famously said, **‘There are only molecules; the rest is sociology**,’
+- the molecule that allows us to bridge the chasm between them is dopamine.
+## New highlights added April 22, 2022 at 10:58 PM
+- To reach them, you have to plan, think, calculate. Even if it’s only a little, it still requires some coordinated effort. Unlike what we see when we look down, the realm of up shows us things that we have to think about and work for in order to get.
+- In your brain the down world is managed by a handful of chemicals—neurotransmitters, they’re called—that let you experience satisfaction and enjoy whatever you have in the here and now.
+- It drives you to seek out those things far away, both physical things and things you cannot see, such as knowledge, love, and power.
+- this chemical gives us command over every distance, whether geographical or intellectual.
+- down chemicals—call them the Here & Nows—allow you to experience what’s in front of you. They enable you to savor and enjoy, or perhaps to fight or run away, right now
+- The up chemical is different. It makes you desire what you don’t yet have, and drives you to seek new things. It rewards you when you obey it, and makes you suffer when you don’t.
+- **it is the key to addiction and the path to recovery;**
+- makes successful actors and entrepreneurs and artists keep working long after they have all the money and fame they ever dreamed of; and that makes a satisfied husband or wife risk everything for the thrill of someone else.
+- **It is the source of the undeniable itch that drives scientists to find explanations and philosophers to find order, reason, and meaning.**
+- It is fuel for the motor of our dreams; it is the source of our despair when we fail.
+- It is why we seek and succeed; it is why we discover and prosper.
+  It is also why we are never happy for very long.
+- Mammals, reptiles, birds, and fish all have this chemical inside their brains, but no creature has more of it than a human being.
+- It is a blessing and a curse, a motivation and a reward
+- This is dopamine, and it narrates no less than the story of human behavior.
+- **The brain is so complex that even the most sophisticated neuroscientist must simplify to build a model of the brain that’s capable of being understood.**
+- science is messy. Sometimes studies contradict one another, and it takes time to sort out which results are correct.
+- Science is not only messy; it can sometimes be bizarre
+- Love is a need, a craving, a drive to seek life’s greatest prize.
+- we explore the chemicals that make you want sex and fall in love—and why, sooner or later, everything changes.
+- Lots of factors pushed them along to what would become a long-term relationship: their common interests, the ease they felt with each other, even the drinks and a little desperation
+- But none of that was the real key to love. The big factor was this: they were both under the influence of a mind-altering chemical. So was everyone else in the bar.
+  And, it turns out, so are you.
+- dopamine was seen simply as a way for the body to produce a chemical called norepinephrine, which is what adrenaline is called when it is found in the brain.
+- Only 0.0005 percent of brain cells produce dopamine—one in two million—yet these cells appeared to exert an outsized influence on behavior.
+- The reputation of dopamine as the pleasure molecule was further cemented through experiments with drug addicts.
+- They reasoned that it’s unlikely that dopamine pathways evolved to encourage people to get high on drugs. Drugs were probably causing an artificial form of dopamine stimulation.
+- the evolutionary processes that harnessed dopamine were driven by the need to motivate survival and reproductive activity
+- **Dopamine, they discovered, isn’t about pleasure at all. Dopamine delivers a feeling much more influential.**
+- **Understanding dopamine turns out to be the key to explaining and even predicting behavior across a spectacular range of human endeavors**: creating art, literature, and music; seeking success; discovering new worlds and new laws of nature; thinking about God—and falling in love.
+- Shawn wanted to be sure they would be together forever, so one day he proposed to her. She said yes.
+- A few months after their honeymoon, things began to change. At the start they had been obsessed with one another, but, with the passage of time, that desperate longing became less desperate.
+- They weren’t unhappy, but the profound satisfaction from their earlier time together was slipping away
+- Thoughts about each other, that used to come constantly, didn’t. Other women began to draw Shawn’s attention, not that he intended to cheat. Samantha let herself flirt sometimes, too, even if it was no more than a shared smile with the college boy bagging groceries in the checkout line.
+- **MONKEYS AND RATS AND WHY LOVE FADES**
+- rats are easier to study than human beings.
+- **Natural rewards stimulate dopamine activity just as well as cocaine and other drugs**.
+- Why would dopamine stop firing when stimulation keeps coming? The answer came from an unlikely source: a monkey and a light bulb.
+- It took the monkeys some time to figure out the rule. At first they opened the boxes randomly, and got it right about half the time. When they found a food pellet, the dopamine cells in their brain fired, just as in the rats. After a while, the monkeys figured out the signals and reached for the correct, food-containing box every time—and at that, the timing of the dopamine release began to change from firing at the discovery of the food to firing at the light. Why?
+- once the monkeys figured out that the light meant they were about to get food, the “surprise” they felt came exclusively from the appearance of the light, not from the food.
+- dopamine activity is not a marker of pleasure. It is a reaction to the unexpected—to possibility and anticipation.
+- As human beings, we get a dopamine rush from similar, promising surprises
+- But when these things become regular events, their novelty fades, and so does the dopamine rush—and a sweeter note or a longer email or a better table won’t bring it back.
+- Our brains are programmed to crave the unexpected and thus to look to the future, where every exciting possibility begins.
+- But when anything, including love, becomes familiar, that excitement slips away, and new things draw our attention.
+- We constantly make predictions about what’s coming next, from what time we can leave work, to how much money we expect to find when we check our balance at the ATM
+- That happy error is what launches dopamine into action.
+- When what happens is better than what we expect, it is literally an error in our forecast of the future:
+- It’s the thrill of the unexpected good news.
+- It’s the pleasure of anticipation—the possibility of something unfamiliar and better.
+- sometimes when we get the things we want, it’s not as pleasant as we expect. Dopaminergic excitement (that is, the thrill of anticipation) doesn’t last forever, because eventually the future becomes the present.
+- after a few weeks, “the best coffee and croissant in the city” became the same old breakfast.
+- But it wasn’t the coffee and the croissant that changed; it was your expectation
+- When things become part of the daily routine, there is no more reward prediction error, and dopamine is no longer triggered to give you those feelings of excitement.
+## New highlights added April 24, 2022 at 5:42 PM
+- Women actors are exploited sexually and men are pressured to take steroids and growth hormone to get the fabulous bodies we see on screen.
+- Those with higher levels of dopamine want to climb it, explore it, conquer it. But they can’t, because it doesn’t exist. The mountain itself exists. But the imagined experience of being on it is impossible to achieve.
+- The reality is that most of the time you’re on a mountain you can’t even tell. Typically you’re surrounded by trees, and that’s all you see
+- Glamour creates desires that cannot be fulfilled because they are desires for things that exist only in the imagination.
+- only things that are out of reach can be glamorous; only things that are unreal. Glamour is a lie.
+- She found him as funny and smart as ever, and in great shape, too. In minutes she was starry-eyed again.
+- He was excited, too, and anxious to share his feelings
+- That feeling with Demarco was what she wanted. She had once had it with Shawn, but not anymore
+- THE DARK SIDE
+- There’s a dark side to dopamine
+- If you drop a pellet of food into a rat’s cage, the animal will experience a dopamine surge.
+- But if you keep dropping pellets every 5 minutes, dopamine stops
+- so there’s no surprise, and there is no error in the rat’s prediction of a reward.
+- One of the world’s largest manufacturers of slot machines is owned by a company called Scientific Games. Science plays a big role in the design of these compelling devices
+- Every reward was unexpected. The birds became excited. They pecked faster. Something was spurring them on to greater efforts.
+- Dopamine, the molecule of surprise, had been harnessed, and the scientific foundation of the slot machine was born.
+- Demarco’s appearance, and the half-conscious dream of another chance at passionate excitement, was an unexpected treat dropped into her emotional life, and that surprise was the source of her excitement. Samantha, of course, didn’t know that
+- with an understanding of the role of dopamine, it’s clear that this relationship is not something new. It’s just another repetition of dopamine-driven excitement.
+- We can transition to a love that’s fed by a day-to-day appreciation of that other person in the here and now, or we can end the relationship and go in search of another roller coaster ride
+- Early love is a ride on a merry-go-round that sits at the foot of a bridge. That carousel can take you around and around on a beautiful trip as many times as you like, but it will always leave you where you began
+- dopamine is steering things in your life, at least when it comes to sex
+- It’s pursuit, which is driven by dopamine, the molecule that cultivates perpetual dissatisfaction
+- He imagined each new woman as a potential life mate, the perfect female who would go with him into happily ever after.
+- addicted to the dopamine thrill of chasing romance that he spent an entire season trying to extract himself from his engagement to the only woman who continued to love him despite every awful thing he did.
+- We revel in the passion, the focus, the excitement, the thrill of finding new love.
+- The difference is that most of us figure out at some point that dopamine lies to us.
+- we come to understand that the next beautiful woman or a handsome man we see is probably not the key to “satisfaction
+- “Why can’t you enjoy the things you have?”
+- From dopamine’s point of view, having things is uninteresting.
+- It’s only getting things that matters.
+- If you live in a tent, dopamine makes you want a house. If you live in the most expensive mansion in the world, dopamine makes you want a castle on the moon.
+- The dopamine circuits in the brain can be stimulated only by the possibility of whatever is shiny and new, never mind how perfect things are at the moment. The dopamine motto is “More.”
+- Dopamine isn’t the pleasure molecule, after all. It’s the anticipation molecule
+- Most people have heard of the H&Ns. They include serotonin, oxytocin, endorphins (your brain’s version of morphine), and a class of chemicals called endocannabinoids (your brain’s version of marijuana).
+- one of the endocannabinoid molecules is called anandamide, named after a Sanskrit word that means joy, bliss, and delight.
+- for a couple to remain attached to one another, they need to develop a different sort of love called companionate love.
+- Companionate love is mediated by the H&Ns because it involves experiences that are happening right here, right now—you’re with the one you love, so enjoy it.
+- Their behavior is characterized by cooperative territory defense and nest building
+- dopamine paints a picture in our minds of a rosy future in order to spur us on through the hard work necessary to make it a reality.
+- Dissatisfaction with the present state of affairs is an important ingredient in bringing about change, which is what a new relationship is all about
+- When H&N circuits are activated, we are prompted to experience the real world around us, and dopamine is suppressed; when dopamine circuits are activated, we move into a future of possibilities, and H&Ns are suppressed
+- It’s not easy to say farewell to the dopaminergic thrill of new partners and passionate longing, but the ability to do so is a sign of maturity, and a step toward long-lasting happiness.
+- He’s not ungrateful to see the masterpieces of Michelangelo. It’s just that his personality is primarily dopaminergic: he enjoys anticipation and planning more than doing.
+- Lovers experience the same disconnect between anticipation and experience.
+- A romance built on dopamine is a thrilling, if short-lived, roller coaster ride, but our brain chemistry gives us the tools to move down the path that leads to companionate love
+- Just as dopamine is the molecule of obsessive yearning, the chemicals most associated with long-term relationships are oxytocin and vasopressin.
+- Oxytocin is more active in women and vasopressin in men
+- Vasopressin acted like a “good-husband hormone.” Dopamine does the opposit
+- Human beings who have genes that produce high levels of dopamine have the highest number of sexual partners and the lowest age of first sexual intercourse.
+- oxytocin and vasopressin suppress the release of testosterone
+- In a similar way, testosterone suppresses the release of oxytocin and vasopressin
+- which helps explain why men with naturally high quantities of testosterone in their blood are less likely to marry
+- Do human beings require long-term companionship? There’s good evidence that the answer is yes
+- Despite the superficial appeal of having multiple partners, most people eventually settle down
+- We can live without companionate love, but the majority of us arrange a good portion of our lives around trying to find it and keep it.
+- The H&Ns give us the ability to do that. They allow us to find satisfaction in what our senses deliver—what is right in front of us, and what we can experience without the nagging sense that we need something more
+- Testosterone drives sexual desire in both men and women
+- Men produce large amounts—it’s responsible for aspects of masculinity such as facial hair, increased muscle mass, and a low-pitched voice.
+- On average, women have the highest levels of testosterone on days thirteen and fourteen of their menstrual cycle.
+- When scientists at Procter & Gamble (the maker of Old Spice cologne and Pampers diapers) applied a testosterone gel to women’s skin, the women had more sex. Unfortunately, some of the women developed facial hair, low-pitched voices, and male pattern baldness, so the “female Viagra” gel never received Food and Drug Administration (FDA) approval in the United States.
+- When one is hungry, all kinds of different foods will satisfy the urge to eat. Similarly, when a person experiences testosterone-induced sexual urges, the desire is for sex in general, not necessarily for a particular person.
+- **DOPAMINE GETS YOU INTO BED . . . AND THEN GETS IN THE WAY**
+- From eager anticipation to the physical pleasures of intimacy, the stages of sex recapitulate the stages of love
+- **sex is love on fast forward.**
+- **Sex begins with desire, a dopaminergic phenomenon driven by the hormone testosterone.**
+- It continues with arousal, another forward-looking, dopaminergic experience
+- **As physical contact begins, the brain shifts control to the H&Ns to deliver the pleasure of the sensory experience, mainly with the release of endorphins**
+- The consummation of the act, orgasm, is almost entirely a here-and-now experience, with endorphins and other H&N neurotransmitters working together to shut down dopamine.
+- **The scans showed that sexual climax was associated with decreased activation throughout the prefrontal cortex, a dopaminergic part of the brain responsible for placing deliberate restrictions on behavior**
+- With few exceptions the brain’s response to orgasm was the same: dopamine off, H&N on.
+- people have difficulty moving from passionate love to companionate love, it can be also be difficult for dopamine-driven people to let the H&Ns take over during sex.
+- While H&N neurotransmitters let us experience reality—and reality during sex is intense—dopamine floats above reality.
+- To add to its seduction, it puts us in control of that alternate reality.
+- That these imagined worlds may be impossible doesn’t matter. Dopamine can always send us chasing phantoms.
+- survey of 141 women found that 65 percent of them daydreamed during intercourse about being with another person or even doing something completely different. Other studies have put the figure as high as 92 percent.
+- Men daydream during sex about as much as women, and the more sex both men and women have, the more likely they are to daydream
+- It is ironic that brain circuits that give us the energy and motivation we need to get ourselves into bed with a desirable partner subsequently get in the way of our enjoying the fun.
+- Sex for the first time is more intense than sex for the hundredth time—especially sex for the hundredth time with the same partner.
+- ￼   WHY MOM WANTS YOU TO WAIT   ￼
+  UNTIL YOU’RE MARRIED
+- there are still a lot of mothers (and anxious fathers) who encourage their daughters to “save themselves for marriage.”
+- Testosterone and dopamine have a special relationship
+- Passionate love usually increases the desire to have sex.
+- denying sexual satisfaction actually enhances passion—not necessarily forever, of course, and not without significant sacrifice, but the effect is real.
+- Waiting prolongs the most exciting phase of love.
+- Dopamine tends to shut down once fantasy becomes reality, and dopamine is the driving chemical of romantic love.
+- Dopamine got the nickname “the pleasure molecule” based on experiments with addictive drugs
+- The drugs lit up dopamine circuits and test participants experienced euphoria.
+- only unexpected rewards triggered dopamine release
+- Dopamine responded not to reward, but to reward prediction error:
+- the actual reward minus the expected reward.
+- When we fall in love, we look to a future made perfect by the presence of our beloved. It’s a future built on a fevered imagination that falls to pieces when reality reasserts itself twelve to eighteen months later. Then what? In many cases it’s over.
+- It can become companionate love, which may not thrill the way dopamine does, but has the power to deliver happiness—long-term happiness based on H&N neurotransmitters such as oxytocin, vasopressin, and endorphin.
+- **Dopamine, the neurotransmitter whose purpose is to maximize future rewards, starts us down the road to love.**
+- when it comes to love, dopamine is a place to begin, not to finish. It can never be satisfied. Dopamine can only say, “More.”
+## New highlights added April 25, 2022 at 7:48 PM
+- In which dopamine overwhelms reason to create consuming desire for the most destructive behaviors imaginable
+- A guy walks past a restaurant, smells burgers cooking. He imagines taking a bite; he can almost taste it. He’s on a diet, but at this point he can’t think of anything he wants more than that hamburger, so he goes in and orders one.
+- the first bite is wonderful, but the second bite, not so much. With each bite, his enjoyment is less and less—so much for the hoped-for “hamburger heaven.
+- He finishes anyway, not really knowing why, then feels a little nauseated and very much defeated because he didn’t stick to his diet.
+- there’s a big difference between wanting something and liking it.
+- WHO’S IN CONTROL OF YOUR BRAIN?
+- At some point, everyone asks the question, why? Why do I do the things that I do? Why do I make the choices that I make?
+- The philosopher Aristotle played this same game, but with a more serious purpose
+- **Why do you go to work, really? Why do you need to make money? Why do you have to pay bills? Why do you want the electricity to stay on? Where does it end? Is there anything we seek for itself only, not because it leads to something else?**
+- Aristotle decided there was. He decided there was a single thing that lay at the end of every string of Whys, and its name was Happiness. Everything we do, ultimately, is for the sake of happiness.
+- H**Why do you go to work, really? Why do you need to make money? Why do you have to pay bills? Why do you want the electricity to stay on? Where does it end? Is there anything we seek for itself only, not because it leads to something else?**
+- **When faced with a range of options, we choose the one that leads to the most happiness.**
+- Except we don’t.
+- **Our brains aren’t wired that way**
+- Only once in a while do we sit down to consider our options rationally, weighing one against the other.
+- I**t’s much easier just to do what we want, so that’s what we do.**
+- **what do we want?” The answer depends on whom you ask:**
+- T**he answer depends on when you ask, too.**
+- The 7:00 PM answer might be “dinner”; the 7:00 AM answer might be “another 10 minutes of sleep.”
+- Sometimes people don’t know what they want at all; other times they want lots of things at once—things that they cannot have at the same time, because they conflict with one another.
+- Most people, when they see a donut, want to eat it. Most people, when they see a donut, want to not eat it. What’s going on?
+- **Wanting, or desire, flows from an evolutionarily old part of the brain deep inside the skull called the ventral tegmental area.**
+- When these long-tailed cells are activated, they release dopamine into the nucleus accumbens, driving the feeling we know as motivation.
+- **This dopamine circuit evolved to promote behaviors that lead to survival and reproduction,**
+- to help us get food and sex, and to win competitions.
+- s the desire circuit that’s activated when you see the plate of donuts on the table, and it’s activated not by need, but by the presence of something attractive from an evolutionary or life-sustaining standpoint.
+- **the circuit is activated whether or not you’re hungry. That’s the nature of dopamine.**
+- It’s always focused on acquiring more of everything with an eye toward providing for the future
+- Hunger is something that happens here and now, in the present
+- **But dopamine says, “Go ahead and eat the donut, even if you’re not hungry. It will increase your chance of staying alive in the future. Who knows when food will be available next?”**
+- That made sense for our evolutionary ancestors, who lived most of their lives on the brink of starvation.
+- **For a biological organism, the most important goal related to the future is to be alive when it comes**
+- the dopamine system is more or less obsessed with keeping us alive
+- e. **It constantly scans the environment for new sources of food, shelter, mating opportunities, and other resources that will keep our DNA replicating.**
+- When it **finds something that’s potentially valuable, dopamine switches on, sending the message Wake up. Pay attention. This is important.**
+- The sensation of wanting is not a choice you make. It is a reaction to the things you encounter.
+- From now on, whenever she sees this bush, a little dopamine will be released to make her more alert and to give her a hint of excitement, the better to motivate her to acquire this thing that can help her stay alive.
+- An important memory has been formed: important because it’s linked to survival, important because it was triggered by the release of dopamine.
+- But what happens when dopamine gets out of control?
+- dopamine is an early-warning system for the appearance of anything that can help us surviv
+- When something useful to our continued existence appears, we don’t have to think about it. Dopamine makes us want it, right now. It doesn’t matter if we’re going to like it, or if we even need it at the moment.
+- dopamine urges you to possess and accumulate anything that might help keep you alive.
+- This explains why the man on the diet wanted that hamburger even though he wasn’t hungry.
+# The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-3.40504e56b01b.png)
+
+## Metadata
+- Author: [[Daniel Z. Lieberman
+Daniel Z. Lieberman
+Michael E. Long
+Michael E. Long]]
+- Full Title: The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race
+- Category: #books
+
+## Highlights
+- **Impulsive behavior occurs when too much value is placed on immediate pleasure and not enough on long-term consequences.**
+- Many of the decisions that addicts make, particularly the harmful decisions, are impulsive
+- Desire dopamine overpowers the more rational parts of the brain. We make choices that we know are not in our best interest, but we feel powerless to resist.
+- It’s as if our free will has been compromised by an overwhelming urge for immediate pleasure
+- When the addict stimulates his dopamine system, his dopamine system responds by demanding more stimulation.
+- Nicotine, in fact, is an unusual drug because it does very little except trigger compulsive use
+- **When you give people nicotine for the first time, most people don’t like it. It’s different from many other addictive drugs, for which most people say they enjoy the first experience and would try it again.”**
+- **Some people say it makes them feel more relaxed or more alert, but really, the main thing it does is relieve cravings for itself.**
+- The only point of smoking cigarettes is to get addicted so one can experience the pleasure of relieving the unpleasant feeling of craving, like a man who carries around a rock all day because it feels so good when he puts it down.
+- Addiction arises from the chemical cultivation of desire
+- A**ddiction is not a sign of weak character or a lack of willpower. It occurs when the desire circuits get thrown into a pathological state by overstimulation.**
+- Prod dopamine too hard and too long, and its power comes roaring out. Once it has taken charge of a life, it is difficult to tame.
+- Recreational drugs aren’t the only ones that stimulate dopamine. There are prescription drugs that do it as well, and when they hit the desire circuit too hard, strange things can happen.
+- **When there is not enough dopamine in this circuit, people become stiff and shaky, and they move slowly**
+- The treatment is to prescribe drugs that boost dopamine.
+- The enhanced dopamine circuit boosted impulsive behavior, but not satisfaction—it boosted the wanting, but not the liking.
+- It’s over a hundred times more likely that a person will be struck by lightning than win the lottery. Yet millions of people buy tickets. “Someone has to win,” they say
+- In all, this man of modest means gambled away over $100,000. He was finally able to stop in 2010, when he read an article about the link between Parkinson’s medication and gambling. He stopped taking Cabaser, and the problem went away.
+- People who gambled frequently in the past are more likely than others to experience out-of-control gambling after they start Parkinson’s medication, suggesting there are certain personality features that put people at risk.
+- Yet another patient expressed his hypersexuality by spending hours every day in internet adult chat rooms—but even otherwise healthy people taking no medication at all are susceptible to the dopamine call of pornography, supercharged by the internet.
+- Of course, you don’t need Parkinson’s medication coursing through your brain to have your life upended by sexual obsession. Consider the fearsome triad of dopamine, technology, and porn.
+- **MORE, MORE, MORE: DOPAMINE AND THE POWER OF PORNOGRAPHY**
+- bad. He was accessing the internet over a dial-up modem and “it took ages for the pictures to load.” He was lucky. Technology was limiting his daily dose
+- He described the pictures he started with as “tame
+- Over time, both of these would change. Broadband allowed him to access pictures instantly, and he could now add video to his daily routine
+- Tame material gave way to depictions of more extreme acts as his tolerance for pornographic thrills increased.
+- when his work assigned him to an overseas branch, everything fell apart. Unable to speak the local language, he became socially isolated, and his compulsion flared up worse than ever.
+- He said, “What makes this so hard is the inner struggle, the conflict within. It’s a war against yourself.” Feeling completely out of control, he no longer believed it was a strictly moral failing. “I need to fight this on a chemical level because at some point I want to get married.”
+- Thanks to the internet, sexually graphic material is more easily available than ever befor
+- their dopamine circuits lit up. The circuits went back to normal when ordinary videos were displayed
+- of all the content on the internet, pictures of undressed women were most likely to make young men click compulsively
+- They also discovered that showing people “highly arousing sexual pictures” was distracting when they were trying to pay attention to something else
+- compulsive sexual behavior was fueled by easy access to sexual images on the internet.
+- THE POWER OF EASY ACCESS
+- When it comes to addiction, easy access matters. More people get addicted to cigarettes and alcohol than to heroin, even though heroin hits the brain in a way that is more likely to trigger addiction.
+- Cigarettes and alcohol are a larger public health problem because they are so easy to obtain
+- We’ve all seen “quit smoking” advertisements on buses and subways. They don’t work. We’ve heard about school programs that teach kids to say no to drugs and alcohol.
+- As barriers to the use of tobacco have gone up, barriers to pornography have gone down.
+- Today, pornographic pictures and videos can be had in seconds and in complete privacy. There are no barriers of embarrassment or sham
+- They abandon other activities so they can focus on adult internet sites. Sexual relations with their partners tend to become less frequent and less satisfying.
+- One young man gave up dating completely. He said that he’d rather look at pornography than go out with a real woman because the women in the pictures never demanded anything of him, and never said no.
+- As with drugs, habituation can also occur with pornography, in which the starting “dose” no longer works as well.
+- It’s hard to resist the demands of dopamine circuits, especially with something as evolutionarily important as sex.
+- ARE VIDEO GAMES ADDICTIVE, TOO?
+- “Sex addicts showed higher levels of desire when watching pornography, but did not necessarily rate the explicit videos higher in their ‘liking’ scores.”
+- Some scientists claim that video games can also be addicting.
+- video games are similar to casino games.
+- Like slot machines, video games surprise players with unpredictable rewards.
+- nearly one in ten gamers ages eight to eighteen are addicted
+- The biggest difference in the adolescent brain is in the frontal lobes, which don’t completely develop until their early twenties.
+- That’s a problem because it’s the frontal lobes that give adults good judgment.
+- They act like a brake, warning us when we’re about to do something that might not be such a good idea.
+- Video games are more complex than slot machines, so there are more opportunities for programmers to bake in features that trigger dopamine release in order to make it hard to stop playing
+- Gamers progress through levels while increasing their strength and abilities. It’s a dopamine dream come true.
+- To keep progress front and center in a gamer’s mind, the screen constantly displays the accumulating points or growing progress bars so players never forget. They have to keep pursuing more.
+- Players’ expectations are constantly kept off balance because they never know where the next reward will be.
+- Online games are constantly collecting information about players. How long do they play? When do they quit?
+- What kinds of experiences make them play longer? What kinds make them give up?
+- game designers are not thinking of these events as dopamine triggers, but simply as “what works
+- It turns out that 25 percent is the magic number. That’s what keeps people playing the longest. And there’s no reason why the other 75 percent should be empty
+- Game developers put low-value rewards in the non-gem chests so every single one will contain a surprise.
+- It’s worth mentioning that there are also H&N pleasures in video games that contribute to their appeal
+- Many games let you play with friends. The pleasure we get when we socialize for no other reason than the enjoyment of the company of others is an H&N experience
+- On the other hand, when we get together to accomplish a shared goal, it’s dopaminergic because we’re working toward a better future (even if it’s just capturing the enemy’s base).
+- Many video games are also beautiful, another way of stimulating H&N delight
+- The world of the game is vast. Working through all the story lines would require 1,600 hours of play.
+- Grand Theft Auto, one of the most successful video game series, had sales of $1 billion in just three days for its fifth-generation release
+- Americans spend more than $20 billion per year on video games; they spent only half that much on movie tickets in 2016, the biggest U.S. box office year in history
+- DOPAMINE VERSUS DOPAMINE
+- It’s natural to confuse wanting and liking.
+- That’s how it would work if we were rational creatures, and despite all evidence to the contrary, we persist in thinking that we are rational creatures.
+- Frequently we want things that we don’t like. Our desires can lead us toward things that may destroy our lives, such as drugs, gambling, and other out-of-control behaviors.
+- The dopamine desire circuit is powerful. It focuses attention, motivates, and thrills. It has a profound influence over the choices we make.
+- Yet it isn’t all-powerful
+- What kind of circuit in the brain is powerful enough to oppose dopamine?
+- Dopamine is.
+- Dopamine opposing dopamine.
+- The circuit that opposes the desire circuit might be called the dopamine control circuit.
+- Why would the brain develop circuits that work against each other?
+- Wouldn’t it make more sense to have everyone pulling together, so to speak?
+- Systems that contain opposing forces are easier to control. That’s why cars have both an accelerator and a brake, and why the brain uses circuits that counter each other.
+- the dopamine control circuit involves the frontal lobes, the part of the brain that is sometimes called the neocortex because it evolved most recently
+- It’s what makes human beings unique
+- It gives us the imagination to project ourselves further into the future than the desire circuit can take us, so we can make long-term plans.
+- It’s intensely rational.
+- It doesn’t feel, because emotion is an H&N phenomenon
+- Impulse without reason is not enough, and reason without impulse is a poor makeshift.
+  —William James
+- One cool judgment is worth a dozen hasty councils.
+  —Woodrow Wilson
+- In which dopamine drives us to overcome complexity, adversity, emotion, and pain so we can control our environment.
+- Creativity is the power to connect the seemingly unconnected.
+  —William Plomer, writer
+## New highlights added May 3, 2022 at 6:30 AM
+- when we do things without thinking about how and what next, failure is not even the worst possible outcome.
+- Desire dopamine makes us want things. It is the source of raw desire: give me more.
+- It gives us the ability to construct plans—to strategize and dominate the world around us to get the things we want. How does a single chemical do both things?
+- The same fuel that pushes the rocket forward can be redirected to drive directional thrusters to steer the ship, as well as retrorockets to slow it down. It all depends on the path the fuel takes before it’s ignited—different functions, but all working together to get the spaceship to its destination.
+- dopamine moving through different brain circuits yields different functions, too, and toward a common end: a relentless focus on enhancing the future
+- Urges come from dopamine passing through the mesolimbic circuit, which we call the dopamine desire circuit
+- In addition, the dopamine control circuit is the source of imagination
+- both circuits give us the capacity to consider “phantoms”—things that don’t physically exist
+- Control dopamine carries us beyond the primitive I want of desire dopamine. It gives us tools to comprehend, analyze, and model the world around us, so we can extrapolate possibilities, compare and contrast them, then craft ways to achieve our goals
+- desire dopamine is the kid in the back seat shouting for his parents to “Look! Look!” every time he sees a McDonald’s, a toy store, or a puppy on the sidewalk.
+- Control dopamine is the parent at the wheel, hearing each request and considering whether it’s worth stopping for—and deciding what to do if he pulls over.
+- It’s fun figuring out things, and it’s fun carrying out the strategies developed to “game” the intricacies of car buying and the daily trip to work. Why? As always, the function of dopamine flows from the imperatives of evolution and survival.
+- Dopamine encourages us to maximize our resources by rewarding us when we do so—the act of doing something well, of making our future a better, safer place, gives us a little dopamine “buzz.”
+- I have not failed. I’ve just found 10,000 ways that won’t work.
+- TENACITY
+- Success takes years of hard work and so many revisions to the original idea that it’s barely recognizable by the time it gets to market.
+- THE CASE OF THE RESOLUTE RATS
+- Researchers from the University of Connecticut wanted to see if they could manipulate a rat’s tenacity by changing the activity of dopamine in its brain.
+- The first experiment was easy. To receive a Bioserve treat, each rat had to press the lever only one time. Since essentially no work was needed—no tenacity required—this experiment established a necessary condition: it demonstrated that dopamine-deficient rats liked the treats as much as normal rats.
+- When no work was required, the dopamine-deprived rats pressed the lever as many times as the normal rats, and devoured the treats they had earned.
+- When the required number of lever presses was increased from one to four, the normal rats pressed their levers nearly a thousand times over the course of 30 minutes. The dopamine-depleted rats weren’t as motivated; they pressed the lever only about six hundred times.
+- When the requirement was increased to sixteen presses, the normal rats produced nearly two thousand presses, while the dopamine-depleted rats barely increased their presses at all. They were getting only one-quarter the number of treats, but they wouldn’t work harder.
+- Finally, the requirement was bumped all the way up to sixty-four presses for a single Bioserve tablet. The normal rats managed about twenty-five hundred presses—more than one press per second for the entire 30 minutes. The dopamine-depleted rats didn’t increase their work at all. In fact, they pressed less than they had before. They simply gave up.
+- Removing dopamine appeared to diminish a rat’s will to work.
+- How much ice cream you want has nothing to do with whether you’re hard-working or lazy.
+- do with whether you’re hard-working or lazy. It’s just that food doesn’t mean as much when you’re not hungry. So the scientists added a new dimension to the experiment: they manipulated hunger.
+- They didn’t slack off. They didn’t give up. They just didn’t want to eat as many pellets because they weren’t hungry
+- The feeling of hunger (or the absence of hunger) changed how much the rats valued the pellets, but it did not diminish their willingness to work.
+- Hunger is an H&N phenomenon, an immediate experience, not an anticipatory, dopamine-driven one.
+- But it’s dopamine that makes the work possible at all: no dopamine, no effort
+- how dopamine affects the choices we make between working hard or taking the easy way.
+## New highlights added May 11, 2022 at 8:37 PM
+- They ach
+- They achieve something, then move on to the next thing.
+- This problem can result in a familiar condition: attention deficit hyperactivity disorder (ADHD).2 Poor focus, concentration, and impulse control can severely interfere with their lives, and it can make them difficult to be with.
+- Sometimes they don’t keep track of time, making them late, and they may lose things, such as car keys, cell phones, even passports.
+- Kids with ADHD grab toys and cut in line. Adults with ADHD make impulse purchases and interrupt people.
+- People who live with ADHD are at high risk of addiction, especially adolescents, because of their poorly functioning frontal lobes.
+- On the other hand, if effective treatment is withheld, the weakness of the control circuit is not corrected. The desire circuit acts unopposed, increasing the likelihood of high-risk, pleasure-seeking behavior
+- A SURPRISING RISK AMONG ADHD PATIENTS
+- children with ADHD were 40 percent more likely to be obese, and adults were 70 percent more likely to be obese
+- Children are constantly cued to eat by food commercials, vending machines, etc., so it is easy to imagine how a child who is poorly inhibited could have difficulty resisting these cues to eat.”
+- It’s important to remember that biology is not destiny
+- I like to win, but more than anything, I can’t stand this idea of losing. Because to me, losing means death.
+  —Lance Armstrong
+- “[A tree] was once on the other side of [his] property, 50 yards west of his house. Armstrong wanted it at the front steps. The transplantation cost $200,000. His close friends joke that Armstrong, who is agnostic, engineered the project to prove he didn’t need God to move heaven and earth.”
+- rth.”
+  “I think I would probably go crazy if I was 35 or 40 and didn’t have some competition in my life,”
+- Dopamine doesn’t come equipped with a conscience. Rather, it is a source of cunning fed by desire. When it’s revved up, it suppresses feelings of guilt, which is an H&N emotion. It is capable of inspiring honorable effort, but also deceit and even violence in pursuit of the things it wants.
+- Dopamine pursues more, not morality; to dopamine, force and fraud are nothing more than tools.
+- people who won competitions, as opposed to winning by pure luck, developed a sense of entitlement that allowed them to justify subsequent cheating
+- winning competitions that gives us access to food and reproductive partners
+- winning competitions releases dopamine.
+- the rush of pleasure we feel when we send the tennis ball flying over the net, get a good grade on a test, or receive praise from our boss
+- The surge of dopamine feels good, but it’s different from a surge of H&N pleasure, which is a surge of satisfaction.
+- the dopamine surge triggered by winning leaves us wanting more.
+- WINNING TO KEEP FROM LOSING
+- Winning is never enough. Nothing is ever enough for dopamine. It is the pursuit that matters, and the victory, but there is no finish line, and never will be. Winning, like drugs, can be addictive.
+- No one likes to lose, but it’s ten times as bad after you win.
+- Winners cheat for the same reason that drug addicts take drugs
+- Both know that their behavior has the potential to destroy their lives, but the desire circuit doesn’t care. It only wants more. More drugs, more success.
+- HOT AND COLD VIOLENCE
+## New highlights added May 12, 2022 at 8:27 AM
+- Paranoia makes them feel afraid, and sometimes they conclude that the only way to protect themselves is to kill the people they imagine are plotting against them
+- Violence is sometimes the result of dysfunction or pathology. But most of the time, violence is a choice—a coercive and calculated way to get the thing you want.
+- Aggression driven by passion is a lashing out at provocation. This is not a calculated action orchestrated by the dopamine control circuit—just the opposite. When passion drives aggression in response to provocation, dopamine is suppressed by the H&N circuits, and people who display this type of aggression usually degrade their future well-being.
+- Emotion overwhelms control dopamine’s consideration, caution, and calculation.
+- someone with a highly active control circuit might be cold and calculating, ruthless and devoid of emotion.
+- The brain is complicated, and the way in which activity in one circuit is translated into behavior depends on activity in many other circuits all working together.
+- They are obsessed with making the future more rewarding at the expense of being able to experience the joys of the present.
+- Emotion is an H&N experience
+- It’s what we feel right here, right now. Emotion is critical to our ability to understand the world, but emotions can sometimes overwhelm us. When that happens, we make less-logical decisions.
+- One of our evolutionary ancestors, one endowed with a particularly robust dopamine control circuit, might respond to a charging lion by suppressing the urge to panic, and instead of trying to outrun the lion, he calmly picks up a burning stick from his fire to frighten it away.
+- When bold action is required in the midst of chaos, the one who can stay calm, take stock of available resources, and quickly develop a plan of action is the one who will pull through.
+- . I could feel utter panic approaching, and I knew that if I allowed it to control me, I would lose my ability to think
+- To save myself, I had to start thinking. I radioed a Mayday message, then my crewman and I got to work on the sails and used them to steer us out of the reef
+- He wasn’t running on adrenaline; he was running on dopamine. During the intense moments when he saved the boat, dopamine was in control and adrenaline (called norepinephrine when it is inside the brain) was suppressed
+- Some people are naturally better at suppressing emotion than others.
+- If we’re engaged with the peripersonal—up close, in direct contact, focused on the present moment—H&N circuits are activated, and the warm, emotional aspects of our personality come out. When we’re engaged in the extrapersonal—at a distance, thinking abstractly, focused on the future—the rational, emotionless parts of our personality are more likely to be seen. These two different ways of thinking are illustrated by the ethics dilemma called “the trolley problem”:
+- But since H&N’s strongest influence is in the peripersonal space—in the immediate realm of what the five senses tell us—what would happen if we moved back, one step at a time, incrementally diminishing H&N’s influence on our decision? Does our willingness—our ability—to trade one life for five increase as we get literally farther away from our victim, as we move out of the H&N peripersonal space into the dopaminergic extrapersonal?
+- It’s almost as if there were two separate minds evaluating the situation. One mind is rational, making decisions based on reason alone. The other is empathic, unable to kill a man, regardless of the big-picture outcome. One seeks to dominate the situation by imposing control to maximize the number of lives saved; the other does not. Whether a person chooses one outcome or the other partly depends on activity within the dopamine circuits.
+- Sometimes we act one way: cold, calculating, seeking to dominate the environment for future gain. Sometimes we act another: warm, empathic, sharing what we have for the present joy of making others happy.
+- Dopamine control circuits and H&N circuits work in opposition, creating a balance that allows us to be humane toward others, while safeguarding our own survival.
+- Willpower isn’t the only tool control dopamine has in its arsenal when it needs to oppose desire. It can also use planning, strategy, and abstraction, such as the ability to imagine the long-term consequences of alternate choices.
+- But when we need to resist harmful urges, willpower is the tool we reach for first.
+- Willpower is like a muscle.
+- Resisting temptation seems to have produced a psychic cost, in the sense that afterward participants were more inclined to give up easily in the face of frustration.”
+- If you’re on a diet, the more times you resist temptation, the more likely you are to fail the next time around. Willpower is a limited resource.
+- If willpower is like a muscle, can it be strengthened through exercise? Yes, but it requires some high tech “exercise equipment
+- Strengthening willpower was possible, but it required a high-tech window that allowed the test participants to look deep inside their brains.
+- You can’t beat drugs with willpower alone. It takes more than that.
+- Even though it’s possible to strengthen willpower, it’s still not the answer to long-term, enduring change
+- MOTIVATIONAL ENHANCEMENT THERAPY: DESIRE DOPAMINE VERSUS DESIRE DOPAMINE

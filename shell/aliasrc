@@ -1,0 +1,124 @@
+#!/bin/sh
+
+############################ ALL THE COMMEND SHORTCUTS #########################
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
+# Use $XINITRC variable if file exists.
+[ -f "$XINITRC" ] && alias startx="startx $XINITRC"
+
+[ -f "$MBSYNCRC" ] && alias mbsync="mbsync -c $MBSYNCRC"
+
+# sudo not required for some system commands
+for command in mount umount sv pacman updatedb su shutdown poweroff reboot ; do
+	alias $command="sudo $command"
+done; unset command
+
+se() {
+	choice="$(find ~/.local/bin -mindepth 1 -printf '%P\n' | fzf)"
+	[ -f "$HOME/.local/bin/$choice" ] && $EDITOR "$HOME/.local/bin/$choice"
+	;}
+
+sub-all() {
+	for file in *.mp4; do
+    # Check if the file exists and is a regular file
+    if [ -f "$file" ]; then
+        # Run autosub command on the file
+        autosub -S en -D en "$file"
+    fi
+	done
+}
+
+sub-all-audio() {
+	for file in *.mp3; do
+    # Check if the file exists and is a regular file
+    if [ -f "$file" ]; then
+        # Run autosub command on the file
+        autosub -S en -D en "$file"
+    fi
+	done
+
+}
+
+
+# Verbosity and settings that you pretty much just always are going to want.
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -vI" \
+	bc="bc -ql" \
+	rsync="rsync -vrPlu" \
+	mkd="mkdir -pv" \
+	yt="yt-dlp --embed-metadata -i" \
+	yta="yt -x -f bestaudio/best" \
+	ytt="yt --skip-download --write-thumbnail" \
+  pic="sxiv" \
+	ffmpeg="ffmpeg -hide_banner"
+
+# Colorize commands when possible.
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi" \
+	ip="ip -color=auto"
+
+# disc usage current
+# These common commands are just too long! Abbreviate them.
+alias \
+	ka="killall" \
+	g="git" \
+	trem="transmission-remote" \
+	YT="youtube-viewer" \
+	sdn="shutdown -h now" \
+	ss="du -h --max-depth=1 | sort -hr" \
+  ssa="df -h /dev/dm-0 /dev/sda3 /dev/sda4" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+  h="helix" \
+	p="pacman" \
+	xi="sudo xbps-install" \
+	xr="sudo xbps-remove -R" \
+	xq="xbps-query" \
+	tc="timetrace create project" \
+	tl="timetrace list projects" \
+	td="timetrace delete project" \
+	ts="timetrace start" \
+	tp="timetrace stop" \
+	tt="timetrace status" \
+	tr="timetrace record" \
+	tf="timetrace create record make-coffee today 07:00 08:30" \
+	yu="yay -Syu" \
+	yc="yay -Sc; yay -Yc" \
+	yl="sudo pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | paste - - | column -t | sort -nrk 2 | grep MiB | less" \
+	yr="yay -Rns" \
+	command-line="ebook-viewer '/home/fahmida/Calibre Library/Ken Youens-Clark/1. Command-Line Rust (18)/1. Command-Line Rust - Ken Youens-Clark.epub'" \
+	youtube="yt-dlp --socket-timeout 60 --embed-chapters --format 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' --write-sub --sub-lang en -i -o '%(playlist)s/%(playlist_index)s- %(title)s.%(ext)s'" \
+	youtube-sub="yt-dlp --skip-download --write-subs --write-auto-subs  --sub-lang en --sub-format ttml --convert-subs srt -o '%(playlist_index)s-%(title)s.%(ext)s'" \
+	sub="autosub -S en -D en" \
+	cf="cd /home/fahmida/.config && lf" \
+	aco="cd /mnt/3/Courses/media/audiobooks && lf" \
+	dco="cd /mnt/3/Courses/tor-browser/Browser/Downloads/digitalBooks && lf" \
+	vco="cd /mnt/4/Courses && lf" \
+	nf="cd /mnt/3/Video && lf" \
+	bu="sudo brightnessctl set +10%" \
+	bd="sudo brightnessctl set 10%-" \
+	d="sudo da" \
+	b="sudo brightnessctl set 0%" \
+	br="sudo brightnessctl set 100%" \
+	r="ebook-viewer '/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub'" \
+	space="for f in *; do mv "$f" $(echo $f | tr ' ' '_'); done" \
+	usb-open="sudo mount /dev/sdb /mnt/usb && cd /mnt/usb && lf" \
+	usb-close="sudo fuser -km /dev/sdb && sudo umount /mnt/usb" \
+	rust-advence-beginner="/usr/bin/google-chrome-stable --new-tab 'https://hackmd.io/@simonhyll' && echo 'go to the browser window'" \
+	free-time="mpv '/home/fahmida/How to Keep Going Full Bangla.webm'" \
+	current-project-send-receive="lf '/home/fahmida/2 gits(all-code)/1. Rust/2. Small-projects/new'" \
+	cd="z" \
+	c="calcurse"
+	za="zathura"
+
+alias \
+	lf="lfub" \
+	magit="nvim -c MagitOnly" \
+	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc" \
+	weath="less -S ${XDG_CACHE_HOME:-$HOME/.cache}/weatherreport" \

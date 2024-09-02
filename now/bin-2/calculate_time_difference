@@ -1,0 +1,44 @@
+#!/bin/bash
+
+# Function to convert time to minutes
+to_minutes() {
+    # local h=$(echo $1 | cut -d: -f1)
+    # local m=$(echo $1 | cut -d: -f2)
+    local h=$(echo $1 | sed 's/^0*//' | cut -d: -f1) # Remove leading zeros
+    local m=$(echo $1 | sed 's/^0*//' | cut -d: -f2) # Remove leading zeros
+    # echo $(($h * 60 + $m))
+    echo $(( 10#$h * 60 + 10#$m ))
+
+}
+
+# Function to calculate the time difference
+calculate_time_difference() {
+    local time1=$1
+    local time2=$2
+
+    local time1_minutes=$(to_minutes $time1)
+    local time2_minutes=$(to_minutes $time2)
+
+    # Adjust time2_minutes if it's on the next day
+    if [ $time2_minutes -lt $time1_minutes ]; then
+        time2_minutes=$((time2_minutes + 1440)) # Add 24 hours (in minutes)
+    fi
+
+    local diff_minutes=$((time2_minutes - time1_minutes))
+
+    local hours=$((diff_minutes / 60))
+    local minutes=$((diff_minutes % 60))
+
+    # echo "$hours hours and $minutes minutes"
+    echo "${hours}h ${minutes}m"
+}
+
+# Usage: ./script.sh "time1" "time2"
+time1=$1
+time2=$2
+
+difference=$(calculate_time_difference $time1 $time2)
+
+# echo "Time difference from $time1 to $time2 is $difference"
+echo "$difference"
+

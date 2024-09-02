@@ -1,0 +1,284 @@
+---
+---
+**Creator:** [[Dr. Vivek Bindra]]
+**Source:** Live Webinar
+**Type:** #litnote 
+**Topics:** [[Goal Setting]] [[Productivity]]
+
+---
+- Laziness is the worst enemy of every individual
+- Productivity happens when there is fire of focus.
+- Learn to use technology to improve productivity. It doesn't sleep even when you sleep
+
+
+---
+2 hours on getting away from from distraction
+40% decrease in productivity due to multitasking 
+80% goes in invaluable tasks;
+
+----
+- 6 Principles of Time Management
+- **Goal Orientation**
+	- Motivated by purpose
+	- Use targets
+	- Achieve more in less time
+	- Convert vauge goals into specific goals
+	- Setting goal is the first step of turning the invisible into the visible
+	- **Inside Generating questions**
+		- Why have this goal? Answer will come
+		- Whom do i need?
+		- What will be my difficulties in achieving in this goal
+		- When will you be in the next 3, 5 or 10 years
+		- What will be my diet
+		- Winners visualize their rewards of succss
+		- If you can imagine it, you can create it.
+		- Visualize for the first 15 minutes and see how your 16 hours will go pass.
+		- Where are the people who don't have goal?
+		- Start Visualizing
+	- **Gist Technique**
+		- Goal
+		- Initiative {effort, result}
+		- Scoreboard
+			- Scoreboard increases your speed
+			- It gives you a boost
+		- Transformative Initiative {improvement}
+			- You have to know your direction before you go
+		- PEEL Method
+			- Plan your Gist
+			- 
+	- **Power Model**
+		- Prepare[smart goals]
+		- Organize calendar
+		- Work smart action
+		- Evaluate-review
+	- **Warren Buffetts 2 list strategy**
+		- Stop spending time on urgent things. Do things that are really important
+	- **GPS Techniqu 1-3-5**
+	- 1 Goal, 3 Priority, 5 Strategy
+	- Schedule is not important, priority is
+	- Doing the job correctly or doing the right things?
+		- Doin teh right things
+- Priortization
+	- Equality is a wrong concept. Fairness is right
+	- Focus on hight result work
+	- What is the measurable impact of your task?
+	- Busyness will give you a false sense of accomplishment. Tell me your impact
+	- You don't get paid for the time you spent. You get paid for what value you provide
+	- Deciding what to do and deciding what not to do is as important
+	- Don't loose the sight of your priorities
+	- Sabki sewa nahi karte. Sabka samman karo. Build your business. That's the best sewa you can do.
+	- The least effective person has the same amount as the most effective person
+	- Some will grow and some will go. Some will distinct and some will extinct.
+	- **4D Strategy**
+		- Do now
+		- Defer
+		- Delete
+		- Delegate
+	- **Moscow Method**
+		- Must do
+		- Should do
+		- Could do
+		- Want to do
+		- Won't do
+	- Absorb what is useful and discard what's useful
+	- **Eat that Frog**
+		- Do the hardest task first
+		- It will make your life easy
+		- Make a goal and add a deadline
+		- Take action
+	- **MIT Method**
+		- Before last night
+		- Make a list of 7 things that I need to do tomorrow
+		- Circle the next three
+		- Dedicate your mornings to the MIT
+		- Differentiate between major and minor things
+		- Do big tasks not small tasks
+	- **Priority Scoring**
+		- Assign Priority
+		- Batch common tasks
+	- **ABCDE**
+		- Start with a master List
+		- Rate them with A, B, C, D and E priority
+		- a= significant
+		- b- mild 
+		- c- no penalty
+		- d- delegate
+		- e- delete
+	- The worst use of time is doing something very well that needn't need to be done. 
+	- **GTD- Getting Things Done**
+		- Problem, project, process, people, improvement
+> 	- Real world doesn't reward perfectionist. It rewards people who get things done.
+- Planning, prepartion, prevention, 
+	- **Planning is Prevention**
+		- Planning helps you give a sense of direction
+		- Unforseen hurdles
+		- Failing to plan means planning to fail
+	- **Time Log**
+		- Track your time wasters
+			- Why am i spending time on things that don't produce any result
+		- Am i allowing people to come and dictate over my time
+		- How can I plan my time 
+		- Time is more valuable than money
+	- **Bilogical Prime Time Technique**
+		- Brain power depends on freshness
+	- **Deep Work/ The One Thing**
+		- Do the most important task
+		- distraction free task
+		- Distraction wastes your energy. Concentration restores your energy
+	- **Time Blocking/ Time Boxing**
+		- Time blocking is task based
+			- Read 100 pages
+		- Time boxing is time based
+		- Time batching is to combine similar tasks
+			- Switching between two different tasks can increase time by 50%
+	- **Pomodoro vs Pomeranian**
+		- 30 minutes and 3 minutes break
+		- 3 minutes work and 30 minutes break
+		- Flowtime technique
+			- will decide break time on the basis of my flow
+	- **ALPEN Method**
+		- Activites-define
+		- Length- Estimate
+		- Plan buffer time
+		- Establish priorites decisions
+		- Note the success level
+	- **Checklist- Manifesto**
+		- Create a checklist so you don't miss anythings
+		- Checklist is one of the high powered productivity tool ever discovered- well designed
+		- Critical and repeatable steps
+	- **Themed Day Method**
+		- Decide a theme for a day
+		- Completely spend you day on one theme in a day
+	- **CAPA Method**
+		- Chunking around purposeful Actions
+			- What is the outcome of this
+			- What is the specific measureable result
+			- What is My purpose
+			- Whate are my should and must for this?
+			- What is my massive action plan?
+		- **Day Planning**
+			- 8AM commitment and 8 PM Achievement
+			- Commit to do something and reflect on it everyday
+			- This is called sharpening your saw
+	- **Delegation**
+		- Business and busyness are two different things
+		- Delegation helps a leader from doing to leading
+		- Why people avoid delegate
+			- Control freak syndrome
+			- I am too busy syndrome
+			- They are too busy syndrome
+			- First-Time manager syndrome
+			- Insecurity Syndrome
+			- Rejection syndrome
+			- Lack of trust syndrome
+			- *Life is too short to do everything by yourself.*
+			- **Dr. Bibek Bindra's 5 step of delegation**
+				- Hire right people
+				- Jointly co-create the direction
+				- Let them take day-to-day actions
+				- Give them opportunity to spread their wings
+				- Give good compensation
+			- The secret of usccss lies not in doing your work. BUt by recognizing the right person who can do on your behalf
+			- Hire people who are better than you. Look for people who have remarkable work
+			- **Delgator is Responsible not delegatee**
+				- Don't dictate delegatee, build his thoughts
+				- Is delegation most appropriate?
+				- Do your own capability-ability analysis?
+				- Being able to do everything in business doesn't necessarily mean that you should do everything in business.
+			- **Circumstantial level of delegation- Situational leadership**
+				- level 1- Low delegation high control
+				- Level 2- Moderate delegation medium control
+				- Level 3- High delegation and low contorl
+				- Leading is also about letting go not only holding
+			- **Job Shadowing**
+				- 1st step- I do, you see.
+				- 2nd step- You do. I see
+				- 3rd step- You do. report immediately
+			- **Critical-capability matrix**
+				- Don't give a gun to monkey
+				- You can't let a new boy do open heart surgery/
+				- Give critical roles to capable people only
+			- **Who's got the Monkey Technique?**
+				- Delegate to capable people only
+			- **Delegation-outsourcing**
+				- Outsource
+			- **Unlock yout time strategy**
+				- Find ways to utilize your time to improve your productivity and performance
+			- **Mangement by Absence**
+				- IDEAL MBA
+					- Integration
+					- Delegation
+					- Elimination
+					- Automation
+					- Liberation
+			- **RACI Matrix**
+				- Responsible
+				- Accountable
+				- Consulted
+				- Informed
+				- Define these people and improve your productivity
+	- Meetings and Paperwork
+		- **INDIAN ARMY- My Hours technique**
+			- Punctuality is everything
+			- Time management is non-negotiable
+		- **Law of excluded alternative**
+			- Choosing to do one thing means chooosing to not to all other things that you could do at the same time
+			- Avoid unnecessary meetings.
+			- Meetings are the greatest time-wasters.
+		- **ROI and CBA of Meeting**
+			- Your meeting should be more valuable than the cost of meetings
+		- **Meeting Mangement Skills**
+		- **TRA TRS**
+			- Task
+			- Responsible
+			- Action steps
+			- Timeline
+			- Reviewer
+			- Support
+		- **Stand-up meeting**
+			- It has higher level of engagement and problem-solving
+		- **3D Technique**
+		- **Decision Automated Method- Technology never sleeps**
+			- There is no earning without learning
+	- Overcome Procrastination
+		- Don't delay, take small steps.
+		- Time is invaluable. You can't buy it but spend it. You can't store it but give it.
+		- Procrastination is the assasination of progresssion
+		- **Build Rewards for early gratification**
+			- Why don't people do work?
+				- They don't like to do
+				- They don't know how to do
+			- Give yourself short-term rewards
+		- **Do it now technique**
+			- If something takes less than 2 minutes to do, do it right now.
+			- Every time you choose to do one thing, you automatically choose to not do other things
+		- **Illustion or perfections**
+			- You can never reach perfection
+			- It will delay your progress
+			- Standing still is the fastest way of going backwards
+		- **The Parkinson's law**
+			- Work expands so as to fill the time available for its completion.
+			- Best for procrastinators
+			- Don't charge your laptop to give yourself time-lift
+			- Give yourself a deadline
+			- Create urgency, It differentiates between procrastinators and progressors
+		- **18 Minutes- SPR Strategy**
+			- Morning 5 Minutes
+			- Break after every Hours- 1 Minutes
+			- Evening 5 minutes- review
+			- Take care of your minutes and hours and it will take care of your job.
+		- **Minimum commitment Discipline Strategy**
+			- Create a non-negotiable MCDS
+			- Don't be afraid of growing slowly. Be afradi of standing still
+			- Laziness is the mother of all bad habits.
+			- There is no better time to start working on your dreams. Start right now.
+		- **Not-to do list strategy**
+			- List out the biggest time wasters
+		- **The Now Habit**
+		- The future is always uncertain
+		- Don't gamble on the future
+		- Do it now
+		- A year from now you will wish you had started today
+		- You can't go back and change your beginning. You can start now and change your future.
+		- Don't wait for things to be perfect. Do it now
+		- Today is a beautiful day to start

@@ -1,0 +1,22 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "Auto Datestamp and View": "/home/fahmida/.config/calibre/plugins/Auto Datestamp and View.zip",
+    "BookFusion Plugin": "/home/fahmida/.config/calibre/plugins/BookFusion Plugin.zip",
+    "Count Pages": "/home/fahmida/.config/calibre/plugins/Count Pages.zip",
+    "Generate Cover": "/home/fahmida/.config/calibre/plugins/Generate Cover.zip",
+    "Highlights to Obsidian": "/home/fahmida/.config/calibre/plugins/Highlights to Obsidian.zip",
+    "Job Spy": "/home/fahmida/.config/calibre/plugins/Job Spy.zip",
+    "Modify ePub": "/home/fahmida/.config/calibre/plugins/Modify ePub.zip",
+    "View Manager": "/home/fahmida/.config/calibre/plugins/View Manager.zip"
+  }
+}

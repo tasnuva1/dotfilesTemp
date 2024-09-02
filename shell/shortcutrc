@@ -1,0 +1,44 @@
+# vim: filetype=sh
+# info:
+
+# All the script inculding satuse bar: sc="cd /home/fahmida/.local/bin && ls -A" \
+# All the suckless software/programs: src="cd /home/fahmida/.local/src && ls -A" \
+
+# email system: cfm="$EDITOR /home/fahmida/.config/mutt/muttrc" \
+# blog reading: cfn="$EDITOR /home/fahmida/.config/newsboat/config" \
+# Music player: cfmb="$EDITOR /home/fahmida/.config/ncmpcpp/bindings" \
+# image viewer: cfX="$EDITOR /home/fahmida/.config/nsxiv/exec/key-handler" \
+
+######################### Folders then Files #############################
+alias cac="cd /home/fahmida/.cache && ls -A" \
+rv="cd /home/fahmida/downloads/videos/CoursesTutorials/Rust/learning/Easy-Rust-bite-sized-Rust-tutorials && lf" \
+cf="cd /home/fahmida/.config && lf" \
+aco="cd /mnt/3/Courses/media/audiobooks && lf" \
+dco="cd /mnt/3/Courses/tor-browser/Browser/Downloads/digitalBooks && lf" \
+vco="cd /mnt/4/Courses && lf" \
+nf="cd /mnt/3/Video && lf" \
+ho="/mnt/3/home" \ 
+hh="cd /home/fahmida && lf" \
+mn="cd /mnt && lf" \
+sc="cd /home/fahmida/.local/bin && lf" \
+src="cd /home/fahmida/.local/src && lf" \
+dt="cd /home/fahmida/.local/share && lf" \
+bf="$EDITOR /home/fahmida/.config/shell/bm-files" \
+bd="$EDITOR /home/fahmida/.config/shell/bm-dirs" \
+cfx="$EDITOR /home/fahmida/.config/x11/xresources" \
+cfb="$EDITOR ~/.local/src/dwmblocks/config.h" \
+cfv="$EDITOR /home/fahmida/.config/nvim/init.vim" \
+cfz="$EDITOR /home/fahmida/.config/zsh/.zshrc" \
+cfa="$EDITOR /home/fahmida/.config/shell/aliasrc" \
+cfs="$EDITOR /home/fahmida/.config/shell/shortcutrc" \
+cfp="$EDITOR /home/fahmida/.config/shell/profile" \
+cfm="$EDITOR /home/fahmida/.config/mutt/muttrc" \
+cfn="$EDITOR /home/fahmida/.config/newsboat/config" \
+cfu="$EDITOR /home/fahmida/.config/newsboat/urls" \
+cfmb="$EDITOR /home/fahmida/.config/ncmpcpp/bindings" \
+cfmc="$EDITOR /home/fahmida/.config/ncmpcpp/config" \
+cfl="$EDITOR /home/fahmida/.config/lf/lfrc" \
+cfL="$EDITOR /home/fahmida/.config/lf/scope" \
+cfX="$EDITOR /home/fahmida/.config/nsxiv/exec/key-handler" \
+# rr="cd /home/fahmida/.local/src && ls -A" \
+# m="cd /home/fahmida/Music && ls -A" \

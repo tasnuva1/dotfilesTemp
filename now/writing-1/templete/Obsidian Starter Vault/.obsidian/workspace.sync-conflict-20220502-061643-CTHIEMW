@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "ee5f9bb350d7a03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf3fca0c78d5e88",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dashboard.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a73612607014d0fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9bbcdf99740bd39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93701bd6095d9fef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6635667fa9c939aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a087acb2d3681a02",
+    "type": "split",
+    "children": [
+      {
+        "id": "befe7d9622756ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0241003fb4fb46bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "64b756b3bbeecfb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68c2ac0ddaf36486",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "459c67bf66eb9da2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a952a88a64966ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9bf3fca0c78d5e88",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "☀️Reflect/💌Rules I LIve By.md",
+    "Crypto Analysis.md",
+    "Fleeting Notess.md",
+    "Notes in Progress.md",
+    "Sort by date.md",
+    "Visual Illustrations Ideas.md",
+    "TRADING NOTES.md",
+    "Project Board.md",
+    "Untitled.md"
+  ]
+}

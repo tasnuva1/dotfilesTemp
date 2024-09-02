@@ -1,0 +1,121 @@
+#!/bin/bash
+
+################################################## For learning more: https://timeapi.io/swagger/index.html ##################################################
+# sudo date -s "03 feb 2024 4:20 am"; ###############
+
+sleep 2;
+
+API_URL="https://timeapi.io/api/Time/current/zone?timeZone=Asia/Dhaka"
+
+response=$(curl -s "$API_URL")
+
+if [ -z "$response" ]; then
+  echo "Error: Failed to fetch data from the API."
+  exit 1
+fi
+
+# Parse the response using jq (make sure jq is installed)
+numaric_date=$(echo "$response" | jq '.date')
+day=$(echo "$response" | jq '.day')
+month=$(echo "$response" | jq '.month')
+year=$(echo "$response" | jq '.year')
+time_24=$(echo "$response" | jq '.time')
+time_zone=$(echo "$response" | jq '.timeZone')
+name_of_week=$(echo "$response" | jq '.dayOfWeek')
+
+# echo $(( $(date +%u --date="Wednesday") % 7 + 1 ))
+# number_of_week=$(echo $(( $(date +%u --date=${name_of_week//\"/}) % 7 + 1 )))
+
+day_names=("Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday")
+
+for i in ${!day_names[@]}; do
+  if [[ "${name_of_week//\"/}" == "${day_names[$i]//\,/}" ]];  
+  then 
+    number_of_week=$(echo $(( $i + 1 )))
+  fi
+done
+
+letter_month_and_date=$(date -d $year-$month-$day '+%b %-d') 
+whole_time=$(date -d "$year-$month-$day ${time_24//\"/}" +"%I:%M %p") # 24h to 12h
+day_of_the_year=$(date -d $year-$month-$day '+%j') # Output: number
+week_of_the_year=$((${day_of_the_year#0} / 7)) # Exluding 0 for non-octal interpretation
+
+# sudo date -s "$year-$month-$day $whole_time" #############
+
+am_pm_part=$(echo $whole_time | rev | cut -c 1-2 | rev)  
+hour_part=$(echo $whole_time | cut -c 1-2)
+min_part=$(echo $whole_time | cut -c 4-5)
+
+if [[ "${am_pm_part//\"/}" == "PM" ]];  
+then 
+  hour_passed=$(expr ${hour_part#0} + 6) # Starting time: 6:00 AM
+  hour_left=$((16 - ${hour_passed#0})) # 6:00 AM - 10:00 PM = 16h 
+  min_left=$((60 - ${min_part#0}))
+fi
+
+if [[ "${am_pm_part//\"/}" == "AM" ]];  
+then 
+  if [[ $hour_part -gt 5 ]];  
+  then 
+    hour_passed=$(expr ${hour_part#0} - 6) # Starting from 6:00 AM
+    hour_left=$((16 - ${hour_passed#0})) # 6:00 AM - 10:00 PM = 16h
+    min_left=$((60 - ${min_part#0}))
+  fi
+fi
+
+date_no=$(echo $letter_month_and_date | rev | cut -c 1-2 | rev)  
+
+# -eq -ne (not eq) -gt -lt -ge -le 
+if [[ $date_no -le 7 ]]
+then 
+  which_week=1
+elif [[ $date_no -gt 7 ]] && [[ $date_no -le 14 ]]
+then
+  which_week=2
+elif [[ $date_no -gt 14 ]] && [[ $date_no -le 21 ]]  
+then
+  which_week=3
+elif [[ $date_no -gt 21 ]] && [[ $date_no -le 31 ]]  
+then
+  which_week=4
+else
+  echo "non mathch"
+fi
+
+
+# -eq -ne (not eq) -gt -lt -ge -le 
+# if [[ $date_no -le 7 ]]
+# then 
+#   # which_week="1"
+#   for i in [1..$date_no]; do
+#     counter=$(expr ${counter#0} + 1)
+#   done
+# elif [[ $date_no -gt 7 ]] && [[ $date_no -le 14 ]]
+# then
+#   # which_week="2"
+# elif [[ $date_no -gt 14 ]] && [[ $date_no -le 21 ]]  
+# then
+#   # which_week="3"
+# elif [[ $date_no -gt 21 ]] && [[ $date_no -le 31 ]]  
+# then
+#   # which_week="4"
+# else
+#   echo "non mathch"
+# fi
+
+
+echo "---------+---------+---------+---------+---------+---------+---------"
+# echo "Time Zone: $time_zone"
+# echo "Time: $whole_time"
+# echo "Time has left: ${hour_left}h ${min_left}m"
+# echo "Time has passed: ${hour_passed}h ${min_part}m/17h"
+echo "Today: $letter_month_and_date        $which_week out of 4 weeks"
+# echo "Month of The Year: $month"
+echo "Month: $month"
+echo "Name: ${name_of_week//\"/}"
+echo "Year: $year"
+echo "Days has passed: $day_of_the_year days passed"
+echo "Weeks has passed: $week_of_the_year weeks passed"
+# echo "Day Of The Week: ${number_of_week}th day week"
+echo "---------+---------+---------+---------+---------+---------+---------"
+

@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Check if the required command is available
+if ! command -v pdfunite &> /dev/null; then
+    echo "pdfunite command could not be found. Please install poppler-utils."
+    exit 1
+fi
+
+# Check if the correct number of arguments is provided
+if [ $# -ne 2 ]; then
+    echo "Usage: $0 <input_directory> <output_pdf>"
+    exit 1
+fi
+
+input_directory=$1
+output_pdf=$2
+
+# Find all PDF files in the directory structure and sort them
+pdf_files=$(find "$input_directory" -type f -name "*.pdf" | sort)
+
+# Check if any PDF files were found
+if [ -z "$pdf_files" ]; then
+    echo "No PDF files found in the specified directory."
+    exit 1
+fi
+
+# Combine the PDF files into one
+pdfunite $pdf_files "$output_pdf"
+
+echo "Combined PDF saved as $output_pdf"
+

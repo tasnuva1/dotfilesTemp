@@ -1,0 +1,357 @@
+---
+---
+**Source:** David Perell
+ 
+----
+- Preparing to write
+	- Day 1: Write for yourself
+		- “This is the conversation I want to have, not the one you want to have.”- Tyler cowen
+		- If some people are disappointed, let them be.
+		- Express yourself originally
+		- You will repel many but attract like-minded superfans
+		- Stop trying to write for everybody.
+		- You can write either for yourself or others
+		- If you keep others in mind, you won't have focus. Your brain will be paralyzed. You will go crazy thinking about thousands of people at once
+		- Think about what you've wanted six months ago
+		- Ideas that would have surprised you or would have save you time
+		- Write for practicioners and philosophers
+		- Write for one obsessive person
+	- Day 2: Why you should write
+		- Build your thinking, improve your thinking and create opportunities for yourself
+		- Good article can change your llife
+		- Internet rewards people who think well
+		- Each post advertises people and opportunities you want to attract
+		- Writing is like weightlifiting for the brain
+		- You improve your information diet when you start writing
+		- _“People who write a lot, also listen a lot. They also change their mind a lot. Not necessarily with new data, but sometimes re-analyzing the same data. They also work hard to disconfirm fundamental biases.” - Jeff Bezos
+		- Rewrite to rethinking. This is the best way to sharpen your ideas.
+		- Internet has created unlimited possibilities for writers. 
+		- You change the way you live when you write
+		- If you want to learn to cook invite friends over for dinner; if you want to learn about stocks, invest in the stock market; and if you want to learn about an idea, publish an article about it.
+		- Writiing online = Instant feedback = Accelerate your learning
+		- Inspires your to live an interesting life
+		- **How to start writing**
+			- Use short stories= illuminates what you're saying
+			- Write short sentences. Make one point per sentence
+			- Communicate as if you're talking to a friend at a bar
+			- You don't have writer's block. You don't have enough ideas about what you are going to write about. start with abundance of notes.
+		- Don't just write for yourself. Publis what you write. You try harder when others are watching you and your reputation is at stake
+		- Demand of quality writing > supply
+		- Self-discipline
+	- Day 3: The serendipity of Note-taking
+		- Note-taking= not just saving ideas, but generating new ideas too.
+		- System should be such it helps travel in a new direction just like grocery stores do with food.
+		- Don't make too orderly or rigid. It reduces serendipity
+		- reduces creative-inspiring randomness
+	- Day 4: Writing is more than typing
+		- Traditional writing books won't train people to write online
+		- Sourcing ideas, taking notes, conversations, putting words on blank page, distributing and building an audience
+		- Everyone has their own version of sourcing
+		- Typing is only a fraction of what it means to be a writer
+	- Day 5: Writing Makes you a better speaker
+		- Don't just write. Write publicly
+		- Sharpens your ideas, make clear consice
+		- Want to be a better speaker? Write everyday. Sharpen your thinking
+	- Day 6: Note-taking is time-travel
+		- Not just about savign quotes and grocery list
+		- Communicating with your past to devleop ideas over tiem
+		- Don't write everthing. Write enough to return to emotional state
+	- Day 7: Learning to write fast
+		- Write against a clock
+		- Note-taking system helps
+		- Build a second brain
+		- You can create outline easily
+		- Then talk about your ideas instead of writing about them. 
+		- Set a timer, speak like you are talking to a friend. Transcribe. You'll have a concrete structure of what you will write about
+		- This helps write faster, think faster and better
+	- Day 8: Writing can save you time
+		- Writing saves you time. 
+		- Publishing means you have permenant idea that you can remix and reuse for the rest of your life
+		- The more you write, the more and the more better you can create in the future
+		- Writing means you are already 20 miles ahead in and 15 miles marthod
+		- It generate intellectual capital. It will take time but you can reuse it forever to save thousands of hours over time
+	- Day 9: Learn like an athelete
+		- Athletes train, musician train, but knowledge workers don't
+		- Train like others implement strick learning plans
+		- For knowledge workers, success is harder to measure and no clear matrics
+		- Imitate their clear objectives and deliberate practice in self-improvement
+		- Training plan?
+			- With effective system learn faster and more fun
+			- Don't be reactive. Plan. Don't dwell your attention on emails newsletters and social media recommendations
+			- What should you do?
+				- Learn in 3 months quarters
+				- Break down big projects in daily goals and weekly goals
+				- Keep your end goal in mind and work towards it
+				- Build a video game for yourself
+				- Don't make goals too hard, neither too easy
+				- Choose what excites you as long as it serves your end goal
+			- Share what you learn, publish it. Helps you digest and attracts readers of same interest, Imporoves feedback loops= Learn better and improve faster
+		- To improve writing, write first, share it and then work around the feedbacks
+		- The more you learn, the easier it becmoes to write
+	- Day 10: The three B's of Creativity
+		- Creativity= Serependipitous
+		- Arise due to relaxation instead of effort and thinking
+		- Walk, relax, travel and let yourself relax. helps you to think clearly and write good stuff
+		- Bus, bed and bath
+		- Creativity= Unfocused and unconcentrated mind.
+	- Day 11: You Already have a voice
+		- Stop waiting till you find a voice
+		- Just because you can't write like tim doesn't mean you shouldn't write
+		- Don't fear being unoriginal. 
+		- Some are unique and weird than others bu some are really more weird.
+		- You already have a voice. 
+		- Your readers will be drawn to your voice.
+		- All you have to do is write and publish more frequently
+		- Pay attention to what people say and the compliments they give
+		- Double down on what worked and leave the rest.
+		- The internet rewards
+	- Day 12: Look for things that don't make sense
+		- Adam Robinson said "One of the key things to investing is to be aware when you hear a voice in your head that says it doesn’t make sense. That’s where the gold mine is — things that don’t make sense.”
+		- Things that don't make sense are the best learning opportunitites. 
+		- Look for things that don't make sense. Thats where hidden gems are found. 
+	- Day 13: Lateral thinking with Withered Ideas
+		- You can have cutting edge innovation without cutting edge technology
+		- You don't have to talk about new things when writing. You can talk about the old ideas in a nwe way. 
+	- Day 14: The Go-for it windows
+		- Technology advances so fast. Large gaps between technology and accelerating technologies create  opportunites but only for a limited time. You should be able to capiltalize on that opportunity. 
+		- When you know something that others don't know. when you see something that others don't see, that's an opportunity to capitalize on it.
+		- You have to have confidence and willingness to ignore the crowd if you want.
+		- You see an opportunity, act on it. 
+		- You will miss it if you don't act
+	- Day 15: Find your shiny dime
+		- Showing up every day in small steps will make more progress than all-day scattered workouts ever will.
+		- You don't have to write an enormous and comprehensive articles. Most writers are paralyzed by this idea. This cause them anxiety.
+		- “Expect 80% of the ideas in an essay to happen after you start writing it.” Every topic is bigger than it seems at first. So instead of writing panoramic thought pieces, focus only on your shiny dime.
+		- Start with a small idea and then write about it.
+	- Day 16: POP Writing
+		- There are three variables in every writing: Personal, observational, and playful.
+		- You have to make a balance between theset three to make  your writing good.
+		- Personal writng builds upon emotions and stories. It builds a connection with your readers. Too much personal is not good, its junk. Nobody cares about your personal life unless they can get something out of it.
+		- Observational writing is when you notice patterns in other people. 
+		- Playful writing is when you add bits of fun and enjoyment to your writing. like jokes and analogies, experiments, etc. 
+	- Day 17:  Write while you read
+		-  Reading sparks new ideas. Good books will give you best ideas. but if you don't capture those ideas they will soon disappear. 
+		- You have to catch them while you are still fresh.
+		- Digital note taking makes reading and writing more productive
+		- Don't just write a summary
+		- Be selective but don't write too short that you don't have context about it. 
+		- They don't need to be perfect. They are your first draft
+		- Don't spend more than 3 minutes in a single idea
+	- Day 18: Write while you walk
+		- You don't need to be sitting while you write. To write, you just need to write.
+		- Morgan housel said he takes note when he walks if he ever feels he is getting wwriters block
+		- You do your best work when you let your mind wander.
+		- Walking creates a big-picture writing. It generates ideas and organize the flow of your articles
+		- Write down everything that comes to your mind. It will make you think deeper.
+		- Neighbours think I'm smartphone addict and I can't move 100 yards without typing in the phone.
+	- Day 19: Create a physical structure
+		- Your memory is malleable
+		- With the right strategies, you can raise your intelligence
+		- For writers, it can be externalizing ideas
+		- Post it notes are better for long-from essays. They are better than linear structures. 
+		- Post it notes help for book and long-form essays.
+		- Hang it on the wall where you can see it constantly. That way your subconscious can stew on ideas when you are not actively thinking or working.
+	- Day 20: Talking will cure writers block
+		- If you can't write when you are infront of your computer, talk
+		- Record while you talk
+		- Transcribe it and rearrange ideas and create an outline
+	- Day 21: Assume you're not original
+		- Derek sivers says assume you are below average. This allows you to ask questions and listen more. You admit openly that you're still average and still learning.
+		- In the writing, assume you are a copycat. You're a robot who mirrors. You produce what you consume. You can't generate new ideas no matter how hard you try.
+		- Society has traditionally rewarded people who fit in, butt internet rewards people who stand out. You don't have to be original. Surround yourself with people who you want to imitate and build upon their ideas.
+	- Day 22: Write about earned secrets
+		- Earned secrets are the only things that you can write about
+		- They are valuable.
+		- There are secrets waiting to be found. Yo can get out and discover them. 
+		- When you give a unique eye, it's as a result of byproduct of expertise. 
+		- As a writer it's your job to find the secrets and talk about them
+	- Day 23 :Create a story  box
+		- Like other creators and artists, you should follow their process of collecting and saving ideas. 
+		- Personal stories, information from what you consume 
+		- Whenever you want to write, go through your story box. When you are hungy for inspiration, go through your stories. 
+		- Start building your storybox. It will turbocharge what comes with having a second brain.
+	- Day 24: Leave summary for yourself
+		- The more uncertain you are about what to write about, the more harder it will be to write. You will be distracted more often.
+		- Take a few minutes and write a 100 word summary about what you are thinking and what you;ll write about. Where you are stuck, what you plan to do 
+	- Day 25: The islands and the bridges
+		- There are two types of writing: clear thesis writing and foggy writing.
+		- But even if you don't know what you are gonna write about. you should write something. Your work will carry you forward
+		- Just as enterpreneurs don't wait to start a company until they know exactly how they are going to build it, you shouldn't wait either until you have an outlined every single sentence.
+		- You have to build islands as many as you can and narrow them to build bridges between them.
+	- Day 26: Hide your work
+		- Your work is done when it looks so simple that the consumer thinks they could have done it, which means they won't appreciate how hard you worked.
+		- Easy reading is hard writing.
+		- You should hide your writing and publish only  a small percentage of what you read.
+		- Writing begins with creating phase and ends with deletion.
+		- Elegance is the end result of hard work, not the starting point. Strive to make your work so invisible that the reader thinks they could also have written what you published.
+	- Day 27: Immitate, then innovate
+		- Read your favorite writers and immitate them shamelessly
+		- In other fields people copy, but in writing it is often discouraged. But that's how you get good at stuffs.
+		- We are not perfect copying machine. The more we immitate the more it reveals our voice. 
+		- Instead of trying to be original, mirror others so intensely that the glitter of their brilliance shines upon their  craft.
+	- Day 28: Bring a unique dessert
+		- If you want to stand out you will have to offer something different
+		- Nobody wants to read the same stuff and nobody cares at all
+		- You can either invent your own style or add a unique twist to a popular one. That's the only way to avoid competition and standing out in the crowd.
+	- Day 29: THe raymond chandler rule
+		- Writing online has to be crisp and direct. 
+		- Your readers should have an epiphany every 250 words
+		- Short attention spans are myths. Readers are more likely to stop reading if they're bored.
+		- They love long stories if they are compelling and you give them somethinge every short time after
+	- Day 30: The right kind of original
+		- Yuval Noah harari sold 12 million copies without adding any original research.
+		- He presented it in a new form to clarify to most people
+		- Intellectual process is never indiviuals, it is combinatorial
+		- Joseph Henrich said that human species are successful not because any one individual is so smart, but because of how we utillize collective intelligence
+		- “Innovation in our species depends more on our sociality than on our intellect.” - henrich
+		- Don't be obsessed with originality. You can't also copy and paste directly. Take inspirations
+		- 2 ways to avoid plagiarism:
+			- Give the author credit for his ideas
+			- When in doubt, acknowledge the sources of your ideas
+		- There's nothing under the sun. Even if you want to be original. Aim to create an original premise instead of using only original ideas. 
+		- Stop going in the rabbit hole of originality
+		- As a writer your job should be to look in places where noone else is looking. That's where worthy ideas are found
+	- Day 31: Intellectual Phase Transition:
+		- Just like matter changes in physics. The ideas never change, the way you present them is what changes.
+		- Antoine Lavoisier who said: “Nothing is lost, nothing is created, everything is transformed.”  
+		- Your job as a writer is to transform existing ideas into epiphanies by combining other people's ideas.
+		- Study other people's ideas and present it in a differen form
+		- Creativity is always inspired by other peoples ideas. Embrace it quickly
+		- Every idea is second-hand
+		- If you don't know where to start. list the people you love reading and read them and blend all of their ideas together. 
+		- Through combination and recombination, you will master creativity.
+	- Day 32: Summarize the canon
+		- Build an audience by summarizing the best books
+		- This way you attrract an intelligent audience and introduce them to important ideas.
+		- A good summary is also often better than actual book
+		- Find the canonical books read them and summarize them and present them into an audience
+	- Day 33: Write a summary box
+		- A topic can expand sometimes to create a writing sprawl
+		- It not only leads to confusion but also writers block
+		- You can create a summary box to help face this problem
+		- Create a 200-400 word summary of what you plan to write about. 
+		- Write ideas that are important but distracting. 
+		- Externalize them so that you can come back next time
+		- It helps to keep focus on the main point of article while avoiding the distracting ideas.
+		- This can be counter-productive in times when you don't know what to say before writing like open-ended essays
+	- Day 34: The but and therefore rule
+		- Boring stories don't have a but and therfore effect.
+		- Having but and effect in your stoires makes a sense of cause and effect in your stories.
+		- Swap then moments with but and therfore and your stories will look less boring. 
+	- Day 35: Diversify your vernacular
+		- Write like you talk.
+		- Don't write to sound smart but to inject fun and freshness in your ideas.
+		- Write like you talk because it forces you to write clearly. 
+		- Write in words that people know but don't say to make your writing more better
+		- Never use words people don't know and don't use.
+	- Day 37: FAST Writing
+		- You are taught to write slowly from the beginning. Unless you want to devote your whole life to writing, this will not work.
+		- Here's a FAST writing guide
+		- **Find:**
+			- Take notes to save your best ideas. Because research can be stressful.
+			- Note-taking is a passive research. 
+		- **Assemble:**
+			- Don't write with a blank page. Create a long-list of scattered ideas relating to your topic. This will ignite your creativity.
+			- Writing without a note-taking system is like trying to build a campfire withot a pile of wood. 
+			- Assembling your notes or ideas helps you spark your own creativity
+		- **Speak:**
+			- Speaking makes writing easy. It helps you develop ideas 
+			- It forces you to structure and develop ideas.
+			- The more you can think in conversations you are already having, the more refined your ideas will be when you start typing.
+		- **Teach:**
+			- Sharing your ideas with others is the best way to learn. 
+			- It create various feedback loops in the process which makes you better at a topic.
+		- To write regularly, you have to write fast and you won't have the time for slow methododlogy
+		- Day 38: The three deadly sins
+			- Redundant words say the same thing twice, wasted ones don’t serve a purpose, and weak ones lack meaning.
+			- Don’t write “Eddie was a kind, generous, and thoughtful person” when you can call him a “saint.”
+			- Don’t write “He passed away early in the morning, and people all over America cried” when you can write “He died at dawn and the nation wept.”
+			- Wasted words slow the momentum of your writing. Redundant words make reading less interesting
+			- Whenever you can reduce your sentence to five words instead of 10, without altering the meaning, do it. 
+			- Compress your sentences to make them short and sweet.
+	- Day 39: Expression is compresssion
+		- You have to compress what you know into smaller size.
+		- A map is not useful if it is as big as the size of a country. What'd be the use of it if the whole country would be covered with the map once its unfolded
+		- Map are useful even when they are inaccurate.
+		- You have to move away the irrelevant details of the map until you have what you need. 
+		- There;s a good reason for distortion in the map
+		- If you feel like you don't have something meaningful to create, collect experiences or read something and spend time processing it by writing or talking to others.
+	- Day 40: Write clear sentences
+		- CLEAR Stands for:
+		- Create a rythm: 
+			- Make your words dance. Make sentences short and long. Mix them in between. Short will speed things up. Long will slow them down. Write in combination of short, medium and long sentences
+		- Link your sentences:
+			- Let every sentence follow the other. Connect one sentence with other. You shouldn't leave a hole in paragraphs
+		- Add colorful details:
+			-  “Good writing is supposed to evoke sensation in the reader, not the fact that it’s raining, but the feeling of being rained upon.”
+			- Write data,facts,quotes, annectdotes and make readers feel like ther are reading something good.
+		- Remove unnecessary detail
+			- First remove unnecessary words and information and make your sentences clear. You have to respect the time of reader
+		- You'll have to delete most of what you write but this will help your writers find something beautiful to read. 
+	- Day 41: **CRIBS** my mistake feedback formula
+		- Feedbacks can be powerful. Most people don't know how to give feedbacks. This makes writing feel worthless and dejected
+		- You can be an editor with this simple formula:
+		- **Confusing:**
+			- Don't try to sound smart. Your goal is to communicate clearly. Confusing writing also means that you haven't thought properly abotu what you will read.
+		- **Repeated:**
+			- Don't repeat yourself. Make it as consise as possible. It's a self-insult to repeat yourself. 
+			- Delete things that repeat them or write clearly
+		- **Interesting:**
+			- Write interesting ideas otherwise no one will read your work online. That's what makes you unique to your audience
+		- **Boring:**
+			- Nobody tolerates boredom with a phone in their hand. You have to make them engaged. Skip the sections that cause the audience to wander.
+			- Delete or rewrite things when you find something boring. 
+			- It also works with speaking along with writing. You can look at people's faces with their emotions. They reveal how they feel and you can see. As you say, be aware of their expressions.
+	- Day 42: The public to private bridge
+		- Attention doesn't mean audience
+		- Use platforms to get reach and exposure in the beginnig. It's a fastest way to grow your audience as long as they sign up for your private channels.
+		- Ride the public platform but don't forget to cross the bridge by owning the audience and your content. 
+		- Only when you have your audience's contact and a private platform, then you will have an audience
+	- Day 43: The soulja Boy Strategy
+		- If you want to create content, start with curation. It's a gateway drug to publishing your own ideas.
+		- Gives you license to experiment without the pressure of coming up with new ideas. 
+		- Consuming is already 80% of the task
+		- Write a description as you were writing it for a friend and publish it.
+		- Cuation isn't about finding links and posting shit. Your commentry is what will make you different. 
+		- Add your own layer to the story, inform your reader. 
+		- THe fewer the items on the menu, the better.
+	- Day 44: Don't find a niche. Create One
+		- Capitalize on how the world is changing and occupy the unexplorered intersection of ideas
+		- You can't change the consumption patterns of people no matter how much good product you create.
+		- Differentiation is free marketing in the online world
+		- Avoid competition to rise faster
+		- Build something on your own terms and own a niche you create
+	- Day 45: Get Wonky
+		- As Patrick says: "On the internet, the more focused you are, **the more wonky and niche you are**, the bigger your audience is. I think the internet rewards the edges of distributions, and I just happened to be really interested in one of those edges, which was **deep, wonky business and investing discussions**.”
+		- Have enthusiastic interest in the specialized details of your domain.
+		- Wonkiness gives you free ideas that nobody has ever seen before
+	- Day 46: Find your scenius
+		- In Eno’s words: “If genius is the creative intelligence of an individual, Scenius is the creative intelligence of a group.”
+		- For the first time in human history, scenius is moving beyond physical geography. It’s happening on the Internet now. And it’s alive in obscure Discord forums, private group chats, and online schools.
+	- Day 47: One big idea
+		- Our obsession with learning has descendeed into an obsession with consumption.
+		- More information doesn't make you more bettter.
+		- Study a panoramic idea for long enough and you’ll start to see its effects everywhere. People with intimate knowledge of One Big Idea monopolize a narrow band of the light spectrum, which gives them access to ideas and opportunities regular people miss.
+		- The world is pregnenet with opportunities which reveals themselves to us once we decide what we want to see.
+		- “In the day-to day trenches of adult life, there is actually no such thing as atheism. There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship." - David Foster'
+		-  people systematically under-estimate the scale and interconnectedness of the Internet.
+		- All my thinking orbits the central idea of the internet’s impact on learning, entrepreneurship, and personal relationships.
+	- Day 48: Audience-first products
+		- All my thinking orbits the central idea of the internet’s impact on learning, entrepreneurship, and personal relationships.
+		- Audience-first products
+			- Build an audince
+				- Sharing your ideas and thougts attract like-minded people 
+				- Also with feedback loops, you become more smarter
+				- Surround yourself with like-minded people
+			- Build a product
+			- Scale the solution
+	- Day 49: Build Personal Monopoly
+		- You want to be the only person who does what you do
+		- Intersection of your skills, interests, and personality makes you unique
+		- Pick a small but ever-growing market and learn everything about it. Build expertise around it.
+		- Forge a [distinct path](https://click.convertkit-mail.com/5qun5edn8da8uk5qmra6/9qhzhnhg6xx57oa9/aHR0cHM6Ly93d3cucGVyZWxsLmNvbS90d2VldHN0b3Jtcy9kb250LWZpbmQtYS1uaWNoZS1jcmVhdGUtb25l) instead of copying what everybody else is doing. Work on ambitious projects, study the [unexplored intersections](https://click.convertkit-mail.com/5qun5edn8da8uk5qmra6/3ohphkhq2rrpwphr/aHR0cHM6Ly93d3cucGVyZWxsLmNvbS90d2VldHN0b3Jtcy9sb29rLWZvci10aGluZ3MtdGhhdC1kb250LW1ha2Utc2Vuc2U=) of ideas and find the questions that people are asking but nobody is answering
+	- Day 50: Build Personal Monopoly
+		- Invest in Personal monopolies where the demand is increasing with restricted supply.
+		- Don't chase hype. Choose the intersection of between your genuine curiosities and how you think the future will be different. 
+		- Do things that feel like play to you but work to others. 
+		- You have to make an investment only when you know the value will rise up

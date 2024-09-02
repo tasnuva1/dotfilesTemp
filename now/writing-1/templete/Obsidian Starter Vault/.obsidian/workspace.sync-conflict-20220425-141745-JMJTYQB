@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "ee5f9bb350d7a03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18acd67cfa06b38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🌻References/🍀Permanent Notes/Your energy is not constant.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d229bd4f94f8cdce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5b5b86d1632b6533",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a0d836457e582eda",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9b3521b85b127f7a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d08bd810c681b372",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b79903dc34aa52b8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "57c2a581e9efd342",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "🌻References/🍀Permanent Notes/Your energy is not constant.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "047b8bbe9e43bdb7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "🌻References/🍀Permanent Notes/Your energy is not constant.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a8c4016bd7c97566",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "🌻References/🍀Permanent Notes/Your energy is not constant.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b18acd67cfa06b38",
+  "lastOpenFiles": [
+    "🌻References/🍀Permanent Notes/Your energy is not constant.md",
+    "Homepage.md",
+    "🌻References/+ Here's why traders fail while others succeed.md",
+    "Readwise/Articles/The Curse of Imposter Syndrome.md",
+    "🌻References/@ The Curse of Imposter Syndrome.md",
+    "🌻References/+ Get The Losers Out of Your Life- Jim Rohn.md",
+    "🌻References/202108131345- How to Have Your Best Year Ever.md",
+    "🌻References/202107121710- How to Set goals JIM ROHN.md",
+    "🌻References/+ Jim Rohn Have a Solid Plan.md",
+    "🍀Permanent Notes/Focus on a Single Thing & see how your life changes.md"
+  ]
+}

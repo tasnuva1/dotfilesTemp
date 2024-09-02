@@ -1,0 +1,127 @@
+---
+---
+**Creator:** Andrew Kirby
+**Price:** Free
+**Link:** [The Science of How to Grow on YouTube: Full Guide (webflow.io )](https://first-class-creator.webflow.io/youtube/intro) : Password: youtubemastery
+**Type:** #litnote  [[Courses]]
+**Topics:** [[Youtube]] [[Side Hustle]]
+
+---
+- **Intro**
+- **How does youtube work?**
+	- It wants you to stay on the platform. It is terrified of you leaving the platform to got to netflix
+	- Youtube 2 metrics are: Viewers need to click on the video and watch the video
+	- **CTR and AVD:**
+		- The more people watch and the longer they watch, the more youtube will promote your video.
+	- Likes, Comments, Shares and subscribers don't count.
+	- Tags, SEO, and Descriptions
+		- They don't matter much
+		- Youtube will show the most relevent video with a hight CTR and AVD
+- **The IDEA behind a video matters the most**
+	- The quality of your ideas caps the all other things, thumbnails, titles, your ability to keep people hoooked and much more
+	- Everything comes from quality of your idea
+	- *Cheat-sheet for Ideas:*
+		- New and Beneficial
+			- **The best ideas are both new and beneficial**
+			- Old and beneficial= boring
+			- new and not beneficial= scam
+			- old and not beneficial= politicial
+		- ***Great ideas are radically new and incredibly beneficial***
+	- *CTR Potential*
+		- Think of CTR potential first before you proceed with the idea
+	- *AVD Potential*
+		- Can this video get an incredibly high Average View Duration
+	- *Channel Love*
+	- If you want massive results, viewers should watch 3 more video from your channel after they watch the first one.
+- **Generating IDEAS**
+	- Creativity is like a dirt tap. Good ideas will come once you clear away all the bad ideas
+	- MrBeast: **Sit down for at least 1 hour a day and brainstorm ideas**
+- **CTR**
+	- *Thumbnails:*
+		- **Has to be able to draw eyes**
+			- Faces
+				- We are drawn to emotive faces
+				- Expressive faces draw the human eye but forced expressions push the human eye
+			- Brightness and Contrast
+				- Bright thumbnails and high contrast colours draw the eye more
+		- **Able to understand**
+			- Whatever you want to focus on, don't make them small. Make those things fill in the space
+			- Don't focus on the wrong stuff
+			- Don't use too much text and colurs and fonts that are hard to understand
+		- **Want me to click it**
+			- Write a list of:  
+				- Who is in the video
+				- What are they doing in the video
+				- Where are they doing it
+				- *Capture all of that in the thumbnail*
+			- Pick 2 or three important things to focus on and show that on thumbnail
+		- Add thumbnail updates
+			- If the CTR is not well-performing after 1 hour of upload, update the thumbnail to see any changes.
+	- *Titles*
+		- Make it simple
+		- Make it personal
+		- Word choice
+			- Who
+			- What 
+			- Where
+- **Audience Retention**
+	- Retention is about one thing: Questions
+	- Humans hate unanswered questions and we want to find those answers
+	- ALSO, People have to care about the question and enjoy the journey to answering questions
+	- **A Compelling question(INTRO):**
+		- Setup your central question in the first 5-10 seconds of your video
+		- Your question should hit:
+			- Clarity
+			- Unknown answer
+			- Beneficial
+			- Decrease skepticism
+			- Uncertainity
+	- **An Enjoyable Journey(The Video)**
+		- B-plots
+			- Set up 2 plots so that audience will retain for another plot even one bores them
+			- Fake Answers
+				- Answer the question and the pull it away
+			- Emotional Highs
+				- Take your audience on rollercoaster of emotions
+			- Pattern Interrupts
+				- Don't let your audience become complacent. Create a pattern. Break it.
+			- Decrease Bad Bits
+				- Boring characters
+				- Click-off emotions
+				- Inauthenticity
+	- **The Answer(end)**
+		- Don't make long outros begging subscribers. This ruins the video
+		- Their time is valuable. 
+		- Answer the question and end the video.
+- **Mindset**
+	- Healthy attitude = Authentic you and no burnout
+	- *View of youtube*
+		- See yourself as the servent to an audience
+		- Make somthing that is worth watching for the audience
+	- *When views are down*
+		- Don't get upset and blame the algorithm
+		- Keep moving
+		- Learn why views dropped. View it as an opportunity to learn more about the audience
+	- *Level of fun*
+		- Views take care of themselves.
+		- Focus on making cood content and let you joy shine through your videos
+	- *Humility*
+		- Don't be arrogant about your growth
+		- Don't have a hidden pride in your growth
+		- Always be humble. Ask for help when needed. 
+		- Always keep learning. Give more to your audience
+	- *Wealth*
+		- Don't go with the mindset of making money only
+		- You are rewarded for how much your audeince enjoys your content.
+		- You will be rewarded for making great content so make that
+	- *Action*
+		- Don't let your actions fluctuate with views
+		- Be consistent: Have a fixed upload and production schedule and brainstorming schedule
+		- Best youtubers have a team that will him serve thier audience
+	- **How to avoid Creator Burnout**
+		- If you don't enjoy doing something, hire someone to do it
+		- If you are not excited to get out of bed every morning to do your job, hire someone to do that things
+		- Pay others to do your job
+
+> MAKE VIDEOS PEOPLE WANT TO WATCH.
+

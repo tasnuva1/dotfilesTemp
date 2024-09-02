@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "ee5f9bb350d7a03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1629ce77fa858311",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🌻References/🤑Trading Quotes.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fb999ff6bccd913",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8de4d2ed2206965d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5084c845ea0e1933",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "09b11d197167c4fb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "16402d822d5bc7f4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "286c8e6109212016",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "41d462c014808c36",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "🌻References/🤑Trading Quotes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fd69a3937c18e0ec",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "🌻References/🤑Trading Quotes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "95eb86b915397078",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "🌻References/🤑Trading Quotes.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "1629ce77fa858311",
+  "lastOpenFiles": [
+    "🌻References/🤑Trading Quotes.md",
+    "Dashboard.md",
+    "🍀Permanent Notes/Capitulation.md",
+    "🌻References/📕Quotes Worth Reading.md",
+    "Reading List.md",
+    "🌻References/@ How to Daytrade Successfully.md",
+    "TRADING NOTES.md",
+    "🌻References/@ How many hours to spend a day for trading.md",
+    "Capitulation.md",
+    "🍀Permanent Notes/Don't Catch a falling knife in trading.md"
+  ]
+}

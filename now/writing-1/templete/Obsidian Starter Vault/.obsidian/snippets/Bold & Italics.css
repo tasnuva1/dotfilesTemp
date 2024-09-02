@@ -1,0 +1,61 @@
+/* Bolds Italics   */
+
+.theme-light strong {
+  background: #b0ffba;
+  font-weight: 600;
+  text-decoration: none;
+  color: #33272a;
+  display: inline-block;
+  padding: 3px 10px 3px 10px;
+  margin: 1px 2px 1px 2px;
+  border-radius: 6px;
+  transition: 0.5s;
+
+}
+
+.theme-light strong:hover{
+background: #f1dbc6;
+font-weight: 600;
+text-decoration: none;
+color: #33272a;
+display: inline-block;
+padding: 3px 10px 3px 10px;
+margin: 1px 2px 1px 2px;
+transition: 0.5s;
+}
+
+.theme-light .cm-strong {
+  background: #b0dab8;
+  font-weight: 600;
+  text-decoration: none;
+  color: #33272a;
+  display: inline-block;
+  border-radius: 6px;
+}
+
+.theme-dark strong {
+  background: #b0ffba;
+  font-weight: 600;
+  text-decoration: none;
+  color: #33272a;
+  display: inline-block;
+  padding: 3px 10px 3px 10px;
+  margin: 1px 2px 1px 2px;
+  border-radius: 6px;
+  transition: 0.5s;
+
+}
+
+/************* Italics - Emphasis ********************/
+
+.theme-dark em, .cm-em {
+  color: #cea338;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.theme-light em, .cm-em {
+  color: brown;
+  font-style: italic;
+  font-weight: 600;
+}

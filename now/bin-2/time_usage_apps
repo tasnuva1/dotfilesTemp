@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/home/fahmida/.local/bin/time_usage_app_1
+/home/fahmida/.local/bin/time_usage_app_2

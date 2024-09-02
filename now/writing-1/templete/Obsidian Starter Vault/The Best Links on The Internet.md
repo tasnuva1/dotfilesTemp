@@ -1,0 +1,9 @@
+- [[The Brutal Truth About Reading If You Don’t Take Notes Right, You’ll Forget Nearly Everything]]
+- [[Using Visuals to stand out, go viral and make money with Janis Ozolins]]
+- [[Two Skills Have Made Me a Time Billionaire — They’ve Taken a Lifetime to Master]]
+- [[Start a Sneaky Online Empire from Your Bedroom (In Silence) to Unlock Passive Income]]
+- [[How to Have Your Best Year Ever]]
+- [[Jim Rohn Goal Setting]]
+- [[Jim Rohn Have a Solid Plan]]
+- [[How to Be Succesful]]
+- [Building a Second Brain: An Overview - Forte Labs](https://fortelabs.co/blog/basboverview/)

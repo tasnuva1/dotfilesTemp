@@ -1,0 +1,53 @@
+{
+  "geometry-of-toc_editor_window_geom": {
+    "frame_geometry": {
+      "height": 608,
+      "width": 908,
+      "x": 58,
+      "y": 80
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 900,
+      "x": 62,
+      "y": 84
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 900,
+      "x": 62,
+      "y": 84
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAA6AAAAUAAAA8UAAAKvAAAAPgAAAFQAAAPBAAACqwAAAAAAAAAABAAAAAA+AAAAVAAAA8EAAAKr"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "VGA-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1024
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      }
+    }
+  }
+}

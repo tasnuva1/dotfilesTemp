@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# 4:05
+# 12:06
+# 3:30
+# 6:50
+# 8:18
+
+alarm 4:05 &
+alarm 12:06 &
+alarm 3:30 &
+alarm 6:50 &
+alarm 8:18 &
+
+# alarm 7:05 &
+# alarm 7:15 &
+# alarm 7:25 &
+
+

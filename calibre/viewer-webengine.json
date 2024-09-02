@@ -1,0 +1,834 @@
+{
+  "delete-highlight-from-viewer_again": false,
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 747,
+      "width": 1024,
+      "x": 0,
+      "y": 21
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 739,
+      "width": 1016,
+      "x": 4,
+      "y": 25
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 739,
+      "width": 1016,
+      "x": 4,
+      "y": 25
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1024
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-read-aloud-config-geometry": {
+    "frame_geometry": {
+      "height": 660,
+      "width": 359,
+      "x": 332,
+      "y": 54
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 652,
+      "width": 351,
+      "x": 336,
+      "y": 58
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 652,
+      "width": 351,
+      "x": 336,
+      "y": 58
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFMAAAANgAAArIAAALJAAABUAAAADoAAAKuAAACxQAAAAAAAAAABAAAAAFQAAAAOgAAAq4AAALF"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "VGA-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1024
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": true,
+    "geometry": {
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 122,
+      "width": 828,
+      "x": 269,
+      "y": 323
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAABDQAAAUMAAARIAAABvAAAAAAABAAABVYAAAAAAAAAAAAABVUAAAL/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "highlight_export_format": "txt",
+  "local_storage": {
+    "search-bar-history-search-for-sc": [
+      "speech",
+      "n",
+      "tts",
+      "voice",
+      "es",
+      "click",
+      "right click",
+      "copy",
+      "rea",
+      "reas",
+      "read",
+      "close",
+      "j",
+      "page",
+      "pageup",
+      "pre",
+      "next",
+      "l",
+      "font"
+    ],
+    "simple_input_history_net_search_url": [
+      "https://google.com/search?q={q}"
+    ]
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD8AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALjAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawEAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALl/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAC9gAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "saved-highlights-search-settings": {},
+  "saved-search-settings": {
+    "Uncertainty": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "and conn": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "and conntec": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "army": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "as a result of this": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "billon do": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "blog": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "brad": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "bread": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "but the githube": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "but the githube g": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "by a direct and honest connection": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "by a direct and honest connection to the": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "by a direct and honest connection to the world around us": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "by st": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "care": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "code (the final output of a project": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "code the final output of a project": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "company making": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "far more": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "freedom": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "full of p": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "get up": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "honest connection": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "hours a week to": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "interact": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "just": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "learning": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "location 6": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "location 630": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "mini": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "month": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "more software bug": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "not for me": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "over time": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "pattern r": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "sex": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "si ar": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "simp": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "so on": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "then we can say ego inhibits true success by a direct and honest connection to the world around us": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "there": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "think in terms of how": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "true success by a direct and honest connection to the world around us": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "variable": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "wait": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we are b": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we are be": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we're b": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "what": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "working with others": {
+      "case_sensitive": false,
+      "mode": "normal"
+    }
+  },
+  "session_data": {
+    "base_font_size": 14,
+    "book_scrollbar": true,
+    "columns_per_screen": {
+      "landscape": 0,
+      "portrait": 0
+    },
+    "controls_footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "*new",
+    "footer": {
+      "left": "clock",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "header": {
+      "left": "empty",
+      "middle": "pos-book",
+      "right": "empty"
+    },
+    "hide_tooltips": null,
+    "highlight_style": {
+      "kind": "color",
+      "type": "builtin",
+      "which": "yellow"
+    },
+    "keyboard_shortcuts": {
+      "back": [],
+      "copy_to_clipboard": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "c",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "c",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "c",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "down": [],
+      "end_of_book": [
+        {
+          "altKey": true,
+          "ctrlKey": false,
+          "key": "k",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "end_of_file": [],
+      "forward": [],
+      "left": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "j",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "`",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowDown",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "next_section": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "h",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "pagedown": [],
+      "pageup": [],
+      "previous_section": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "l",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "read_aloud": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "s",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "n",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "right": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "k",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowRight",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "Tab",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "scrollspeed_decrease": [],
+      "scrollspeed_increase": [],
+      "start_of_book": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "h",
+          "metaKey": false,
+          "shiftKey": true
+        }
+      ],
+      "start_of_file": [
+        {
+          "altKey": true,
+          "ctrlKey": false,
+          "key": "j",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "toggle_autoscroll": [],
+      "up": []
+    },
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "lines_per_sec_auto": 2.1000000000000005,
+    "margin_bottom": 40,
+    "margin_left": 40,
+    "margin_right": 40,
+    "margin_top": 40,
+    "max_text_width": 500,
+    "override_book_colors": "dark",
+    "read_mode": "paged",
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "selection_bar_actions": [
+      "copy",
+      "lookup",
+      "speak",
+      "quick_highlight",
+      "remove_highlight",
+      "clear",
+      "highlight"
+    ],
+    "selection_bar_quick_highlights": [
+      "type:builtin;kind:color;which:blue;light:undefined;dark:undefined;background-color:undefined;text-decoration-line:undefined;text-decoration-color:undefined;text-decoration-style:undefined"
+    ],
+    "standalone_font_settings": {
+      "sans_family": "Roboto Medium",
+      "serif_family": "Liberation Sans"
+    },
+    "standalone_misc_settings": {
+      "auto_hide_mouse": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Jimmy Soni"
+        ],
+        "key": "/home/fahmida/downloads/videos/movies/A Mind at Play How Claude Shannon Invented the Information Age (Jimmy Soni, Rob Goodman) (Z-Library)(1).epub",
+        "pathtoebook": "/home/fahmida/downloads/videos/movies/A Mind at Play How Claude Shannon Invented the Information Age (Jimmy Soni, Rob Goodman) (Z-Library)(1).epub",
+        "timestamp": "2024-09-02T00:38:57.552Z",
+        "title": "A Mind at Play"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/For-Now-tem (59)/For-Now-tem - Unknown.md",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/For-Now-tem (59)/For-Now-tem - Unknown.md",
+        "timestamp": "2024-07-25T12:24:52.043Z",
+        "title": "For-Now-tem"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/Ego is the Enemy (55)/Ego is the Enemy - Unknown.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/Ego is the Enemy (55)/Ego is the Enemy - Unknown.epub",
+        "timestamp": "2024-07-25T10:50:28.515Z",
+        "title": "Ego is the Enemy Short"
+      },
+      {
+        "authors": [
+          "Eghbal, Nadia"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Eghbal, Nadia/Working in Public (45)/Working in Public - Eghbal, Nadia.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Eghbal, Nadia/Working in Public (45)/Working in Public - Eghbal, Nadia.epub",
+        "timestamp": "2024-07-25T09:49:55.700Z",
+        "title": "Working in Public"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/The Pathless Path (58)/The Pathless Path - Unknown.pdf",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/The Pathless Path (58)/The Pathless Path - Unknown.pdf",
+        "timestamp": "2024-07-24T08:45:42.642Z",
+        "title": "The Pathless Path"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/The 5 Second Rule (57)/The 5 Second Rule - Unknown.pdf",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/The 5 Second Rule (57)/The 5 Second Rule - Unknown.pdf",
+        "timestamp": "2024-07-23T11:05:49.440Z",
+        "title": "The 5 Second Rule"
+      },
+      {
+        "authors": [
+          "Ryan Holiday"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Ryan Holiday/Ego Is the Enemy (47)/Ego Is the Enemy - Ryan Holiday.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Ryan Holiday/Ego Is the Enemy (47)/Ego Is the Enemy - Ryan Holiday.epub",
+        "timestamp": "2024-07-23T08:58:35.979Z",
+        "title": "Ego Is the Enemy"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/Atomic Habits (56)/Atomic Habits - Unknown.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/Atomic Habits (56)/Atomic Habits - Unknown.epub",
+        "timestamp": "2024-07-23T07:18:13.610Z",
+        "title": "Atomic Habits"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/Atomic Habits (56)/Atomic Habits - Unknown.pdf",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/Atomic Habits (56)/Atomic Habits - Unknown.pdf",
+        "timestamp": "2024-07-21T08:14:30.524Z",
+        "title": "Atomic Habits"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/Ego is the Enemy Short (55)/Ego is the Enemy Short - Unknown.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/Ego is the Enemy Short (55)/Ego is the Enemy Short - Unknown.epub",
+        "timestamp": "2024-07-20T20:24:12.708Z",
+        "title": "Ego is the Enemy Short"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/Ego is the Enemy Short (55)/Ego is the Enemy Short - Unknown.pdf",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/Ego is the Enemy Short (55)/Ego is the Enemy Short - Unknown.pdf",
+        "timestamp": "2024-07-20T08:21:03.315Z",
+        "title": "Ego is the Enemy"
+      },
+      {
+        "authors": [
+          "Fuschia M. Sirois"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Fuschia M. Sirois/Procrastination (49)/Procrastination - Fuschia M. Sirois.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Fuschia M. Sirois/Procrastination (49)/Procrastination - Fuschia M. Sirois.epub",
+        "timestamp": "2024-07-20T07:50:53.110Z",
+        "title": "Procrastination"
+      },
+      {
+        "authors": [
+          "Rustacean Team"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Rustacean Team/1. Practical Rust 1.x Cookbook (28)/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Rustacean Team/1. Practical Rust 1.x Cookbook (28)/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "timestamp": "2024-07-20T07:44:29.911Z",
+        "title": "Practical Rust 1.x Cookbook"
+      },
+      {
+        "authors": [
+          "William Zinsser"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/William Zinsser/On Writing Well, 30th Anniversary Edition_ An Informal Guide to Writing Nonfiction (54)/On Writing Well, 30th Anniversary Edition_ - William Zinsser.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/William Zinsser/On Writing Well, 30th Anniversary Edition_ An Informal Guide to Writing Nonfiction (54)/On Writing Well, 30th Anniversary Edition_ - William Zinsser.epub",
+        "timestamp": "2024-02-03T01:21:24.653Z",
+        "title": "On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction"
+      },
+      {
+        "authors": [
+          "Thich Nhat Hanh"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/How to Sit (53)/How to Sit - Thich Nhat Hanh.mobi",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/How to Sit (53)/How to Sit - Thich Nhat Hanh.mobi",
+        "timestamp": "2024-07-16T00:52:43.546Z",
+        "title": "How to Sit"
+      },
+      {
+        "authors": [
+          "Thich Nhat Hanh"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/How to Sit-1 (52)/How to Sit-1 - Thich Nhat Hanh.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/How to Sit-1 (52)/How to Sit-1 - Thich Nhat Hanh.epub",
+        "timestamp": "2024-07-13T14:29:31.658Z",
+        "title": "How to Sit"
+      },
+      {
+        "authors": [
+          "Thich Nhat Hanh"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/How to Sit (52)/How to Sit - Thich Nhat Hanh.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/How to Sit (52)/How to Sit - Thich Nhat Hanh.epub",
+        "timestamp": "2024-07-13T14:27:37.783Z",
+        "title": "How to Sit"
+      },
+      {
+        "authors": [
+          "Thich Nhat Hanh"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/How to Sit (51)/How to Sit - Thich Nhat Hanh.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/How to Sit (51)/How to Sit - Thich Nhat Hanh.epub",
+        "timestamp": "2024-07-13T14:26:27.286Z",
+        "title": "How to Sit"
+      },
+      {
+        "authors": [
+          "Thich Nhat Hanh"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/No Mud, No Lotus_ The Art of Transforming Suffering (50)/No Mud, No Lotus_ The Art of Transforming - Thich Nhat Hanh.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Thich Nhat Hanh/No Mud, No Lotus_ The Art of Transforming Suffering (50)/No Mud, No Lotus_ The Art of Transforming - Thich Nhat Hanh.epub",
+        "timestamp": "2024-07-13T14:09:48.311Z",
+        "title": "No Mud, No Lotus: The Art of Transforming Suffering"
+      },
+      {
+        "authors": [
+          "Muhammed Kutub"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Muhammed Kutub/Islam, The Misunderstood religion (48)/Islam, The Misunderstood religion - Muhammed Kutub.pdf",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Muhammed Kutub/Islam, The Misunderstood religion (48)/Islam, The Misunderstood religion - Muhammed Kutub.pdf",
+        "timestamp": "2024-06-23T11:02:00.072Z",
+        "title": "Islam, The Misunderstood religion"
+      },
+      {
+        "authors": [
+          "Vitalik Buterin"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Vitalik Buterin/Proof of Stake (46)/Proof of Stake - Vitalik Buterin.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Vitalik Buterin/Proof of Stake (46)/Proof of Stake - Vitalik Buterin.epub",
+        "timestamp": "2024-06-01T08:57:06.348Z",
+        "title": "Proof of Stake"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/Clean Code (44)/Clean Code - Unknown.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/Clean Code (44)/Clean Code - Unknown.epub",
+        "timestamp": "2024-05-20T06:12:09.144Z",
+        "title": "Clean Code"
+      },
+      {
+        "authors": [
+          "Martin Fowler"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Martin Fowler/Refactoring_ Improving the Design of Existing Code, Second Edition (Garner McCloud's Library) (40)/Refactoring_ Improving the Design of Exist - Martin Fowler.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Martin Fowler/Refactoring_ Improving the Design of Existing Code, Second Edition (Garner McCloud's Library) (40)/Refactoring_ Improving the Design of Exist - Martin Fowler.epub",
+        "timestamp": "2024-05-16T06:31:46.825Z",
+        "title": "Refactoring: Improving the Design of Existing Code, Second Edition (Garner McCloud's Library)"
+      },
+      {
+        "authors": [
+          "Delia Owens"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Delia Owens/Where the Crawdads Sing (43)/Where the Crawdads Sing - Delia Owens.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Delia Owens/Where the Crawdads Sing (43)/Where the Crawdads Sing - Delia Owens.epub",
+        "timestamp": "2024-05-07T17:39:39.729Z",
+        "title": "Where the Crawdads Sing"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2024-05-06T22:56:08.159Z",
+        "title": "The Rust Programming Language"
+      }
+    ],
+    "user_color_schemes": {
+      "*new": {
+        "background": "#fcfcfc",
+        "foreground": "#5a5a5a",
+        "margin_bottom": "#ffffff:#5a5a5a",
+        "margin_left": "#ffffff:#5a5a5a",
+        "margin_right": "#ffffff:#5a5a5a",
+        "margin_top": "#ffffff:#5a5a5a",
+        "name": "new"
+      }
+    },
+    "user_stylesheet": "body {\n\nline-height: 30px;\nword-space: 150px;\n\n\n}"
+  },
+  "speechd-voice-table-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAZoAAAADAAEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAADAAAA0gAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+  },
+  "tts_speechd": {
+    "rate": 20,
+    "voice": [
+      "Piper",
+      "en-us",
+      "MALE1"
+    ]
+  },
+  "viewer-highlights-search-case-sensitive": false,
+  "viewer-highlights-search-mode": "word",
+  "viewer-search-case-sensitive": false,
+  "viewer-search-mode": "normal"
+}

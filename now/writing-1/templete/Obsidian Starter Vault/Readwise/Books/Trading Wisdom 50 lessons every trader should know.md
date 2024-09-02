@@ -1,0 +1,150 @@
+# Trading Wisdom: 50 lessons every trader should know
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-6.71d9a01814f7.png)
+
+## Metadata
+- Author: [[Cheds]]
+- Full Title: Trading Wisdom: 50 lessons every trader should know
+- Category: #books
+
+## Highlights
+- brief career as an amateur poker player also guide my approach, paying proper respect to risk management and the study of one's opponent.
+- My early days of trading were filled with frustration, confusion and constant losses. After making some of the same mistakes over and over again I began to adapt and learned a few tricks to minimize my losses.
+- My career and brand have been built on “helping new traders avoid my old mistakes” and this book is a natural extension of those efforts.
+- I have personally made every single mistake mentioned in this book multiple times and therefore can speak from the heart, which I hope makes each lesson a little bit easier to learn.
+- Lesson 1 - Respect your funds
+- “Treat your money right or it will find a new owner.”
+- In the process of finding good risk/reward opportunities, avoid over exposing yourself when there is no reason to do so.
+- “In trading, the minute you let your guard down is when the capital destruction begins. Stay vigilant and respect your funds.”
+- Many refuse to pay for training materials or premium educational sites but they have no problem allocating major funds for high risk short term trades.
+- As your trading skill improves, your ability to properly utilize your capital will as well, and over time that will lead to bigger wins and smaller losses.
+- Either take trading seriously by studying hard and investing in yourself, or go find a new hobby.
+- “Always amazes me that some people are willing to risk $50,000 or more on speculative trades but refuse to read a trading textbook that might cost $70-$100.”
+- Lesson 2 - What's the rush?
+- “If you are in a rush to trade, do not be surprised if your money is in a rush to go somewhere else.”
+- Every trade you execute should be well thought out ahead of time.
+- When you rush into your trades you are prone to making simple mistakes
+- Going too fast and clicking the wrong button can lead to disaster, so always take a deep breath and go slow when you enter your trade.
+- Most of the time in these bottoming situations I lose money when I fool around throwing in bids before any type of bottoming pattern has even started to form. Wait for things to settle down and identify a solid idea that you can use as your fail point.”
+- it is really difficult to stay away from trading when I think something is in the process of bottoming.
+- When this happens an incredible urge to jump in to the action comes over me. Since I do not want to miss that perfect entry I scale into every minor bottoming formation I see only to get stopped out minutes later.
+- More times than not the bottom is slow to form, so there is plenty of time to jump in on a support re-test, diagonal break or horizontal break.
+- “My best advice is to follow momentum. Don't be fancy and try to anticipate when it is going to turn around.”
+- Traders talk about “catching falling knives”, referring to the process of anticipating a bottom before it has formed. Messing around and trying to catch falling knives will shred your bankroll, unless you are a pro.
+- “If you are going to throw some serious funds at something, at least do yourself a favor and take a look at the chart first.”
+- Sometimes you see an idea in a chat room or a news article that catches your attention and makes you feel the instant need to open up a new position.
+- No matter what you should look at the chart first and try to understand the direction of the trend, as well as where you are buying in relation to major support and resistance.
+- “Remember folks, it’s a marathon not a sprint so pace yourself.”
+- Lesson 3 - Stay calm under pressure
+- “In many ways the difference between success and failure comes down to staying calm under pressure. Do not panic.”
+- you must stay cool under pressure so that you can take advantage of bargain basement prices when they come around.
+- When panic hits the market it is time for you to go to work because other people are making bad decisions, allowing you the opportunity to capitalize
+- “The next time $BTC #Bitcoin drops $10,000 in a day (and it will) try to remember that is a buying opportunity, not a panicking opportunity.”
+- The ability to stay calm when the market is blood red will help you to spot favorable risk/reward setups developing in an otherwise hectic environment.
+- “If you are a bull then pullbacks are your best friend. The more we digest, the higher we go.”
+- come up with a great plan for entering on a retracement, but as soon as it happens you get nervous and change your mind?
+- now I stick to my plan, trust myself and see the idea all the way through.
+- “If you loved these alts 5 minutes ago, you should ADORE them after a 10-20% haircut. Stop chasing the green and learn to love the red. It is valentines day after all.”
+- Lesson 4 - Wait for opportunity
+- I do not know who needs to hear this but: You do not have to be in a trade every second. It is okay to watch and wait for a really good opportunity.”
+- Instead why not just casually watch the price action while you wait for a really good spot?
+- One way is to set low ball bids ahead of time. Place these orders so low in fact that you do not think they have a shot at filling
+- set an alert on your phone or trading software to tell you when the price gets close by, and go for a walk
+- The difference between a forced trade and a real opportunity is not always easy to see when you are in the moment, but patience will help you spot the difference.
+- “Stop trying to predict what is going to happen next and observe, you just might learn something.”
+- Funds sitting idly in your trading account should not be the reason for the trade. Rather, the reason should be a clear and defensible trading opportunity based on a clean thesis.
+- “Sometimes doing nothing is the hardest trade, but is often the best trade.”
+- It can be really frustrating to sit around and wait for a good trading setup, especially when you are sitting on a pile of cash
+- it is better to miss a move than to get in at the wrong time
+- “In poker, you don’t have to play every hand, you learn a lot by watching. Same for trading - avoid the FOMO, and sit back and observe the action instead.”
+- Trading is similar to poker in the sense that it is tempting to enter a new play just to cure your boredom.
+- While you dream of big gains in a short period of time, the combination of liquidity and boredom make it tempting to jump into a new play just for some quick action.
+- Boredom is not a good enough reason to trade - Wait for opportunity instead.”
+- A great way to prevent boredom trading is to use strict criteria for entering any trade, and only initiating a position if all of those conditions are met.
+- When you are ready to initiate a new trading position grab a pen and paper and write down your trade idea. Explain to yourself and any other reader why you think you should open the trade.
+- Go for a quick jog or maybe take some time on the exercise bike or even go for a swim, and then come back with a clear head and read what you wrote down previously.
+- If after re-reading your trade idea it still makes sense then you can enter the trade.
+- “An opportunity is something you know when you see it, everything else is a forced trade.”
+- force yourself to have a certain amount of cash on hand at all times
+- Always keeping a certain % of your trading portfolio in cash is a great way to make sure that you are ready to take advantage of opportunities when they come along
+- “If your entry sucks you are going to play catch up the whole time and will probably make more mistakes. Focus on low ball entries to make things easier on yourself.
+- Lesson 5 - Go easy on yourself
+- It is important to have a short memory and forgive yourself for poor trading decisions in the past. The alternative is bankroll ruin from a self fulfilling prophecy of failure.”
+- If you are just getting started then you do not have the luxury of that experience, so making mistakes is the only way to learn.
+- “Step one in trading is to survive your mistakes.”
+- Survive and stay in the game so you can learn to become a successful trader.
+- “Just because you played the last trade poorly doesn't mean you have to play the next trade poorly - Learn from your mistakes rather than letting them haunt you.”
+- Knowing the rules is what gets you to the table. Experience is what keeps you at the table as you manage risk and wait for a good opportunity.
+- Lesson 6 – Experience comes first
+- properly manage your funds based on an understanding of the risk/reward offered by each type of trading setup
+- “The minute you stop learning is the minute you give up on yourself.”
+- When you think about your time away from the physical process of trading, how much effort are you exerting to improve your craft? Are you studying textbooks and watching educational videos on technical analysis? Are you taking time out of the weekend to identify key chart price levels for the following week's action?
+- “If you survive a bad trading mistake then you have paid for that lesson. Don't let it go to waste.”
+- Put in the work to improve your craft, and take advantage of the many great people and organizations out there that are willing to help you.
+- Push yourself as hard as you can to survive and thrive as a trader.
+- “No skill worth having can be achieved without practice. That includes trading.”
+- Lesson 7 - Keep grinding
+- There are so many things that can go wrong and make you want to give up trading. Most of them come after breaking basic rules like always using a stop loss or never investing more than 10% of your bankroll in any one play.
+- “The minute you give up is the minute your doubters win. Prove them wrong.”
+- The fact that someone else doubts us is a great motivator as we want to prove them wrong.
+- Not only that but we want them to feel bad because we became successful despite everything they said.
+- Keep grinding! Don't let anyone tell you that you can not get to where you want to be.
+- Lesson 8 - Don't marry your bags
+- as soon as I had a larger than average position size I became attached to that play. When the market was closed I scanned the message boards and twitter feeds to see what people were saying about it,
+- “Emotions are great when you are painting or writing or composing music, but when you are trading they are kryptonite.”
+- Losing money is frustrating because you thought you had a good plan and then everything fell apart
+- Another way to get in trouble is after taking profit on a winning trade that keeps going up after you sell. Now you are frustrated and you get mad at yourself, and mad at the play for not going down immediately after you sold.
+- "Avoid the impulse to let one bad trade ruin your day. Stay focused and reject the emotion and self loathing
+- Lesson 9  - Profit taking
+- “When you are so excited about your trade that you take a screen shot to send to your buddy, that is probably when you should sell.”
+- One of the hardest things to do is learn how and when to take profit
+- When you are in something that is up-trending it is really tempting to just let your position ride to see if it can turn in to a home-run.
+- hand, if you do not sell near resistance/supply the price might drop quickly and then your trade becomes a hold, something you were hoping to avoid.
+- you should scale in and scale out of each position, so that as you approach a major resistance area there is nothing wrong with trimming some profit
+- If the price dips further you can add some back, and if not you still have a core position to take advantage of any continued momentum.
+- “Taking profit along the way makes all future decisions easier.”
+- Every time you take profit on your trade your remaining position is smaller and that makes each future decision easier
+- it is okay to miss out on that extra 5 or 10% in profit because timing the exact top and bottom is pretty much impossibl
+- “If you are up big now, maybe take a little off the table. You can never go broke by taking profit.
+## New highlights added April 9, 2022 at 11:45 AM
+- Lesson 10 - Emotional mindfulness
+- “Any trade that makes you feel uncomfortable should be closed immediately.”
+- once I did I realized that I had been improperly sizing my trading positions.
+- There is no set rule for how big or how small your position should be, or even exactly how aggressively to scale into it. Each trader must decide based on their own trading style, risk tolerance and personal needs.
+- “If  you buy something and immediately feel uncomfortable, you probably have too much money in that play.”
+- Now you are so uncomfortable with your position that it is hard to take your eyes of the screen. Every tick up or down makes you sweat, because you have committed more money than you can afford to lose and can not figure out how to get out of this mess.
+- play with money you can afford to lose
+- Another way to stop this cycle is to take a break from trading and let things settle down for a bit
+- After taking some time to decompress you will be in a much better position to re-enter the fight with your wits about you. Ta
+- “Trading without mindfulness is pure gambling.”
+- “If you enter a trade thinking you are going to lose money, then chances are you will lose money. Be mindful of your mood / confidence level. If you are unable to visualize success, sit out the trade.”
+- Lesson 11- Be ready to buy the fear
+- “Everyone wants a pullback until it actually comes.”
+- When the price is moving up quickly and enthusiasm is extremely high, all we want is pullback so we can add some more shares with confidence.
+- once the price breaks support and starts to go lower we start to panic and are not sure if we want to buy anymore
+- Not only that but we are now thinking about selling, and we are mad that we did not take profit at “the top”
+- When the market is in free fall mode and it feels like everyone is giving up left and right, that is usually a great time to add some exposure.
+- “One of the hardest things to do is train yourself to buy weakness, rather than selling in to it.”
+- you are buying weakness in a strong chart.
+- “Buy when no one else wants it, sell when everyone else wants it.”
+- It is important to avoid the cycle of buying the top and selling the bottom.
+- If you find yourself constantly chasing tickers that are moving and then easily giving up after some consolidation, then you are going to watch your bankroll evaporate.
+- Always keep some extra cash just in case a big price drop happens on one of your favorite plays, and buy that dip with confidence.
+- “I am sensing some fear in the market - That means you should have cash ready in case we get any kind of flash dip.
+- Lesson 13 - Manage your stack
+- “Scale in at support, scale out at resistance, have a tight logical stop loss and the rest is pure luck.”
+- limit each play or trade to a certain % of your total portfolio, perhaps 1-5%.
+- I coach to all successful traders to cap their trading account at a certain number and transfer out profits every week/month. That way you are less tempted to ape up the risk threshold.”
+- Managing the connection between your trading account and your bank account is also incredibly important
+- take some of that extra profit and transfer it out to your bank account.
+- taking out the money makes it feel real and locks up the gains, and second limiting you trading account size limits your volatility.
+- Generally speaking your goals should be humble, and your approach to reaching them methodical.
+- Start small with the goal of making one 5% winner this week, and go from there.
+- If you do not reach that goal, examine your methodology and record it in a trading log and journal for analysis.
+- If you do make your goal perhaps move your target up to a 7% winner, or try to make two 5% winners the following week.
+- Rather than trying to grow your account from $5,000 to $50,000 overnight, approach trading with more modest goals based on your experience, and factoring in mistakes you expect to make in pursuit of your goals.
+- Remember to pay attention to each step along the way as you are learning, because in the end that is what will make you a winning trader.
+- “One decent trade can make up for 10 failed trades if you properly manage your stop losses. You don’t need home runs in this game. Singles, stolen bases and sac flies are good enough.”
+- Lesson 14 - Pick your spots carefully
+## New highlights added April 11, 2022 at 8:52 PM
+- “If you are not making money in this market chances are that are you trying to fight the trend - Trade WITH the trend, not against it.”

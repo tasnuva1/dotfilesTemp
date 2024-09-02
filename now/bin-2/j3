@@ -1,0 +1,18 @@
+#!/bin/bash
+
+mounter &
+sleep 3
+xdotool key super+1 &
+sleep 1
+st -e bash -c "lf /home/fahmida" & # Rust
+sleep 1
+st -e bash -c "lf '/mnt/3/Courses/media/audiobooks/Computer Programming/Devops/1.The-Phoenix-Project'" & 
+sleep 1
+xdotool key super+j &
+sleep 1
+xdotool key super+2 &
+st -e bash -c "nsxiv ./01.png" & # git
+sleep 1
+xdotool key super+f &
+sleep 1
+

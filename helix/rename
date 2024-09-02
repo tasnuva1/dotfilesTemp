@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cd themes  # Navigate to the "themes" directory
+
+for file in *; do
+    if [ -f "$file" ]; then
+        extension="${file##*.}"  # Get the file extension
+        filename="${file%.*}"    # Get the file name without extension
+        newname="${filename}_modified.${extension}"
+        
+        mv "$file" "$newname"  # Rename the file
+    fi
+done

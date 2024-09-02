@@ -1,0 +1,9 @@
+2024/01/11-21:23:48.775 571 Reusing MANIFEST /home/fahmida/.config/koodo-reader/Local Storage/leveldb/MANIFEST-000001
+2024/01/11-21:23:48.875 571 Recovering log #61
+2024/01/11-21:23:48.943 571 Reusing old log /home/fahmida/.config/koodo-reader/Local Storage/leveldb/000061.log 
+2024/01/11-22:08:22.889 52d3 Level-0 table #65: started
+2024/01/11-22:08:22.986 52d3 Level-0 table #65: 15309 bytes OK
+2024/01/11-22:08:23.074 52d3 Delete type=0 #61
+2024/01/11-22:28:10.011 7f1b Level-0 table #67: started
+2024/01/11-22:28:10.083 7f1b Level-0 table #67: 14147 bytes OK
+2024/01/11-22:28:10.171 7f1b Delete type=0 #64

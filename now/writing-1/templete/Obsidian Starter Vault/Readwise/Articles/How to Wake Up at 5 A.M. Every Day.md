@@ -1,0 +1,144 @@
+# How to Wake Up at 5 A.M. Every Day
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+
+## Metadata
+- Author: [[betterhumans.pub]]
+- Full Title: How to Wake Up at 5 A.M. Every Day
+- Category: #articles
+- URL: https://betterhumans.pub/how-to-wake-up-at-5-a-m-every-day-ceb02e29c802
+
+## Highlights
+- When I’m in writing mode for a novel, I get up at 4 a.m. and work for five to six hours. In the afternoon, I run for ten kilometers or swim for fifteen hundred meters (or do both), then I read a bit and listen to some music. I go to bed at 9 p.m.
+- I keep to this routine every day without variation. The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.
+- But to hold to such repetition for so long — six months to a year — requires a good amount of mental and physical strength. In that sense, writing a long novel is like survival training. Physical strength is as necessary as artistic sensitivity.
+- The repetition itself becomes the important thing; it’s a form of mesmerism.
+- I might continue experimenting with waking up even earlier, but I’m happy with my current routine and don’t want to put too much pressure on myself. After all, it’s healthy to get 8 hours of sleep, isn’t it?
+- .🌟 Clarify Your Purpose for Waking Up Early
+- Waking up before everyone else is tough. If you don’t have a reason to do it, you won’t do it.
+- you’re going to wake up early to do something (probably productive). But you need a purpose that extends past a basic task.
+- Working in the morning is easier than working at night, so I need to set up my habits now so I can be living that life later.
+- You might already have a purpose, but if you don’t, try running a 5 Whys analysis (otherwise known as root cause analysis).
+- Waking up early gives you a few hours every day in the morning where nobody else is going to disturb you.
+- that’s an important part of my solution to escaping a 9–5 rut and doing work I love.
+- 💪 Understand What You Gain and Lose
+- I failed because I wasn’t willing to give up the things I enjoyed, like my weekday social life. I would go out, say I’d wake up early despite getting home late, and ultimately wake up late.
+- But let’s be optimistic and start with what you’ll gain.
+- What you gain
+- It’s likely nobody else will be awake to disturb you. You can paint, start a business, write — anything you want.
+- Your prefrontal cortex is most active right after waking up, making it optimal for creativity. I’ve noticed I write much faster in the morning than at any other time in the day. Looking at the habits of famous writers, a lot of them have figured it out too (most authors write in the morning).
+- a few hours of solitude with your most creative self.
+- What you lose
+- Waking up early doesn’t give you extra time. It takes off time you would otherwise have at night — unless you sleep less, which is a bad idea. If you sleep less, you either won’t be able to wake up early and become a night owl again, or you’ll be sleep-deprived and unproductive throughout the day.
+- I’ve lost around 2 hours every day—but I feel rested throughout the day.
+- There’s a sense of purpose that comes with living in a box. You know you’re disciplining yourself for a goal.
+- Give yourself one day off per week
+- I’ve found that if I mess up my sleep schedule one day a week, I can still maintain it throughout the week. I tried sleeping late two or three days a week — it didn’t work. But one seems to be okay
+- Compare the benefits with the cost
+- What will I gain with the extra time in the morning?What will I lose with the lost time at night?
+- Do the benefits outweigh the costs?”
+- Focus on Sleeping Time
+- When I told myself I was going to wake up at 5 a.m. no matter what, I failed. I’d do it if I slept too late. I’d do it if I stayed out late at night. I’d do it if I stayed up studying.
+- I was trying to do by trying to cheat the system, thinking my willpower was enough.
+- This might work for people who have this habit already. But if you’re starting out, focus on one thing: sleeping time.
+- Get enough sleep
+- , I only slept for 6 hours before, so I thought I could sleep for 6 hours and still wake up early. This doesn’t work because you end up sleeping in; it’s unlikely you have any willpower when it’s pitch black outside
+- set a goal for 8 hours of sleep. I want to wake up at 5 a.m., so my sleeping time is 9 p.m. (8 hours before).
+- Sleep more than needed (when you start)
+- With drastic changes to your sleeping schedule, you’re going to need some time to adjust. You initially need more sleep.
+- Don’t Try to Change Everything
+- You can’t introduce too much change to your life at once. Changing your sleeping pattern is a big change
+- Be patient. If you don’t, you’re not going to be able to do any amazing things at all.
+- You can’t change too much at once
+- you should only change one thing at a time. For now, focus on getting to sleep early. That’s all.
+- Slowly increase your productivity as you go. If your goal is to get work done in the morning, start by doing 30 minutes of work, then an hour, and so on.
+- Have fun in the morning (when you start)
+- Choose a Morning Routine
+- tried to skip it a few times, but it felt wrong — as if my morning routine is part of the process of waking up.
+- A morning routine not only prepares you for the day, but it mesmerizes you
+- “now that you’ve completed the first task of the day, you’re ready to wake up.”
+- A routine that suits you
+- You’ll get different benefits from different routines but the goal is to help you wake up. You want to teach your body what to do when you wake up.
+- Get an Alarm That Works for You
+- don’t use an alarm to wake you up; instead, use it as an insurance policy
+- If you don’t want to end up hating your alarm, make sure you set the time to the time after you want to wake up. I set it 8.5 hours after my bedtime and I wake up without it
+- Experiment with alarms
+- Sleep Without Your Phone
+- A boring sleeping environment
+- The most common culprit of entertainment in bed is the phone. If you have something else that you love you use in bed like a tablet, I suggest you move that away too.
+- Put your phone in another room
+- It’s a simple idea, but not easy. It feels like you’re giving away your baby. But the resistance is good. It means you’re killing an addiction
+- If you don’t get to sleep on time consistently, melatonin isn’t going to save you. I tried to cheat the system. It didn’t work.
+- you’re sometimes going to fail. You might sleep too late. You might have a coffee too late in the day. You might wake up in the afternoon and have trouble sleeping early.
+# How to Wake Up at 5 A.M. Every Day
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+
+## Metadata
+- Author: [[betterhumans.pub]]
+- Full Title: How to Wake Up at 5 A.M. Every Day
+- Category: #articles
+- URL: https://betterhumans.pub/how-to-wake-up-at-5-a-m-every-day-ceb02e29c802
+
+## Highlights
+- When I’m in writing mode for a novel, I get up at 4 a.m. and work for five to six hours. In the afternoon, I run for ten kilometers or swim for fifteen hundred meters (or do both), then I read a bit and listen to some music. I go to bed at 9 p.m.
+- I keep to this routine every day without variation. The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.
+- But to hold to such repetition for so long — six months to a year — requires a good amount of mental and physical strength. In that sense, writing a long novel is like survival training. Physical strength is as necessary as artistic sensitivity.
+- The repetition itself becomes the important thing; it’s a form of mesmerism.
+- I might continue experimenting with waking up even earlier, but I’m happy with my current routine and don’t want to put too much pressure on myself. After all, it’s healthy to get 8 hours of sleep, isn’t it?
+- .🌟 Clarify Your Purpose for Waking Up Early
+- Waking up before everyone else is tough. If you don’t have a reason to do it, you won’t do it.
+- you’re going to wake up early to do something (probably productive). But you need a purpose that extends past a basic task.
+- Working in the morning is easier than working at night, so I need to set up my habits now so I can be living that life later.
+- You might already have a purpose, but if you don’t, try running a 5 Whys analysis (otherwise known as root cause analysis).
+- Waking up early gives you a few hours every day in the morning where nobody else is going to disturb you.
+- that’s an important part of my solution to escaping a 9–5 rut and doing work I love.
+- 💪 Understand What You Gain and Lose
+- I failed because I wasn’t willing to give up the things I enjoyed, like my weekday social life. I would go out, say I’d wake up early despite getting home late, and ultimately wake up late.
+- But let’s be optimistic and start with what you’ll gain.
+- What you gain
+- It’s likely nobody else will be awake to disturb you. You can paint, start a business, write — anything you want.
+- Your prefrontal cortex is most active right after waking up, making it optimal for creativity. I’ve noticed I write much faster in the morning than at any other time in the day. Looking at the habits of famous writers, a lot of them have figured it out too (most authors write in the morning).
+- a few hours of solitude with your most creative self.
+- What you lose
+- Waking up early doesn’t give you extra time. It takes off time you would otherwise have at night — unless you sleep less, which is a bad idea. If you sleep less, you either won’t be able to wake up early and become a night owl again, or you’ll be sleep-deprived and unproductive throughout the day.
+- I’ve lost around 2 hours every day—but I feel rested throughout the day.
+- There’s a sense of purpose that comes with living in a box. You know you’re disciplining yourself for a goal.
+- Give yourself one day off per week
+- I’ve found that if I mess up my sleep schedule one day a week, I can still maintain it throughout the week. I tried sleeping late two or three days a week — it didn’t work. But one seems to be okay
+- Compare the benefits with the cost
+- What will I gain with the extra time in the morning?What will I lose with the lost time at night?
+- Do the benefits outweigh the costs?”
+- Focus on Sleeping Time
+- When I told myself I was going to wake up at 5 a.m. no matter what, I failed. I’d do it if I slept too late. I’d do it if I stayed out late at night. I’d do it if I stayed up studying.
+- I was trying to do by trying to cheat the system, thinking my willpower was enough.
+- This might work for people who have this habit already. But if you’re starting out, focus on one thing: sleeping time.
+- Get enough sleep
+- , I only slept for 6 hours before, so I thought I could sleep for 6 hours and still wake up early. This doesn’t work because you end up sleeping in; it’s unlikely you have any willpower when it’s pitch black outside
+- set a goal for 8 hours of sleep. I want to wake up at 5 a.m., so my sleeping time is 9 p.m. (8 hours before).
+- Sleep more than needed (when you start)
+- With drastic changes to your sleeping schedule, you’re going to need some time to adjust. You initially need more sleep.
+- Don’t Try to Change Everything
+- You can’t introduce too much change to your life at once. Changing your sleeping pattern is a big change
+- Be patient. If you don’t, you’re not going to be able to do any amazing things at all.
+- You can’t change too much at once
+- you should only change one thing at a time. For now, focus on getting to sleep early. That’s all.
+- Slowly increase your productivity as you go. If your goal is to get work done in the morning, start by doing 30 minutes of work, then an hour, and so on.
+- Have fun in the morning (when you start)
+- Choose a Morning Routine
+- tried to skip it a few times, but it felt wrong — as if my morning routine is part of the process of waking up.
+- A morning routine not only prepares you for the day, but it mesmerizes you
+- “now that you’ve completed the first task of the day, you’re ready to wake up.”
+- A routine that suits you
+- You’ll get different benefits from different routines but the goal is to help you wake up. You want to teach your body what to do when you wake up.
+- Get an Alarm That Works for You
+- don’t use an alarm to wake you up; instead, use it as an insurance policy
+- If you don’t want to end up hating your alarm, make sure you set the time to the time after you want to wake up. I set it 8.5 hours after my bedtime and I wake up without it
+- Experiment with alarms
+- Sleep Without Your Phone
+- A boring sleeping environment
+- The most common culprit of entertainment in bed is the phone. If you have something else that you love you use in bed like a tablet, I suggest you move that away too.
+- Put your phone in another room
+- It’s a simple idea, but not easy. It feels like you’re giving away your baby. But the resistance is good. It means you’re killing an addiction
+- If you don’t get to sleep on time consistently, melatonin isn’t going to save you. I tried to cheat the system. It didn’t work.
+- you’re sometimes going to fail. You might sleep too late. You might have a coffee too late in the day. You might wake up in the afternoon and have trouble sleeping early.

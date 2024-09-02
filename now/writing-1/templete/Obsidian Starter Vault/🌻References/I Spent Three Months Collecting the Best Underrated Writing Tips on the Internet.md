@@ -1,0 +1,54 @@
+---
+---
+**Source:** https://timdenning.com/i-spent-three-months-collecting-the-best-underrated-writing-tips-on-the-internet/
+**Author:** [[Tim Denning]]
+**Type:** #litnote 
+**Topics:** [[Writing]][[Writing Tips]]
+
+----
+- Lessons focus on writing platforms than the writing itself
+- # “If you’re overthinking, write. If you’re underthinking, read.”
+	- Dump when your mind is full and when it's empty fill it with books
+- It’s called** best selling** author, not best-writing author — Robert Kiyosaki
+	- Don't show your english or grammer. Pack ideas into inspiration that sell message. Learn how to sell and win every time
+- No writer's block
+	- Don't sit with a blank page
+	- Write  a few headlinges and a few points a copule of days in advance
+	- Don't wait to stare at the blank page
+- **Write to make people think**
+	- Don't write for the sake of argument
+	- Write to make people think and you'll be unstoppable
+- The problem is you
+	- Platform is not changing rules everyday to screw you.
+	- Focus on what you can control instead.  
+	- When views drop, increase quality, and decrease excuses.
+- **Edit like a murderer**
+	- Writing is 50% thinking, 5% typeing and 45% deleting the bad parts
+	-  Especially cut the throats of words like “really, potentially, and actually.” They’re weak piss
+- **Loneliness is your friend**
+	- You are not mean to have attention
+	- Loneliness and acting like introverts are hardcoded into your writer's software
+	- Embrace loneliness.
+	- ***Sit infront of your computer and puch the keyboard until you can write no more.***
+- High-quality writing is endagered
+	- You've got to scroll for thousand times before you can find one quality story
+	- Work on your wriitng and most problems will disappear instantly
+- **Writers block is a myth**
+	- There’s no such thing as writer’s block. There’s simply a fear of bad writing. Do enough bad writing and some good writing is bound to show up. — [Seth Godin](https://seths.blog/2021/09/write-something/)
+	- Sit down. Write a few bad sentences. Keep writing till it gets good.
+- **Repurpose your content**
+	- How to build a mini traffic machine as a writer:
+	- Write one article every week (SEO)
+	- Repurpose it as a thread (socia
+	- Send it to your list (email)
+	- Post it in relevant communities (referrals)
+	- Create once, distribute everywhere. — [Andrea Bosoni](https://twitter.com/theandreboso)
+- Never open with multi-sentence paragraphs
+	- Alternating between single-sentence paragraphs and multi-sentence paragraphs is the fastest way to make your writing more accessible. If the headline and the first sentence and the subheads all hook their attention, they start to read. — [Nicolas Cole]
+- Write personal stories
+	- The best stories on the platform are personal stories
+- Light a fire before you write
+	- don’t write an article until I’m feeling it! I need to feel fire about what I’m saying because I’m trying to light that same fire in my readers. Until I feel that fire, I don’t hit publish
+	- ng your energy levels up with music or exercise before you dare talk to readers and take up their time
+- **Write with a different angle**
+	- Don't be fancy. Just choose a bizzare angle

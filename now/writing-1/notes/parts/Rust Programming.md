@@ -1,0 +1,20 @@
+- **We recommend reading this book while also implementing some systems programming side projects in Rust **
+- **Small projects in Systems programming catagorize:**
+	- Operating systems
+	- Device drivers of all kinds // In short, systems programming is  resource-constrained  programming where every byte and every CPU cycle counts..
+	- Filesystems
+	- Databases
+	- Code that runs in very cheap devices, or devices that must be extremely reliable
+	- Cryptography
+	- Media codecs (software for reading and writing audio, video, and image files)
+	- Media processing (for example, speech recognition or photo editing software)
+	- Memory management (for example, implementing a garbage collector)
+	- Text rendering (the conversion of text and fonts into pixels)
+	- Implementing higher-level programming languages (like JavaScript and Python)
+	- Networking
+	- Virtualization and software containers
+	- Scientific simulations
+	- Games
+- **like [Rust OS](https://youtube.com/playlist?list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&si=_bDrK4_0zDahJfH0) [steps](https://os.phil-opp.com/) **
+- **IM note: Our goal was to ==tackle the big, new concepts== in Rust up front and head-on, presenting them clearly and in depth so as to minimize learning by trial and error. Example like: Chapter 11 covers traits and generics, the last two big concepts you need to know.**
+- **They cover the rest of the language: collections (Chapter 16), strings and text (Chapter 17), input and output (Chapter 18), concurrency (Chapter 19), asynchronous programming (Chapter 20), macros (Chapter 21), unsafe code (Chapter 22), and calling functions in other languages (Chapter 23).**

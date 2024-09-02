@@ -1,0 +1,67 @@
+#!/bin/bash
+
+urls=(
+  "https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn"
+  "https://learn.letsgetrusty.com/beginner/constants-statics.html"
+  "https://github.com/tasnuva1" # Note: আইসোলেটেড হয়ে কাজ করলে অনেক দূর আগানো যায়
+  "https://keep.google.com/u/0/#NOTE/1dQZw2C3gs2I-54XpgAIgCnQE0DEmbrD-S99wTjmjBHAa7B2eAFKBXmA0NfWA1FA"
+  "https://calendar.google.com/calendar/u/1/r"
+)
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/thorium-browser"
+
+mounter &
+sleep 2
+xdotool key super+1 &
+# sleep 1
+# xdotool key super+r &
+# sleep 4
+# xdotool key ctrl+w &
+# xdotool key super+r &
+# Open each URL in a new tab
+for url in "${urls[@]}"; do
+    "$chrome" --new-tab "$url" &
+    sleep 2
+done
+sleep 1
+st -e bash -c "mpv '/home/fahmida/A - Now/1. Rust Developer Bootcamp/2. Intermediate/3. Understanding Error Handling In Rust/053. Unrecoverable Errors.mp4'" &
+sleep 2
+sleep 1
+xdotool key space &
+sleep 4
+# xdotool key ctrl+w &
+xdotool key super+a &
+sleep 1
+xdotool key super+T &
+sleep 1
+xdotool key super+l &
+sleep 1
+sleep 3
+# xdotool key ctrl+shift+Tab &
+xdotool key ctrl+j &
+sleep 1
+xdotool key ctrl+2 &
+sleep 1
+xdotool key F11 &
+sleep 1
+sleep 2
+xdotool key super+f &
+sleep 2
+sleep 1
+xdotool key super+2 &
+sleep 1
+st -e bash -c "stopwatch" &
+sleep 1
+xdotool key super+1 &
+
+# xdotool key super+2 &
+# sleep 1
+# st -e bash -c "mpv '/home/fahmida/A - Now/3. Rust Programming for Desktop App/now/1. Rust Stream： Ownership, Closures, and Threads - Oh My!.mp4'" &
+# sleep 1
+# st -e bash -c "h '/home/fahmida/writing/notes/parts/beginner-projects.md'" &
+# sleep 1
+# xdotool key super+j &
+
+# xdotool key super+j &
+# xdotool type "Hello!"

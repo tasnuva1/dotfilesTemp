@@ -1,0 +1,297 @@
+ls
+config nu
+exit
+ls
+h go-to.txt
+cfx
+exit
+config nu
+helix config nu
+pwd
+config nu
+h go-to.txt
+ls
+helix go-to.txt
+h
+ls
+config nu
+ls
+p
+config nu
+h
+h go-to.txt
+ll
+config nu
+ll
+config nu
+ll
+p
+p -h
+h go-to.txt
+config nu
+helix go-to.txt
+h go-to.txt
+h --help
+config nu
+he --help
+he go-to.txt
+h
+h --help
+h  downloads/
+config nu
+neovim go-to.txt
+nevim go-to.txt
+v go-to.txt
+vim go-to.txt
+config nu
+dmenu-bluetooth 
+sys
+sys | get host
+he
+exit
+cd gits(all-code)/clock/
+ls
+exit
+man he
+cfa
+cf
+ls
+he shell/inputrc
+he zsh/.zshrc
+cf
+he backup-zshrc
+v backup-zshrc
+config nu
+cf
+v zsh/.zshrc
+config nu
+cf
+helix go-to.txt
+man he
+v zsh/.zshrc
+cf
+v zsh/.zshrc
+cg
+cf
+man helix 
+man tldr
+mpv https://essrv0.vkcdn5.com/olaxk4yzq7uiolyobeg2bbz3ouv46u4wzndvdzj6edzi7kqscplbu4sn6bca/v.mp4
+p -S bat
+sudo p -S bat
+pacman -S bat
+sudo pacman -S bat
+source .zprofile
+link .zprofile
+ln .zprofile
+ls -a .zprofile
+exit
+lf
+man 2 select
+sh -c 'ls'
+man tldr
+man tldr | bat
+bat go-to.txt
+bat main.rs
+he main.rs
+man tldr | bat
+man tldr
+config nu
+mpv https://essrv0.vkcdn5.com/olaxk4yzq7uiolyobeg2bbz3ouv46u4wzndvdzj6edzi7kqscplbu4sn6bca/v.mp4
+mpv https://vksovhj001.vkcdn5.com/olaxk4yzq7uiolyobeg2bbz3ouv46u4wzndvdzj6edzi7kqscplm6b2n6bca/v.mp4
+batcat go-to.txt
+bat go-to.txt
+bat config nu
+bat .zprofile
+man tldr
+bat tldr
+man tldr | bat
+v .zprofile
+source .zprofile
+v .zprofile
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+sc
+v .zprofile
+source .zprofile
+man tldr | bat
+v .zprofile
+source .zprofile
+man tldr | bat
+v .zprofile
+bat --help | bat -l man
+tldr --help | bat -l man
+v .zprofile
+source .zprofile
+man tldr | bat
+man tldr
+cf
+v zsh/.zshrc
+v zsh/.zshenv
+v zsh/.zcompdump
+v shell/aliasrc
+v shell/inputrc
+v shell/profile
+v shell/shortcutrc
+h
+v .zprofile
+man 2 open
+man ls
+man 2 ls
+v .zprofile
+source .zprofile
+man bash
+v .zprofile
+man bash
+source .zprofile
+man bash
+man ls
+col --version
+bat --version
+v .zprofile
+man ls
+man ls | bat
+v .zprofile
+source .zprofile
+v .zprofile
+source .zprofile
+exit
+man ls
+man ls | bat
+sc
+ls
+src
+ls
+cd st/
+v .zprofile
+source .zprofile
+exit
+man ls
+man ls | bat
+cfx
+xrdb -load .config/x11/xresources
+man grep
+he .bashrc
+man grep
+source .bashrc
+exit
+man grep
+rm .bashrc
+ls
+ls -a
+p -S most
+sudo pacman -S most
+v .zprofile
+source .zprofile
+man grep
+v .zprofile
+source .zprofile
+v .zprofile
+v /etc/pacman.conf
+tput --version
+tput --help
+tput
+man tput
+v .zprofile
+exit
+man tput
+v .zprofile
+mpv https://vksovhj001.vkcdn5.com/olaxk4yzq7uiolyobeg2bbz3ouv46u4wzndvdzj6edzi7kqscplm6b2n6bca/v.mp4
+sc
+src
+he .config/zsh/.zcompdump
+he .config/zsh/.zshenv
+he .config/zsh/.zshrc
+he .config/shell/inputrc
+he .config/shell/profile
+he .config/shell/shortcutrc
+he .config/shell/zshnameddirrc
+src
+ls
+src
+he st/config.h
+v st/config.h
+cd st/
+sudo make clean install
+he
+sdn
+sudo reboot
+he main.rs
+src
+v st/config.h
+cd st/
+sudo make clean install
+he go-to.txt
+sdn
+sudo sdn
+config nu
+sdn
+de
+he
+de go-to.txt
+dmenu-bluetooth 
+src
+cd st/
+he config.h
+v config.h
+sudo make clean install
+he main.rs
+he main2.rs
+dmenu-bluetooth 
+he .zprofile
+he main5.rs
+cd ..
+he src
+he src/main2.rs
+cf
+cd helix/
+he config.toml
+mkdir themes
+ls /usr/lib/helix/runtime/themes/onedark.toml<\n>
+ls /usr/lib/helix/runtime/themes/<\n>
+cf
+cp /usr/lib/helix/runtime/themes/* themes/<\n>
+he helix/config.toml
+cd helix/themes/
+ls
+count=1  # Initialize a counter<\n><\n>for file in *; do<\n>    if [ -f "$file" ]; then<\n>        extension="${file##*.}"  # Get the file extension<\n>        newname="th${count}.toml"<\n>        <\n>        # Check if the new name already exists, and if so, increment the counter<\n>        while [ -e "$newname" ]; do<\n>            ((count++))<\n>            newname="th${count}.toml"<\n>        done<\n><\n>        mv "$file" "$newname"  # Rename the file<\n>        ((count++))  # Increment the counter for the next file<\n>    fi<\n>done
+ls
+exit
+cd ~/.config/helix/themes/
+ls
+cd ..
+mv themes/ theme
+ls
+mv theme/ themes
+he now
+sudo chmod 744 now
+he now
+now
+ls
+sh now
+ls themes/
+mv themes/ theme
+mv theme themes
+ls
+mv now rename
+code
+rm themes/*
+cp /usr/lib/helix/runtime/themes/* themes/<\n>
+ls themes/
+he rename
+sh rename
+ls themes/
+he src/main2.rs
+he config.toml
+lf
+he main2.rs
+exit
+cf
+ls
+cp backup-zshrc zsh/.zshrc
+he zsh/.zshrc
+he main2.rs
+lf
+lf
+exit
+he .config/zsh/.zshrc
+config nu
+exit

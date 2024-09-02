@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "ee5f9bb350d7a03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "88dfa93f3ef06e9f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dashboard.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c85af008001360e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2748530a27b3ecf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96949f3a5fc4c83b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a6c7959c9907990",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5f95cfd4cc0ec59",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2843419f9dd5b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e0506b4be556b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5df7590a59d8d7b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7237eceba4234589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d65581147b331c3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35d5b854e2012eb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "88dfa93f3ef06e9f",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "🌻References/& Lessons from History.md",
+    "🌻References/+ Get Losers Out of Your Life.md",
+    "🌻References/& Can't Hurt Me.md",
+    "☀️Reflect/Goals/🎯Goals.md",
+    "🌻References/202107302117- The Dip.md",
+    "🌻References/+Himalalyan Yougi Mahrishi Swami Deve Murti Ji- Lecture in Rishikesh- shri Ravi shankar in audience.md",
+    "🌻References/How to Think Like  a Professional Trader.md",
+    "🌻References/+Why Volume Wins Becoming successful writer online.md",
+    "Crypto Traders on Twitter.md"
+  ]
+}

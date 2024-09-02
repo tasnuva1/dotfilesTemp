@@ -1,0 +1,80 @@
+# How to Be Successful
+#done 
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+
+## Metadata
+- Author: [[blog.samaltman.com]]
+- Full Title: How to Be Successful
+- Category: #articles
+- URL: https://blog.samaltman.com/how-to-be-successful
+
+## Highlights
+- Usually, people start off wanting the former and end up wanting the latter.
+- Everything here is easier to do once you’ve already reached a baseline degree of success (through privilege or effort) and want to put in the work to turn that into outlier success. [1] But much of it applies to anyone.
+- 1. Compound yourself
+- Exponential curves are the key to wealth generation.
+- Few businesses in the world have true network effects and extreme scalability. But with technology, more and more will.  It’s worth a lot of effort to find them and create them.
+- You also want to be an exponential curve yourself—you should aim for your life to follow an ever-increasing up-and-to-the-right trajectory
+- move towards a career that has a compounding effect—most careers progress fairly linearly.
+- You don't want to be in a career where people who have been doing it for two years can be as effective as people who have been doing it for twenty—your rate of learning should always be high
+- It’s useful to focus on adding another zero to whatever you define as your success metric—money, status, impact on the world, or whatever.
+- Most people get bogged down in linear opportunities. Be willing to let small opportunities go to focus on potential step changes.
+- One of the notable aspects of compound growth is that the furthest out years are the most important. In a world where almost no one takes a truly long-term view, the market richly rewards those who do.
+- 2. Have almost too much self-belief
+- Self-belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.
+- If you don’t believe in yourself, it’s hard to let yourself have contrarian ideas about the future. But this is where most value gets created.
+- Most highly successful people have been really right about the future at least once at a time when people thought they were wrong. If not, they would have faced much more competition.
+- Self-belief must be balanced with self-awareness. I used to hate criticism of any sort and actively avoided it. Now I try to always listen to it with the assumption that it’s true, and then decide if I want to act on it or not.
+- Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion.
+- 3. Learn to think independently
+- original thinking is very difficult to teach
+- School is not set up to teach this—in fact, it generally rewards the opposite. So you have to cultivate it on your own.
+- Thinking from first principles and trying to generate new ideas is fun, and finding people to exchange them with is a great way to get better at this.
+- “I will fail many times, and I will be really right once” is the entrepreneurs’ way. You have to give yourself a lot of chances to get lucky.
+- you can figure out what to do in situations that seem to have no solution. The more times you do this, the more you will believe it. Grit comes from learning you can get back up after you get knocked down.
+- 4. Get good at “sales”
+- you also have to be able to convince other people of what you believe.
+- Getting good at communication—particularly written communication—is an investment worth making.
+- best advice for communicating clearly is to first make sure your thinking is clear and then use plain, concise language.
+- genuinely believe in what you’re selling. Selling what you truly believe in feels great, and trying to sell snake oil feels awful.
+- Getting good at sales is like improving at any other skill—anyone can get better at it with deliberate practice. But for some reason, perhaps because it feels distasteful, many people treat it as something unlearnable
+- 5. Make it easy to take risks
+- Most people overestimate risk and underestimate reward
+- Taking risks is important because it’s impossible to be right all the time—you have to try many things and adapt quickly as you learn more.
+- It’s often easier to take risks early in your career; you don’t have much to lose, and you potentially have a lot to gain
+- Look for small bets you can make where you lose 1x if you’re wrong but make 100x if it works. Then make a bigger bet in that direction.
+- When people get used to a comfortable life, a predictable job, and a reputation of succeeding at whatever they do, it gets very hard to leave that behind (and people have an incredible ability to always match their lifestyle to next year’s salary).
+- 6. Focus
+- Focus is a force multiplier on work.
+- important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.
+- Once you have figured out what to do, be unstoppable about getting your small handful of priorities accomplished quickly
+- 7. Work hard
+- You can get to about the 90th percentile in your field by working either smart or hard, which is still a great accomplishment. But getting to the 99th percentile requires both—you will be competing with other very talented people who will have great ideas and be willing to work a lot.
+- Extreme people get extreme results.
+- One of the great joys in life is finding your purpose, excelling at it, and discovering that your impact matters to something larger than yourself
+- I think people who pretend you can be super successful professionally without working most of the time (for some period of your life) are doing a disservice. In fact, work stamina seems to be one of the biggest predictors of long-term success.
+- 8. Be bold
+- it’s easier to do a hard startup than an easy startup. People want to be part of something exciting and feel that their work matters.
+- If you are making progress on an important problem, you will have a constant tailwind of people wanting to help you. Let yourself grow more ambitious, and don’t be afraid to work on what you really want to work on.
+- If everyone else is starting meme companies, and you want to start a gene-editing company, then do that and don’t second guess it.
+- Follow your curiosity. Things that seem exciting to you will often seem exciting to other people too.
+- 9. Be willful
+- you can bend the world to your will a surprising percentage of the time—most people don’t even try, and just accept that things are the way that they are.
+- A combination of self-doubt, giving up too early, and not pushing hard enough prevents most people from ever reaching anywhere near their potential.
+- To be willful, you have to be optimistic—hopefully this is a personality trait that can be improved with practice. I have never met a very successful pessimistic person.
+- 10. Be hard to compete
+- If what you do can be done by someone else, it eventually will be, and for less money.
+- The best way to become difficult to compete with is to build up leverage. For example, you can do it with personal relationships, by building a strong personal brand, or by getting good at the intersection of multiple different fields. There are many other strategies, but you have to figure out some way to do it.
+- if you’re doing the same thing everyone else is doing, you will not be hard to compete with.
+- 11. Build a network
+- One of the best ways to build a network is to develop a reputation for really taking care of the people who work with you. Be overly generous with sharing the upside; it will come back to you 10x.
+- Everyone is better at some things than others. Define yourself by your strengths, not your weaknesses.
+- 12. You get rich by owning things
+- The biggest economic misunderstanding of my childhood was that people got rich from high salaries. Though there are some exceptions—entertainers for example —almost no one in the history of the Forbes list has gotten there with a salary.
+- You get truly rich by owning things that increase rapidly in value.
+- The best way to make things that increase rapidly in value is by making things people want at scale.
+- 13. Be internally driven
+- Most people are primarily externally driven; they do what they do because they want to impress other people
+- you will define your success by performing excellent work in areas that are important to you. The sooner you can start off in that direction, the further you will be able to go. It is hard to be wildly successful at anything you aren’t obsessed with.
+- The right motivations are hard to define a set of rules for, but you know it when you see it.
+- The most successful people I know are primarily internally driven; they do what they do to impress themselves and because they feel compelled to make something happen in the world.

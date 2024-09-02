@@ -1,0 +1,560 @@
+   20  ls script_modules
+   21  v autoload.conf
+   22  mv autoload.conf script_modules
+   23  mv script_modules/autoload.conf ./ 
+   24  ls
+   25  cf
+   26  cd mpv
+   27  ls
+   28  v mpv.conf
+   29  v mpv.conf
+   30  ls
+   31  v playlistmanager.lua
+   32  v playlistmanager.conf
+   33  v playlistmanager.conf
+   34  lf
+   35  ls
+   36  mpv --gapless-audio=yes --loop-playlist=inf *.mp4
+   37  lf
+   38  unzip Learn\ Rust\ by\ Building\ Real\ Applications.zip
+   39  lf
+   40  sdn
+   41  cd .config/mpv
+   42  ls
+   43  v mpv.conf
+   44  ls scripts
+   45  rm mpv.conf
+   46  ls
+   47  v input.conf
+   48  v input.conf
+   49  v input.conf
+   50  v mpv.conf
+   51  v mpv.conf
+   52  v mpv.conf
+   53  cf
+   54  cd mpv
+   55  ls
+   56  cd script
+   57  ls scripts
+   58  ls script_modules
+   59  v scripts/save-playlist.lua
+   60  v scripts/playlist-shuffle.lua
+   61  v scripts/autoload.lua
+   62  v scripts/auto-save-state.lua
+   63  ls
+   64  mv playlistmanager.lua scripts
+   65  ls
+   66  v mpv.conf
+   67  v input.conf
+   68  v mpv.conf
+   69  v mpv.conf
+   70  v mpv.conf
+   71  lf
+   72  lf
+   73  sudo date -s "21 aug 2023 5:29 pm"
+   74  sudo date -s "21 aug 2023 5:30 am"
+   75  sudo date -s "21 aug 2023 5:40 am"
+   76  v go-to.txt
+   77  sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
+   78  sdn
+   79  sudo date -s "22 aug 2023 2:40 am"
+   80  sudo date -s "22 aug 2023 2:40 pm"
+   81  sudo date -s "22 aug 2023 4:40 pm"
+   82  sudo date -s "21 aug 2023 4:40 pm"
+   83  sudo date -s "22 aug 2023 4:40 pm"
+   84  lf
+   85  yay -Rns librewolf
+   86  yay -Q | grep "libre*"
+   87  yay -Rns librewolf-bin
+   88  calcurse
+   89  sdn
+   90  yt-dlp --ignore-errors --continue --no-overwrites --download-archive progress.txt usual options https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+   91  yt-dlp --ignore-errors --continue --no-overwrites --download-archive progress.txt usual options https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+   92  yt-dlp --ignore-errors --continue --no-overwrites --download-archive progress.txt usual https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+   93  yt-dlp --ignore-errors --continue --no-overwrites --download-archive progress.txt https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+   94  yt-dlp --ignore-errors --continue --no-overwrites --download-archive https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+   95  top
+   96  src
+   97  v dwmblocks/config.h
+   98  cd dwmblocks
+   99  sudo make install
+  100  v dwmblocks/config.h
+  101  v config.h
+  102  sudo make install
+  103  h
+  104  v go-to.txt
+  105  v go-to.txt
+  106  cd gits/rust/hello_world
+  107  cargo doc --open\n“Learn Rust in a Month of Lunches MEAP V09” by copyright-2023-manning-publications.html
+  108  cd ../small-exercises
+  109  ls
+  110  cd rustlings
+  111  cargo doc --open
+  112  cfa
+  113  lf
+  114  v one-tab.txt
+  115  sudo date -s "22 aug 2023 7:00 pm"
+  116  sdn
+  117  cd gits/rust/hello_world
+  118  v src/main.rs
+  119  python3 app.py
+  120  date -s "23 aug 2023 8:54 am"
+  121  sudo date -s "23 aug 2023 8:54 am"
+  122  lf
+  123  sdn
+  124  sudo date -s "24 aug 2023 1:00 am"
+  125  sudo date -s "24 aug 2023 10:02 am"
+  126  sudo date -s "24 aug 2023 10:12 am"
+  127  sudo date -s "24 aug 2023 10:20 am"
+  128  cd clock
+  129  python3 app.py
+  130  sdn
+  131  calcurse
+  132  sdn
+  133  sudo date -s "24 aug 2023 01:00 pm"
+  134  sudo date -s "24 aug 2023 01:24 pm"
+  135  v go-to.txt
+  136  sdn
+  137  yay firefox-browser
+  138  yay mozilla-firefox-browser
+  139  yay firefox
+  140  v go-to.txt
+  141  pamac upgrade
+  142  pacman -S glibc lib32-glibc
+  143  sudo pacman -S firefox
+  144  sudo pacman -S firefox
+  145  firefox
+  146  cd gits
+  147  sudo pacman -S --needed git && git clone https://aur.archlinux.org/firefox-esr-bin.git && cd firefox-esr-bin && makepkg -si
+  148  firefox
+  149  h
+  150  v go-to.txt
+  151  lf
+  152  lf
+  153  v tem.txt
+  154  htop
+  155  v go-to.txt
+  156  reboot
+  157  htop
+  158  lf
+  159  v go-to.txt
+  160  sh mounter
+  161  vco
+  162  lf
+  163  sdn
+  164  htop
+  165  htop
+  166  lf
+  167  sdn
+  168  dmenu-bluetooth
+  169  dmenu-bluetooth
+  170  dmenu-bluetooth
+  171  dmenu-bluetooth
+  172  dmenu-bluetooth\\ndmenu-bluetooth
+  173  dmenu-bluetooth
+  174  dmenu-bluetooth
+  175  dmenu-bluetooth
+  176  dmenu-bluetooth
+  177  reboot
+  178  v go-to.txt
+  179  v go-to.txt
+  180  lf
+  181  v src/main.rs
+  182  v src/main.rs
+  183  v go-to.txt
+  184  sdn
+  185  htop
+  186  dmenu-bluetooth
+  187  v go-to.txt
+  188   v go-to.txt
+  189  v go-to.txt
+  190  cd gits/rust/small-exercises
+  191  ls
+  192  cd ..
+  193  ls
+  194  cargo new small-programs
+  195  cd small-programs
+  196  v src/main.rs
+  197  v ~/go-to.txt
+  198  cargo run
+  199  cargo run
+  200  cargo run
+  201  cargo run
+  202  cargo run
+  203  dmenu-bluetooth
+  204  dmenu-bluetooth
+  205  dmenu-bluetooth
+  206  dmenu-bluetooth
+  207  cargo run
+  208  cargo run
+  209  cargo run
+  210  cargo run
+  211  cargo run
+  212  cargo run
+  213  cargo run
+  214  cargo run
+  215  cd gits/rust/small-programs 
+  216  ls
+  217  v src/book_manager.rs
+  218  mv src/main.rs src/main2.rs
+  219  mv src/book_manager.rs src/main.rs
+  220  cargo run
+  221  v src/main.rs
+  222  mv src/main.rs src/main3.rs
+  223  v src/main.rs
+  224  v src/main3.rs
+  225  v src/main.rs
+  226  lf
+  227  unzip tasnuva.contact@gmail.com.ical.zip
+  228  ls
+  229  cargo run
+  230  ^K
+  231  dmenu-bluetooth
+  232  dmenu-bluetooth
+  233  v go-to.txt
+  234  dmenu-bluetooth
+  235  cd gits/rust/small-programs
+  236  v src/main
+  237  v src/main.rs
+  238  cargo run
+  239  v src/main.rs
+  240  cargo run
+  241  v src/main.rs
+  242  cargo run
+  243  v src/main.rs
+  244  cargo run
+  245  ls
+  246  ls src
+  247  mv src/main.rs src/main4.rs
+  248  v src/main.rs
+  249  v src/main4.rs
+  250  cargo run src/main4.rs 
+  251  rustc src/main4.rs 
+  252  cargo run 
+  253  cargo run
+  254  cargo run
+  255  tree
+  256  v src/main.rs
+  257  cargo run
+  258  dmenu-bluetooth
+  259  dmenu-bluetooth
+  260  dmenu-bluetooth
+  261  v src/main.rs
+  262  v ~/go-to.txt
+  263  pwd
+  264  h
+  265  v man.txt
+  266  vi view go-to.txt
+  267  v view go-to.txt
+  268  vim go-to.txt
+  269  vim -r go-to.txt
+  270  v go
+  271  v go-to.txt
+  272  cd gits/rust/small-programs
+  273  v ~/go-to.txt
+  274  v src/main.rs
+  275  v src/main.rs
+  276  cargo run
+  277  v src/main.rs
+  278  v src/main.rs
+  279  bluetooth-player
+  280  dmenu-bluetooth
+  281  dmenu-bluetooth
+  282  dmenu-bluetooth
+  283  sdn
+  284  ls
+  285  ^K
+  286  dmenu-bluetooth
+  287  dmenu-bluetooth
+  288  dmenu-bluetooth
+  289  v go-to.txt
+  290  cfx
+  291  cfx
+  292  v go-to.txt
+  293  cfx
+  294  v go-to.txt
+  295  reboot
+  296  v go-to.txt
+  297  cfx
+  298  reboot
+  299  v go-to.txt
+  300  dmenu-bluetooth
+  301  sdn
+  302  v go-to.txt
+  303  dmenu-bluetooth
+  304  v go-to.txt
+  305  dmenu-bluetooth
+  306  dmenu-bluetooth
+  307  dmenu-bluetooth
+  308  dmenu-bluetooth
+  309  dmenu-bluetooth
+  310  dmenu-bluetooth
+  311  dmenu-bluetooth
+  312  dmenu-bluetooth
+  313  dmenu-bluetooth
+  314  sdn
+  315  reboot
+  316  date -s "30 aug 2023 5:00 pm"
+  317  sudo date -s "30 aug 2023 5:00 pm"
+  318   sudo vim /etc/default/grub
+  319   sudo vim /etc/default/grub
+  320  sudo update-grub
+  321  sudo date -s "30 aug 2023 5:50 pm"
+  322  dmenu-bluetooth
+  323  dmenu-bluetooth
+  324  dmenu-bluetooth
+  325  dmenu-bluetooth
+  326  dmenu-bluetooth
+  327  dmenu-bluetooth
+  328  dmenu-bluetooth
+  329  dmenu-bluetooth
+  330  dmenu-bluetooth
+  331  dmenu-bluetooth
+  332  dmenu-bluetooth
+  333  dmenu-bluetooth
+  334  dmenu-bluetooth
+  335  dmenu-bluetooth
+  336  dmenu-bluetooth
+  337  dmenu-bluetooth
+  338  dmenu-bluetooth
+  339  dmenu-bluetooth
+  340  dmenu-bluetooth
+  341  sdn
+  342  sdn
+  343  dmenu-bluetooth
+  344  dmenu-bluetooth
+  345  dmenu-bluetooth
+  346  dmenu-bluetooth
+  347  dmenu-bluetooth
+  348  dmenu-bluetooth
+  349  dmenu-bluetooth
+  350  dmenu-bluetooth
+  351  yay -S blueman bluez bluez-libs bluez-runit bluez-utils pipewire-pulse dmenu-bluetooth
+  352  dmenu-bluetooth
+  353  dmenu-bluetooth
+  354  dmenu-bluetooth
+  355  dmenu-bluetooth
+  356  dmenu-bluetooth
+  357  reboot
+  358  dmenu-bluetooth
+  359  dmenu-bluetooth
+  360  dmenu-bluetooth
+  361  dmenu-bluetooth
+  362  dmenu-bluetooth
+  363  dmenu-bluetooth
+  364  dmenu-bluetooth
+  365  dmenu-bluetooth
+  366  dmenu-bluetooth
+  367  dmenu-bluetooth
+  368  dmenu-bluetooth
+  369  dmenu-bluetooth
+  370  dmenu-bluetooth
+  371  v ~/go-to.txt
+  372  cfx
+  373  cf
+  374  cd nvim
+  375  ls lua/custom
+  376  v lua/custom/plugins.lua 
+  377  ls lua/custom/
+  378  v lua/custom/plugins.lua 
+  379  v ~/go-to.txt
+  380  v lua/custom/plugins.lua 
+  381  tree
+  382  v lua/plugins/configs/vscode.lua
+  383  mv lua/plugins/configs/vscode.lua lua/custom/configs
+  384  tree
+  385  v lua/custom/plugins.lua 
+  386  v ~/go-to.txt
+  387  tree
+  388  v lua/custom/mappings.lua
+  389  cargo run
+  390  cargo run
+  391  dmenu-bluetooth
+  392  dmenu-bluetooth
+  393  ls .local/share/larbs/
+  394  src
+  395  pwd
+  396  h
+  397  find ./ -name "wall"
+  398  find ./ -name "Wall"
+  399  man find
+  400  dmenu-bluetooth
+  401  dmenu-bluetooth
+  402  sudo date -s "1 sep 2023 3:50 pm"
+  403  dmenu-bluetooth
+  404  dmenu-bluetooth
+  405  sdn
+  406  scim 1-sep.csv
+  407  sc-im 1-sep.csv
+  408  v 1-sep.csv
+  409  sc-im 1-sep.csv
+  410  lf
+  411  lf
+  412  h
+  413  ls
+  414  lf
+  415  ^C^C^C^C^C^C^C^Clf
+  416  lf
+  417  p -S sc-im
+  418  yay -S sc-im
+  419  dmenu-bluetooth
+  420  dmenu-bluetooth
+  421  lf
+  422  scim 1-sep.csv
+  423  p -S scim
+  424  scim 1-sep.csv
+  425  touch 1-sep.csv
+  426  scim 1-sep.csv
+  427  lf
+  428  ls
+  429  cp  pic-full-230817-2147-53.png
+  430  cp --help
+  431  cp --help | less
+  432  sdn
+  433  dmenu-bluetooth
+  434  dmenu-bluetooth
+  435  lf
+  436  dmenu-bluetooth
+  437  dmenu-bluetooth
+  438  v go-to.txt
+  439  lf
+  440  sdn
+  441  dmenu-bluetooth
+  442  dmenu-bluetooth
+  443  sdn
+  444  lf
+  445  dmenu-bluetooth
+  446  dmenu-bluetooth
+  447  lf
+  448  aco
+  449  lf
+  450  cfa
+  451  mo
+  452  rm "The Dark Knight Rises (2012) [1080p] [BluRay] [YTS.MX].torrent"
+  453  vco
+  454  lf
+  455  sh mounter
+  456  vco
+  457  lf
+  458  code
+  459  lf
+  460  yay -S snap 
+  461  yay snap 
+  462  cd gits
+  463  git clone https://aur.archlinux.org/snapd.git
+  464  cd snapd
+  465  yay -S snapd
+  466  p -S snapd
+  467  yay -S snapd
+  468  yay snapd
+  469  makepkg -si
+  470  p -S squashfs-tools
+  471  dmenu-bluetooth
+  472  dmenu-bluetooth
+  473  lf
+  474  calcurse
+  475  dmenu-bluetooth
+  476  dmenu-bluetooth
+  477  p -S apparmor-runit
+  478  p -S snapd
+  479  yay -S snapd
+  480  ls -al
+  481  v .zprofile
+  482  ls -al
+  483  v .xprofile
+  484  v .zprofile
+  485  v .xprofile
+  486  src
+  487  cd st
+  488  ls
+  489  v config.h
+  490  cd ../dwm
+  491  v config.h
+  492  cd
+  493  src
+  494  sh mounter
+  495  vco
+  496  lf
+  497  v .zprofile
+  498  exit
+  499  st
+  500  date -s "1 sep 2023 8:00 pm"
+  501  sudo date -s "1 sep 2023 8:00 pm"
+  502  p -Q | grep "xdotool"
+  503  dmenu-bluetooth
+  504  dmenu-bluetooth
+  505  dmenu-bluetooth
+  506  dmenu-bluetooth
+  507  dmenu-bluetooth
+  508  dmenu-bluetooth
+  509  dmenu-bluetooth
+  510  v workspace
+  511  v mounter
+  512  v workspace
+  513  chmod 557 workspace
+  514  ls -l workspace
+  515  sh workspace
+  516  v workspace
+  517  ls -l workspace
+  518  chmod 757 workspace
+  519  v workspace
+  520  sh workspace
+  521  v workspace
+  522  xterm -e ls -l
+  523  sh
+  524  konsole
+  525  src
+  526  v dwm/config.h
+  527  xclip "this is me"
+  528  men xclip 
+  529  man xclip 
+  530  echo "ls -l" | xclip 
+  531  echo "ls -l" | xclip 
+  532  aco
+  533  lf
+  534  pwd
+  535  pwd
+  536  lf /mnt/3/Courses/media/audiobooks
+  537  h
+  538  lf /mnt/3/Courses/media/audiobooks
+  539  lf
+  540  pwd
+  541  mpv /home/fahmida/downloads/videos/Rust/01\ Common\ Collections\ in\ Rust.mp4
+  542  mpv /home/fahmida/downloads/videos/Rust/01\ Common\ Collections\ in\ Rust.mp4
+  543  mpv /home/fahmida/downloads/videos/Rust/01\ Common\ Collections\ in\ Rust.mp4
+  544  mpv ./-\ Learn\ Rust\ Programming\ Complete\ Course.
+  545  lf
+  546  mpv ./"- Learn Rust Programming Complete Course.mp4"
+  547  pwd
+  548  mpv /home/fahmida/downloads/videos/"- Learn Rust Programming Complete Course.mp4"
+  549  mpv /home/fahmida/downloads/videos/"- Learn Rust Programming Complete Course.mp4"
+  550  mpv /home/fahmida/downloads/videos/"- Learn Rust Programming Complete Course.mp4"
+  551  lf
+  552  mpv "-  Learn Rust Programming Complete Course.mp4"
+  553  mpv --help
+  554  mpv "-  Learn Rust Programming Complete Course.mp4"
+  555  ./"-  Learn Rust Programming Complete Course.mp4"
+  556  mpv ./"-  Learn Rust Programming Complete Course.mp4"
+  557  lf
+  558  h
+  559  sh mounter
+  560  vco
+  561  lf
+  562  dragon-drop -t
+  563  lf
+  564  src
+  565  v dwm/config.h
+  566  code
+  567  xdotool key ls -l
+  568  xdotool key super+KP_Enter
+  569  xdotool key super+KP_Enter
+  570  man xdotool
+  571  xdotool key super+enter
+  572  xdotool key super+Enter
+  573  man st
+  574  history 20
+  575  v now.txt
+  576  history 20 > now.txt
+  577  v now.txt
+  578  history > now.txt
+  579  v now.txt

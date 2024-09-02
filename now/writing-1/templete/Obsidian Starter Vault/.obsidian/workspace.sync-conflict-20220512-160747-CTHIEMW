@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "ee5f9bb350d7a03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1629ce77fa858311",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🍀Permanent Notes/Capitulation.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e828824aad5ade1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3767378161ada150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad8cf08167ebd01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e6bece9e37046dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0e8fd0b9fa7574b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f02aec7024ec0a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32505e22b9ec4d0b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f87d4d265bad2557",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🍀Permanent Notes/Capitulation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a2abacc8d224f47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🍀Permanent Notes/Capitulation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c1fe318b990407c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42948ab9a63192b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🍀Permanent Notes/Capitulation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1629ce77fa858311",
+  "lastOpenFiles": [
+    "🍀Permanent Notes/Capitulation.md",
+    "🍀Permanent Notes/Don't Catch a falling knife in trading.md",
+    "🌻References/+ The Problem With Technical Analysis In Day Trading That No one is Talking About.md",
+    "🌻References/@ How To Be A Successful Swing Trader in Stocks.md",
+    "🎇Quick Links.md",
+    "Reading List.md",
+    "Tools I use.md",
+    "Project Board.md",
+    "Visual Illustrations Ideas.md",
+    "Crypto Traders on Twitter.md"
+  ]
+}

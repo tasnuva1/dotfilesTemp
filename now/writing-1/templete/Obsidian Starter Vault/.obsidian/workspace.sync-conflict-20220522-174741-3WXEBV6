@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "65368f5325f7512a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff50e63758d69fd3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dashboard.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe9163e2e8cc00c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0effc59bce04acd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dff59d5ec1d399a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b93092cdcd8dad08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1394ff003ef73306",
+    "type": "split",
+    "children": [
+      {
+        "id": "c537aeaad9a933c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5547bc4d0f426628",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "50735bb4d5839c24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ff50e63758d69fd3",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "🍕 Fleeting Notes.md",
+    "Fleeting Notess.md",
+    "Happiness is Overrated, Seek Usefulness.md",
+    "DON'T SET FREE TIME.md",
+    "🌻References/How to Trade In Stocks.md",
+    "Reading List.md",
+    "Visual Ideas.md",
+    "Trading Plan.md",
+    "Video Ideas.md"
+  ]
+}

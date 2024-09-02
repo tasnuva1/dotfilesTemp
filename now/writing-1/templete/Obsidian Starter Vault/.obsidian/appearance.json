@@ -1,0 +1,14 @@
+{
+  "baseFontSize": -5,
+  "enabledCssSnippets": [
+    "Royal Velvet",
+    "Obsidiante Blockquote",
+    "Bubble Space",
+    "Dashboard",
+    "dashboard"
+  ],
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "translucency": false
+}

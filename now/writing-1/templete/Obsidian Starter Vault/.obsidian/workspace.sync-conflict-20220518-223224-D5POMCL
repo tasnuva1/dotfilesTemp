@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "ee5f9bb350d7a03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "91883e80a8dc4589",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dashboard.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01b6debbc76e4b58",
+    "type": "split",
+    "children": [
+      {
+        "id": "b674086d7ed2c4d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a78fe283f906558",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bf11af2615d19b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8f32dda390ac9dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "06238375a312820f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa39aa29bb9ebbe6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "52dbf77be7afca0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a54ad21f83b1c66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "411c612212cff0e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c969940fc578d3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91883e80a8dc4589",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "☀️Reflect/Goals/Publish 100 Articles on Medium.md",
+    "Reading List.md",
+    "🌻References/& The Almanack of Naval Ravikant.md",
+    "🌻References/& Why We Sleep.md",
+    "🌻References/The Disciplined Trader - Mark Douglas.md",
+    "🌻References/202108131345- How to Have Your Best Year Ever.md",
+    "🌻References/📕Quotes Worth Reading.md",
+    "🍀Permanent Notes/Imposter Syndrome.md",
+    "Visual Ideas.md"
+  ]
+}

@@ -1,0 +1,696 @@
+# Can't Hurt Me: Master Your Mind and Defy the Odds
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png)
+[[ReadWise]]
+## Metadata
+- Author: [[David Goggins]]
+- Full Title: Can't Hurt Me: Master Your Mind and Defy the Odds
+- Category: #books
+
+## Highlights
+- ***You are in danger of living a life so comfortable and soft that you will die without ever realizing your true potential.***
+- MISSION: To unshackle your mind. Ditch the victim’s mentality forever. Own all aspects of your life completely. Build an unbreakable foundation.
+- EXECUTION:
+- Repeat. Repetition will callous your mind.
+- Read this cover to cover. Study the techniques within, accept all ten challenges.
+- This mission is about being better and having a greater impact on the world.
+- ***Don’t stop when you are tired. Stop when you are done.***
+- Do you know who you really are and what you’re capable of?
+- just because you believe something doesn’t make it true
+- millions roam the streets, dead-eyed as zombies, addicted to comfort, embracing a victim’s mentality and unaware of their true potential.
+- Very few people know how the bottom feels, but I do. It’s like quicksand. It grabs you, sucks you under, and won’t let go
+- When life is like that it’s easy to drift and continue to make the same comfortable choices that are killing you, over and over again.
+- the truth is we all make habitual, self-limiting choices.
+- It’s how our brains are wired, which is why motivation is crap.
+- Even the best pep talk or self-help hack is nothing but a temporary fix.
+- It won’t rewire your brain. It won’t amplify your voice or uplift your life.
+- **you’re probably living at about 40 percent of your true capability**
+- We all have the potential to be so much more.
+- d barely graduated high school, yet I was at one of the most prestigious institutions in the country to discuss mental toughness with a handful of others.
+- It was his life’s work. It was also a bunch of bullshit, and to me he was using science to let us all off the hook
+- an esteemed MIT professor said that we each have genetic limitations. Hard ceilings. That there are some things we just can’t do no matter how mentally tough we are.
+- someone in the audience noticed the look on my face and asked if I agreed.
+- ***“There’s something to be said for living it instead of studying it,
+- “***What you said is true for most people, but not 100 percent. There will always be the 1 percent of us who are willing to put in the work to defy the odds.”******
+- anybody can become a totally different person and achieve what so-called experts like him claim is impossible, but it takes a lot of heart, will, and an armored mind.
+- Out of every one hundred men,” he wrote, “ten shouldn’t even be there, eighty are just targets, nine are the real fighters, and we are lucky to have them, for they make the battle. Ah, but the one, one is a warrior…
+- From the time you take your first breath, you become eligible to die. You also become eligible to find your greatness and become the One Warrior
+- Only you can master your mind, which is what it takes to live a bold life filled with accomplishments most people consider beyond their capability.
+- the story of my fucked-up life, will illuminate a proven path to self-mastery and empower you to face reality, hold yourself accountable, push past pain, learn to love what you fear, relish failure, live to your fullest potential, and find out who you really are.
+- when you’re driven, whatever is in front of you, whether it’s racism, sexism, injuries, divorce, depression, obesity, tragedy, or poverty, becomes fuel for your metamorphosis.
+- It’s time to go to war with yourself.
+- As soon as our neighbors shut the door or turned the corner, my father’s smile morphed into a scowl. He barked orders and went inside to sleep another one off, but our work wasn’t done.
+- Children that young are infinite sponges. They soak up language and ideas at warp speed to establish a fundamental foundation upon which most people build life-long skills like reading and spelling and basic math, but because I worked nights, I couldn’t concentrate on anything most mornings, except trying to stay awake.
+- In that moment my hatred overcame my fear. I ran downstairs and jumped on his back, slammed my tiny fists into his back, and scratched at his eyes. I’d caught him off guard and he fell to one knee. I wailed on him.
+- But those were different days. There was no #metoo back then. That shit didn’t exist, and they ignored her.
+- They left without interviewing her. He didn’t hit her again that morning. He didn’t have to. The psychological damage was done.
+- Each drop of his nasty saliva on my skin burned like venom and intensified my hate.
+- I’d long since learned that the best way to avoid a beat down was to make myself as invisible as possible, avert my eyes, float outside my body, and hope to go unnoticed.
+- We drove in silence until he caught his breath. “When we get home, you’re gonna take your clothes off,” he said.
+- The beatings were often brutal, but the anticipation was the worst part
+- I was breathing heavy too, but I wasn’t crying
+- His evil was too real and my hate gave me courage. I refused to give that motherfucker the satisfaction.
+- I didn’t know until years later that she was considering suicide
+- My mother’s every day was a lesson in survival. She was told she was worthless so often she started to believe it
+- You and David need to be strong,” he raved. “I’m not raising a bunch of faggots! And that’s what you’ll be if you go to the doctor every time you get a little boo boo, understand?
+- part of me expected him to pull the trigger, but by this time in my life I no longer cared if I lived or died.
+- cosign. Betty also reminded my mother to keep their friendship a secret.
+- It was as if she’d been holding it all in, stuffing her fear down deep, hiding it beneath a mask of forced composure, until an obstacle emerged and she fell apart. Tears streaked her face.
+- I was still only eight years old, but already in a second phase of life. I didn’t know what awaited me—what awaited us—in that small, rural, Southern Indiana town, and I didn’t much care.
+- All I knew was that we’d escaped from Hell, and for the first time in my life, we were free from the Devil himself.
+- She didn’t know my backstory and didn’t have to. All that mattered to her was that I turned up at her door with a kindergarten education, and it was her job to shape my mind.
+- Indiana State University, which cost money too. The point is, we had gaps to fill, so my mother enrolled in welfare and received $123 a month and food stamps
+- We needed that car so I could get to school, and so she could get to work and take night classes.
+- “You never know when you might need it,”
+- once. It seemed that I was healing, but my demons weren’t gone. They were dormant. And when they came back, they hit hard.
+- Every kid knows what “special” means. It means you are about to be stigmatized for the rest of your damn life. It means that you are not normal.
+- Imagine being the only black kid in class, in the entire school, and enduring the daily humiliation of also being the dumbest
+- That experience kicked my social anxiety up several notches. My stutter was out of control. My hair started falling out, and white splotches bloomed on my dark skin. The doctor diagnosed me as an ADHD case and prescribed Ritalin, but my problems were more complex.
+- The type of physical and emotional abuse I was exposed to has been proven to have a range of side effects on young children because in our early years the brain grows and develops so rapidly. If, during those years, your father is an evil motherfucker hell-bent on destroying everyone in his house, stress spikes, and when those spikes occur frequently enough, you can draw a line across the peaks. That’s your new baseline.
+- I’m not the type of guy to try to explain everything with science, but facts are facts
+- But I was still a damaged kid, and while there are proven interventions on the best way to teach and manage kids who suffer from toxic stress, it’s fair to say that Ms. D didn’t get those memos.
+- Ms. D was all about productivity. She was saying, Keep up or get out.
+- Studying was hard, especially with my fucked-up brain, but I was a damn good cheat
+- I thought I’d solved a problem when really I was creating new ones by taking the path of least resistance.
+- Whenever you’re the only one of your kind, you’re in danger of being pushed toward the margins, suspected and disregarded, bullied and mistreated by ignorant people
+- Were you beaten? Abused? Bullied? Did you ever feel insecure? Maybe your limiting factor is that you grew up so supported and comfortable, you never pushed yourself?
+- Are you underappreciated and overlooked for opportunities? What are the long odds you’re up against right now? Are you standing in your own way?
+- Break out your journal—if you don’t have one, buy one, or start one on your laptop, tablet, or in the notes app on your smart phone—and write them all out in minute detail.
+- Once you have your list, share it with whoever you want. For some, it may mean logging onto social media, posting a picture, and writing out a few lines about how your own past or present circumstances challenge you to the depth of your soul.
+- Otherwise, acknowledge and accept it privately. Whatever works for you. I know it’s hard, but this act alone will begin to empower you to overcome.
+## New highlights added March 25, 2022 at 7:04 AM
+- Wilmoth became as close to a healthy father figure as I’ve ever had.
+- The past had been bleak and now our sky-blue future had been blown the fuck up too.
+- call it the magnetic pull of dark to dark—I peeked under the bus and saw him. His head was nearly as flat as paper, his brains and blood mingled under the carriage like spent oil.
+- was beyond the pale. Nothing mattered to me. I’d seen enough to know that the world was filled with human tragedy and that it would just keep piling up in drifts until it swallowed me
+- We were two people in dire need of the fresh start we thought we had coming, so even without Wilmoth, we made the move to Indianapolis.
+- The threat of violence doesn’t get much more real than that
+- Damien eased down the road, while I locked eyes with the gunman and said nothing. He stepped within two feet of me.
+- He just locked eyes with her and said, “I don’t want to ever see you sitting with this nigger again
+- She hustled out the door after him, her face red with shame as I sat, paralyzed, staring at the floor. It was the most humiliating moment of my life, and it hurt much more than the gun incident because it happened in public, and the word had been spewed by a grown-ass man.
+- I was one of those kids who thought he was gaming the system when, the whole time, I’d been gaming myself
+- There was technique involved in skating by. You didn’t have to pay attention, but you did have to make it seem like you were, so I slumped into my seat, opened up my workbook, and fixed my gaze on the teacher who lectured from the front of the room.
+- “David, this is sheer ignorance,” he said. “They don’t even know how to spell nigger.”
+- Even though I had plenty of friends, all of them white, I couldn’t stop seeing the hidden racism scrawled all over the walls in invisible ink, which made it extremely hard to carry the weight of being the only
+- Most white men have no idea how hard it can be. I wish they did. Because then they’d know how it drains you
+- It broke me down from within because I hadn’t yet learned what to do or where to channel that much emotion.
+- It wasn’t that I was unpopular. I was considered the cool black kid in town, but if you’d have bothered to drill down a little deeper, you’d see that I wasn’t about black culture and that my antics weren’t really trying to call out racism. I wasn’t about anything at all.
+- He died twice on the operating table, but the ER docs brought him back to life. When he woke in a hospital bed, they said he wouldn’t make a full recovery and would never be a pararescuman again. Eighteen months later he’d defied medical odds, made that full recovery, and was back on the job he loved.
+- Gearen was living proof that it’s possible to transcend anything that doesn’t kill you, and from the time I heard him speak I knew I would enlist in the Air Force after graduation, which only made school seem more irrelevant.
+- Now, I had no good reason to attend school. At least that’s what I thought, because I was clueless about the emphasis that the military places on education. I figured they’d take anybody. Two incidents convinced me otherwise and inspired me to change.
+- I’d been copying on every test, in every class, for years, but when I took my seat for the ASVAB I was shocked to see that the people seated to my right and left had different tests than I did.
+- She kept it moving, was never around, and never asked to see my grades
+- We lived parallel lives in the same house, and since I was more or less raising myself, I stopped listening to her.
+- She wasn’t emotional about it. She was more exhausted than exasperated.
+- I didn’t ask for forgiveness and she didn’t demand an apology.
+- was a low-budget thug with no purpose and no future. I felt so disgusted I wanted to punch that motherfucker in the face and shatter glass. Instead, I lectured him. It was time to get real.
+- “You are one dumb motherfucker. You read like a third grader. You’re a fucking joke! You’ve never tried hard at anything in your life besides basketball, and you have goals? That’s fucking hilarious.”
+- You don’t see people in the military sagging their pants. You need to stop talking like a wanna-be-gangster. None of this shit is gonna cut it! No more taking the easy way out! It’s time to grow the fuck up!”
+- “It’s on you,” I said. “Yeah, I know shit is fucked up. I know what you’ve been through. I was there, bitch! Merry fucking Christmas. Nobody is coming to save your ass! Not your mommy, not Wilmoth. Nobody! It’s up to you
+- I looked different, and for the first time, I’d held myself accountable. A new ritual was born, one that stayed with me for years.
+- The ritual was simple. I’d shave my face and scalp every night, get loud, and get real
+- I set goals, wrote them on Post-It notes, and tagged them to what I now call the Accountability Mirror, because each day I’d hold myself accountable to the goals I’d set.
+- At first my goals involved shaping up my appearance and accomplishing all my chores without having to be asked.
+- Make your bed like you’re in the military every day!
+  Pull up your pants!
+  Shave your head every morning!
+  Cut the grass!
+  Wash all dishes!
+- I wasn’t fluffy. I was raw because that was the only way to get myself right.
+- I didn’t dance around and say, “Geez, David, you are not taking your education very seriously.” No, I had to own it in the raw because the only way we can change is to be real with ourselves. If you don’t know shit and have never taken school seriously, then say, “I’m dumb!” Tell yourself that you need to get your ass to work because you’re falling behind in life!
+- If you look in the mirror and you see a fat person, don’t tell yourself that you need to lose a couple of pounds. Tell the truth. You’re fucking fat! It’s okay. Just say you’re fat if you’re fat. The dirty mirror that you see every day is going to tell you the truth every time, so why are you still lying to yourself?
+- So you can feel better for a few minutes and stay the fucking same?
+- If you’re fat you need to change the fact that you’re fat because it’s very fucking unhealthy. I know because I’ve been there.
+- Tell yourself the truth! That you’ve wasted enough time, and that you have other dreams that will take courage to realize, so you don’t die a fucking pussy.
+- Call yourself out!
+- This world is fucked up, there are major problems in our society
+- Nobody likes to hear the hard truth. Individually and as a culture, we avoid what we need to hear most.
+- The truth is racism and bigotry still fucking exist and some people are so thin-skinned they refuse to admit that
+- You aren’t missing out on opportunities, making shit money, and getting evicted because of America or Donald fucking Trump or because your ancestors were slaves or because some people hate immigrants or Jews or harass women or believe gay people are going to hell
+- If any of that shit is stopping you from excelling in life, I’ve got some news. You are stopping you!
+- **it’s okay to be cruel to yourself as long as you realize you’re doing it to become better**
+- There is no more time to waste. Hours and days evaporate like creeks in the desert.
+- We all need thicker skin to improve in life. Being soft when you look in the mirror isn’t going to inspire the wholesale changes we need to shift our present and open up our future.
+- being liked and acting cool were a waste of my time, and instead of eating with all the popular kids, I found my own table and ate alone.
+- the only reason I didn’t become just another statistic is because, at the last possible moment, I got to work.
+- ran all the damn time, usually around the local golf course after dark.
+- One night I ran thirteen miles—the most I’d ever run in my entire life. On that run I came to a familiar intersection.
+- I avoided it and ran on, covering a half mile in the opposite direction before something told me to turn back.
+- I was scared shitless of that street, my heart was leaping from my chest, which is exactly why I suddenly started charging down its fucking throat.
+- I kept running, faster and faster, until I was breathless. Eventually the hounds of Hell gave up and loped off, and it was just me, the rhythm and steam of my breath, and that deep country quiet.
+- By the time I turned back, my fear was gone. I owned that fucking street.
+- From then on, I brainwashed myself into craving discomfort
+- **If it was raining, I would go run.**
+- Whenever it started snowing, my mind would say, Get your fucking running shoes on.
+- But **facing that mirror, facing myself, motivated me to fight through uncomfortable experiences, and, as a result, I became tougher. And being tough and resilient helped me meet my goals.**
+- couldn’t learn just by scratching a few notes and memorizing those. I had to read a text book and write each page down in my notebook. Then do it again a second and third time. That’s how knowledge stuck to the mirror of my mind. Not through learning, but through transcription, memorization, and recall.
+- My personal study hall schedule and goals became Post-It notes on my Accountability Mirror, and guess what happened? I developed an obsession for learning.
+- I wrote out thousands of flash cards and went over them for hours, days, and weeks. I did the same for mathematical formulas.
+- All I knew was that I had to get the fuck out of Brazil, Indiana; that the military was my best chance; and to get there I had to pass the ASVAB. On my third try, I met the minimum standard for the Air Force.
+- Living with purpose changed everything for me—at least in the short term
+- During my senior year in high school, studying and working out gave my mind so much energy that hate flaked from my soul like used-up snake skin
+**- I looked at the people who were making me feel uncomfortable and realized how uncomfortable they were in their own skin
+- **To make fun of or try to intimidate someone they didn’t even know based on race alone was a clear indication that something was very wrong with them, not me.****
+- when you have no confidence it becomes easy to value other people’s opinions, and I was valuing everyone’s opinion without considering the minds that generated them.
+- As soon as I made that connection, being upset with them was not worth my time. Because if I was gonna kick their ass in life, and I was, I had way too much shit to do.
+- I knew that the confidence I’d managed to develop didn’t come from a perfect family or God-given talent. It came from personal accountability which brought me self respect, and self respect will always light a way forward.
+- Don’t fall for that mirage. Your past, your deepest fears, have a way of going dormant before springing back to life at double strength. You must remain vigilant. For me, the Air Force revealed that I was still soft inside. I was still insecure.
+  I wasn’t yet hard of bone and mind.
+- It’s time to come eyeball to eyeball with yourself, and get raw and real.
+## New highlights added March 26, 2022 at 7:01 AM
+- I took my discipline. I was happy just to be in the Air Force, and I cleaned the hell out of that latrine.
+- reality. I was a would-be warrior turned cockroach sniper on the graveyard shift
+- Just another zombie selling his time on earth, going through the motions.
+- But there’s a difference between being numb and clueless
+- I wasn’t as buoyant as most swimmers. Whenever I stopped swimming, even for a moment, I’d start to sink, which made my heart pound with panic, and my increased tension just made it worse.
+- there is a difference between being competent and comfortable in the water, another big gap from comfortable to confident, and when you can’t float like most people, water confidence does not come easy. Sometimes it doesn’t come at all.
+## New highlights added March 26, 2022 at 10:19 PM
+- Theoretically, I knew that relaxation was the key to all the underwater evolutions, but I was too terrified to let go
+- when you burn too much too fast, your brain shuts down and you will black the fuck ou
+- What stayed hard from beginning to end was one of our simplest tasks: treading water without our hands. We had to keep our hands and our chins high above the water, using only our legs, which we’d swirl in a blender-like motion, for three minutes.
+- All around me, my classmates were so comfortable their legs were barely moving, while mine were whirring at top speed, and I still couldn’t get half as high as those white boys who looked to be defying gravity
+- I passed all the evolutions, but inside I was suffering. Each night, I’d fixate on the next day’s task and become so terrified I couldn’t sleep,
+- d swim to the surface, exhale and attempt to clear the water from our snorkel and get a clean breath before passing it back to him, but the instructors made that almost impossible.
+- I passed that evolution too, but I still had eleven more evolutions and four more weeks of water confidence training to go. It made sense. We would be jumping out of airplanes over water. We needed it. I just didn’t want to do it anymore, and the next morning, I was offered a way out I hadn’t seen coming
+- Physically I was strong, but I was not even close to mastering my mind.
+- If I had been the guy I am today, I wouldn’t have given two fucks about Sickle Cell. I still have the Sickle Cell Trait. You don’t just get rid of it, but back then an obstacle had appeared, and I’d folded.
+- I knew I was a quitter who had let fear dictate my future.
+- I got into powerlifting and layered on the mass. I ate and worked out. Worked out and ate.
+- I wanted to be big because being big hid David Goggins
+- I grew a burly mustache and was intimidating to everyone who saw me, but inside I knew I was a pussy, and that’s a haunting feeling.
+- I married that girl. I married a girl whose dad called me a nigger. What does that say about me?
+- I caught snippets. “Navy SEALs…toughest…the world
+- I watched men sweat and suffer as they tore through muddy obstacle courses, ran on the soft sand holding logs overhead, and shivered in icy surf.
+- of them all—ring the bell and quit. Made sense. Only one-third of the men who begin BUD/S make it through Hell Week, and in all of my time in Pararescue training, I couldn’t remember feeling as awful as these men looked.
+- The longer I watched the more certain I became that there were answers buried in all that suffering.
+- The SEALs were everything I wasn’t. They were about pride, dignity, and the type of excellence that came from bathing in the fire, getting beat the fuck down, and going back for more, again and again.
+- They weren’t motivated. They were driven.
+## New highlights added March 27, 2022 at 9:28 PM
+- “In a society where mediocrity is too often the standard and too often rewarded,” he said, “there is intense fascination with men who detest mediocrity, who refuse to define themselves in conventional terms, and who seek to transcend traditionally recognized human capabilities. This is exactly the type of person BUD/S is meant to find. The man who finds a way to complete each and every task to the best of his ability. The man who will adapt and overcome any and all obstacles.”
+- uneducated, with no real world skills, zero discipline, and a dead-end future.
+- Mediocrity would have been a major promotion
+- **I barely spoke to my mother during breakfast, and only ate half my staple because my mind was on unfinished business**
+- when I got there they laughed in my face. I was way too heavy, and in their eyes I was just another delusional pretender. I left that meeting feeling the same way.
+- said I was willing to move as long as they could get me to SEAL training. Everyone turned me down.
+- worked day and night and rose quickly in the ranks. His move to Indianapolis came with a promotion and the challenge of finding Navy recruits in the middle of the corn.
+- I grabbed my keys and drove straight to his office, but didn’t get my hopes too high.
+- he didn’t seem fazed by my size, at least not at first. He was outgoing and warm, like any salesman,
+- pounds. I held my breath, sucked in my gut as much as I could, and puffed out my chest in a sorry attempt to stave off the humiliating moment where he’d let me down easy. That moment never came.
+- He nodded, smiled, patted me on the shoulder, and left me to face my truth.
+  I had less than three months to lose 106 pounds.
+- He said he could sense my drive the first moment we spoke, and that he believed in me from the jump, which is why my weight wasn’t an issue for him, but after that ASVAB test I was full of doubt.
+- I didn’t go back inside that restaurant. I didn’t collect my gear.
+- Who the fuck did I think I was? I was born nothing, I’d proven nothing, and I still wasn’t worth a damn thing.
+- I couldn’t even run down the block for five minutes. All my fears and insecurities I’d bottled up for my entire life started raining down on my head
+- All Rocky wants is to be the first to go the distance with Creed. That alone will make him someone he could be proud of for the first time in his life.
+- The fight is closer than anyone anticipated, bloody and intense, and by the middle rounds Rocky is taking on more and more punishment.
+- Mickey, his own trainer, urges him to stay down, but Rocky isn’t hearing it. He pulls himself up to one knee, then all fours
+- The referee hits six as Rocky grabs the ropes and rises up. The crowd roars, and Apollo turns to see him still standing. Rocky waves Apollo over. The champ’s shoulders slump in disbelief.
+- I turned off the television and thought about my own life. It was a life devoid of any drive and passion
+- My only other choice was to try to find the power in the emotions that had laid me low, harness and use them to empower me to rise up, which is exactly what I did.
+- My heart raced and I stopped. This time I felt the same pain, my heart raced like a car running hot, but I ran through it and the pain faded. By the time I bent over to catch my breath, I’d run a full mile.
+- not all physical and mental limitations are real, and that I had a habit of giving up way too soon
+- **I would have to push myself to the very edge of my mortality.** I had to accept the very real possibility that I might die because this time I wouldn’t quit, no matter how fast my heart raced and no matter how much pain I was in.
+- Bulk was the enemy. I needed reps, and I did five or six sets of 100–200 reps each.
+- Then it was back to the stationary bike for two more hours.
+- Dinner was my one true meal each day, but there wasn’t much to it
+- What I was trying to achieve is like a D-student applying to Harvard, or walking into a casino and putting every single dollar you own on a number in roulette and acting as if winning is a foregone conclusion.
+- within two weeks I’d dropped twenty-five pounds
+- I was putting out so much, on almost no fuel, that depression became a natural side effect.
+- I had to flip it and convince myself that all that self-doubt and anxiety was confirmation that I was no longer living an aimless life.
+- I had a real chance to accomplish something most people, including myself, thought was impossible
+- After rocking over 100 pull-ups in a series of sets, I was back on the bar for a max set with no ceiling
+- the pain was too much and after my eleventh pull-up, I gave in, dropped down, and finished my workout, one pull-up shy
+- tried to get them out of my head but they wouldn’t leave me the fuck alone
+- Whenever I cut a run or swim short because I was hungry or tired, I’d always go back and beat myself down even harder.
+- That was the only way I could manage the demons in my mind. Either way there would be suffering.
+- had to choose between physical suffering in the moment, and the mental anguish of wondering if that one missed pull-up, that last lap in the pool, the quarter mile I skipped on the road or trail, would end up costing me an opportunity of a lifetime.
+- I was already down to 215 pounds and was faster and stronger than I’d ever been
+- . I didn’t want to be just one of those forty. I wanted to be the best.
+- The administrator damn near fell out of his chair and everyone in that room stared at me like I was crazy. If they only knew how crazed I’d been!
+- It was about who I was and who I wanted to be. I was a prisoner in my own my mind and this opportunity was my only chance to break free.
+- When I was done, I’d swim a mile or two, then head to a pond near my mother’s home.
+- After a few minutes I got out and started running, water sloshing in my boots, sand in my underwear. Within seconds my t-shirt was frozen to my chest, my pants iced at the cuffs.
+- All I knew was that there would be pain and there would be purpose.
+- The first step on the journey toward a calloused mind is stepping outside your comfort zone on a regular basis
+- Dig out your journal again and write down all the things you don’t like to do or that make you uncomfortable. Especially those things you know are good for you.
+- This is not about changing your life instantly, it’s about moving the needle bit by bit and making those changes sustainable.
+---
+- **digging down to the micro level and doing something that sucks every day.**
+- Even if it’s as simple as making your bed, doing the dishes, ironing your clothes, or getting up before dawn and running two miles each day. Once that becomes comfortable, take it to five, then ten miles.
+- find something you aren’t doing.
+- We often choose to focus on our strengths rather than our weaknesses. Use this time to make your weaknesses your strengths.
+- **Doing things—even small things—that make you uncomfortable will help make you strong.**
+- **The more often you get uncomfortable the stronger you’ll become, and soon you’ll develop a more productive, can-do dialogue with yourself in stressful situations**
+- working guys out beyond their perceived limits, by challenging their manhood, and insisting on objective physical standards of strength, stamina, and agility.
+- a test that goes way beyond the physical and reveals your heart and character. More than anything, it reveals your mindset, which is exactly what it’s designed to do.
+- **Not because I loved to suffer, but because I needed to know whether or not I had what it took to belong.**
+- **Thing is, most people don’t.**
+- To me, every clang sounded like progress.
+- “Sir, my dick’s getting stiff just thinking about these gaping vaginas weeping and quitting like whiny little bitches this week,” Psycho said. SBG offered half a nod as Psycho stared through me. “Oh, and you will quit,” he said softly. “I’ll make sure of that.”
+- Hell Week offers no such love. Especially on day one, when an hour in they had us standin
+- Five and a half days without sleep cannot be broken up into small pieces
+- nobody has to become a SEAL. We weren’t fucking drafted. Becoming a SEAL is a choice
+- Married guys were thinking, I could be at home, cuddled up to my beautiful wife instead of shivering and suffering. Single guys were thinking, I could be on the hunt for pussy right now.
+- One hundred and thirty hours of suffering may as well be a thousand when you know you can’t sleep and that there will be no relief anytime soon.
+- Hell Week was a mind game. The instructors used our suffering to pick and peel away our layers, not to find the fittest athletes.
+- To find the strongest minds. That’s something the quitters didn’t understand until it was too late.
+- **Everything in life is a mind game!** Whenever we get swept under by life’s dramas, large and small, we are forgetting that no matter how bad the pain gets, no matter how harrowing the torture, all bad things end
+- torture is torture, and in Hell Week the only way to get to past it is to go through it.
+- “You are absolutely pathetic,” he said. “I hope to God you fucking quit because if they allow you in the field you’re gonna get us all killed!
+- Within seconds my whole team had life. We didn’t just lift the boat overhead and set it down hard, we threw it up, caught it overhead, tapped the sand with it and threw it up high again. The results were immediate and undeniable. Our pain and exhaustion faded. Each rep made us stronger and faster, and each time we threw the boat up we all chanted.
+- On the toughest day of the hardest week in the world’s toughest training, Boat Crew Two was moving at lightning speed and making a mockery of Hell Week
+- Their mouths hung open like they were witnessing something nobody had ever seen before. Some averted their eyes, almost embarrassed. Only SBG looked satisfied.
+- T**aking Souls is a ticket to finding your own reserve power and riding a second wind.**
+- You can utilize it to win a chess match, or conquer an adversary in a game of office politics.
+- **This is a tactic for you to be your best when duty calls. It’s a mind game you’re playing on yourself.**
+**- Taking someone’s soul means you’ve gained a tactical advantage**
+- You can laugh at yourself along with them, which disempowers them.
+- . If you take what they do or say less personally, they no longer hold any cards.
+- ***people who are secure with themselves don’t bully other people***
+- ***They look out for other people, so if you’re getting bullied you know that you’re dealing with someone who has problem areas you can exploit or soothe.***
+- laughing at your weaknesses won’t solve the problem. You must master them.
+- if you are aware of your competitor’s vulnerabilities you can spin those to your advantage, but all of that takes research
+- know yourself, and you’d better know your adversary in detail
+- never forget that all emotional and physical anguish is finite! It all ends eventually.
+- Smile at pain and watch it fade for at least a second or two
+- If you can do that, you can string those seconds together and last longer than your opponent thinks you can, and that may be enough to catch a second wind
+- Some scientists think it’s the result of endorphins flooding your nervous system, others think it’s a burst of oxygen that can help break down lactic acid, as well as the glycogen and triglycerides muscles need to perform.
+- Some say its purely psychological. All I know is that by **going hard when we felt defeated we were able to ride a second wind through the worst night in Hell Week**. A
+- I’d come to SEAL training to see if I was hard enough to belong and found an inner beast within that I never knew existed. A beast that I would tap into from then on whenever life went wrong.
+- He handed me a life jacket and attached a chem light to the back of my hat.
+- I was a decent swimmer by then, and surf torture didn’t scare me because we weren’t that far from shore, but an open water, hypothermic swim a thousand yards off shore in a storm, to a boat that had no fucking idea I was heading their way? That sounded like a death sentence, and I hadn’t prepared for anything like it.
+- **For me, in that moment, it came down to how I wanted to be remembered.**
+- **For me it was the opportunity to go up against the best of the best and distance myself from the pack**
+- I swallowed water by the gallon. It was as if the sea was prying open my jaws and flooding my system, and with each gulp, my fear magnified.
+- I was the leader of that crew and couldn’t allow myself to show weakness. I tensed every muscle in my body, and my shiver slowed to a stop in real time.
+- Nine months earlier, I had topped out at 297 pounds and couldn’t even run a quarter mile.
+- Even if I never graduated from BUD/S, surviving Hell Week alone would have meant something. But I didn’t just survive. I was about to finish Hell Week at the top of my class, and for the first time, I knew I was a bad motherfucker.
+- All my life, I was terrified of water, and especially cold water, but standing there in the final hour, I wished the ocean, wind, and mud were even colder!
+- knew how they felt because I was there when my Pararescue class graduated without me. That memory had dominated me for years, but after 130 hours of Hell, it no longer defined me.
+- They say you like suffering, Goggins. That you think you’re a bad motherfucker. Enjoy your extended stay in Hell!
+- Choose any competitive situation that you’re in right now. Who is your opponent? Is it your teacher or coach, your boss, an unruly client? **No matter how they’re treating you there is one way to not only earn their respect, but turn the tables. Excellence.**
+- That may mean acing an exam, or crafting an ideal proposal, or smashing a sales goal.
+- work harder on that project or in that class than you ever have before. Do everything exactly as they ask, and whatever standard they set as an ideal outcome, you should be aiming to surpass that.
+- **Spend extra time on your assignments.** Write papers for her that she didn’t even assign! Come early to class. Ask questions. Pay attention. Show her who you are and want to be.
+- **your goal is to make them watch you achieve what they could never have done themselves. You want them thinking how amazing you are. Take their negativity and use it to dominate their task with everything you’ve got.**
+## New highlights added March 28, 2022 at 12:39 PM
+- when he gave my right kneecap a gentle squeeze, pain seized my brain, but I couldn’t show it. I was playing a role.
+- the odds of getting through another five months of training on one leg were low, but accepting another roll back meant enduring another Hell Week, and that was way too much to process.
+- Time is what I needed. I knew how to push through pain, and my body had almost always responded with performance.
+- Treading water was the constant refrain, which meant soaring heart rates and the continual burning up of oxygen in the bloodstream for the one-legged man
+- I was breathless, low on energy, and wanted to quit, but quitting this evolution meant quitting BUD/S altogether, and that wasn’t happening
+- My mind was spun with those simple toxic questions that never go away. Why was I here? Why suffer when I could quit and be comfortable again? Why risk passing out or even death for a fucking knot drill
+- instead of playing the victim and letting negative emotions sap my energy and force me to the surface, a failure, it was as if a new light blazed in my brain that allowed me to flip the script.
+- My palms were soft and quickly got torn up on the bars because they weren’t accustomed to gripping steel. But over time, after thousands of reps, my palms built up a thick callous as protection.
+- Until you experience hardships like abuse and bullying, failures and disappointments, your mind will remain soft and exposed.
+- Life experience, especially negative experiences, help callous the mind
+- Hell Week is designed to show you that a human is capable of much more than you know. It opens your mind to the true possibilities of human potential, and with that comes a change in your mentality
+- **We did push-ups until we couldn’t pick ourselves up off the deck, then they turned us on our backs and demanded flutter kicks. Each kick was torture for me**
+- The comfort of mediocrity sounded like sweet relief until Psycho screamed in my ear.
+  “Move faster, motherfucker!
+- **I couldn’t believe what I was doing. The intense pain was gone, and so were those nagging questions. I was putting out harder than ever, breaking through the limitations of injury and pain tolerance, and riding a second wind delivered by a calloused mind.**
+- Similar to using an opponent’s energy to gain an advantage, **leaning on your calloused mind in the heat of battle can shift your thinking as well**
+- ***Those mornings when going on a run is the last thing you want to do, but then twenty minutes into it you feel energized, that’s the work of the sympathetic nervous system.***
+- if you can manage those moments of pain that come with maximum effort, by remembering what you’ve been through to get to that point in your life, you will be in a better position to persevere and choose fight over flight.
+- That will allow you to use the adrenaline that comes with a sympathetic response to go even harder.
+- Blame it on the fucked-up evolutionary wiring of the human mind. But you don’t have to let your doubt into the cockpit! You can tolerate doubt as a backseat driver, but if you put doubt in the pilot’s seat, defeat is guaranteed.
+- Remembering that you’ve been through difficulties before and have always survived to fight again shifts the conversation in your head.
+- Sounds simple, right? It isn’t
+- **Very few people even bother to try to control the way their thoughts and doubts bubble up. The vast majority of us are slaves to our minds.**
+- **Most don’t even make the first effort when it comes to mastering their thought process because it’s a never-ending chore and impossible to get right every time.**
+- Physical training is the perfect crucible to learn how to manage your thought process because when you’re working out, your focus is more likely to be single pointed, and your response to stress and pain is immediate and measurable.
+- Granted, some days it’s easier to do that than others. And the clock, or the score, doesn’t matter anyway. **The reason it’s important to push hardest when you want to quit the most is because it helps you callous your mind.**
+- **Physical challenges strengthen my mind so I’m ready for whatever life throws at me, and it will do the same for you.**
+- I had twenty weeks of training in front of me, dozens of evolutions ahead, and I could barely walk.
+- seeing them face to face reminded me that failure is a part of life and now we all had to press on.
+- I left the BUD/S compound with more self awareness and more mastery over my mind than I’d ever had before, but my future was just as uncertain.
+- Perhaps I’d already learned enough about myself? What else did I need to prove?
+- stared at myself for five minutes before I shook my head. I couldn’t lie. I had to tell myself the truth, out loud.
+- A normal person would give up. They’d say, fuck it, it’s just not meant to be, and refuse to torture themselves one minute more.
+  But I wasn’t wired normal.
+- There is no shame in getting knocked out. The shame comes when you throw in the motherfucking towel, and if I was born to suffer, then I may as well take my medicine
+- body was still broken, I was $30,000 in credit card debt, and still only a reservist. I had no address of my own and no car. I was unstable, and that made me very insecure. Plus, I wasn’t even in love with this woman.
+- I felt like I’d been stripped of everything, but I was still breathing,
+- By then I’d learned how to hold myself accountable, and I knew I could take a man’s soul in the heat of battle.
+- ***To develop an armored mind—a mindset so calloused and hard that it becomes bulletproof—you need to go to the source of all your fears and insecurities.***
+- I was rejecting my past and therefore rejecting myself.
+- go back through your past and make peace with yourself by facing those incidents and all of your negative influences, and accepting them as weak spots in your own character.
+- Going forward it became very important for me to rehash my life, because when you examine your experiences with a fine-toothed comb and see where your issues come from, **you can find strength in enduring pain and abuse.**
+- those that know don’t speak, and those who speak, well, they don’t know jack shit.
+- He had no clue that he was making the classic mistake of measuring himself against others in his class
+- It’s all part of the competitive nature of the alpha males who are drawn to the SEALs, but he didn’t realize that during Hell Week you need a solid boat crew to survive, which means depending upon your classmates, not defeating them.
+- He had no idea what was in store for him and how bad sleep deprivation and being cold fucks you up. He was about to find out.
+- holding something back in reserve, he went all out from the jump. I reached out to him recently and he said he remembered BUD/S like it happened last week.
+- “I was an insecure person with low self esteem trying to grind an axe,” he said, “and my own ego, arrogance, and insecurity made my own life more difficult
+- started to believe that I didn’t belong there,” he said. “That I was genetically inferior. It was like I had superpowers, and I’d lost them. I was in a place in my mind I’d never been, and I didn’t have a road map.”
+- He’d calloused his mind plenty, but because his foundation was cracked, when shit got real he lost control of his mindset and became a slave to his self doubt.
+- it was miserable, but I fucking loved it.
+- I went full caveman. I was willing to die to make it through that motherfucker.
+## New highlights added March 28, 2022 at 7:25 PM
+- This is the world you live in. He’s not the first and he won’t be the last to die in your line of work
+- most civilians don’t understand that you need a certain level of callousness to do the job we were being trained to do.
+- there was no happiness in my head or my soul. How could there be? We lived in a shithole that was at the edge of affordability, and my body was broken once again.
+- the only thing that allowed me to continue pushing forward was the knowledge that everything I’d been through had helped callous my mind
+- The question was, how thick was the callous? How much pain could one man take? Did I have it in me to run on broken legs?
+- It was dark as hell inside and out, and I was all alone
+- If failure was my future and I’d have to rethink my life completely, what was the point of this exercise? Why delay the inevitable? Was I fucked in the head? Each and every thought boiled down to the same old simple question: why?
+- ***“The only way to guarantee failure is to quit right now, motherfucker!”***
+- I asked. “Who else would be able to run even one minute on one broken leg, let alone two? Only Goggins! You are twenty minutes in the business, Goggins! You are a fucking machine! Each step you run from now until the end will only make you harder!”
+- My calloused mind was my ticket forward, and at the forty-minute mark something remarkable happened.
+- To me, the fact that I showed up every day willing to put myself through something like that was truly amazing.
+- The noises coming out of the pool that day are something I’ll never forget. Our desperate attempts to stay afloat and breathe conjured an audible mixture of terror, frustration, and exertion. We were gurgling, grunting, and gasping. I heard guttural screams and high-pitched squeals. Several guys sank to the bottom, took off their weight belts, and slipped free of their tanks, letting them crash to the floor of the pool, then jetted to the surface.
+- I also missed the beat downs. Because I saw them as opportunities to callous my mind. Now, they were over for me.
+- When I first locked in on the SEALs, I was looking for an arena that would either destroy me completely or make me unbreakable.
+- BUD/S provided that. It showed me what the human mind is capable of, and how to harness it to take more pain than I’d ever felt before, so I could learn to achieve things I never even knew were possible.
+- Challenge #5
+- ***Rather than focusing on bullshit you cannot change, imagine visualizing the things you can.***
+- It’s time to visualize
+- visualization isn’t simply about daydreaming of some trophy ceremony—real or metaphorical.
+- You must also visualize the challenges that are likely to arise and determine how you will attack those problems when they do
+- That way you can be as prepared as possible on the journey.
+- You can’t prepare for everything but if you engage in strategic visualization ahead of time, you’ll be as prepared as you possibly can be.
+- Why are you doing this? What is driving you toward this achievement? Where does the darkness you’re using as fuel come from? What has calloused your mind? You’ll need to have those answers at your fingertips when you hit a wall of pain and doubt.
+- visualization will never compensate for work undone
+- You cannot visualize lies.
+- It’s a lot more than mind over matter.
+- It takes relentless self-discipline to schedule suffering into your day, every day, but if you do, you’ll find that at the other end of that suffering is a whole other life just waiting for you.
+- said, “Keep your pulse steady between 140 and 145 and you’ll be golden.” The
+- my cardiovascular fitness was an absolute joke, and still I thought it was a brilliant idea to try and run a hundred miles in twenty-four hours.
+- In my mind, strategy was the enemy of the moment, which is where I needed to be.
+- I was running across the sky. That’s when I started thinking that this could end badly.
+- Why? Why run a hundred fucking miles without training? Why was I doing this to myself
+- this time my answer was different.
+- I wasn’t on Hospitality Point to deal with my own demons or to prove anything at all. I came with a purpose bigger than David Goggins. This fight was about my once and future fallen teammates, and the families they leave behind when shit goes wrong.
+- In the Navy SEALs, you are either deployed and operating in the field, instructing other SEALs, or in school yourself, learning or perfecting skills.
+- When I jumped out of an airplane for the first time from high altitude, all I felt was extreme fear, and I couldn’t pry my eyes from my altimeter. I wasn’t able to embrace the jump because fear had clogged my mind. All I could think about was whether or not my canopy would open
+- as I became conditioned to the risk, my tolerance for that same fear increased.
+- It was always there, but I was used to the discomfort and before long I was able to handle multiple tasks on a jump and appreciate the moment too.
+- hat. If I chose not to, after all that Navy SEAL bluster, what would that prove? That I was just another pretender ringing his bell way too early on a Wednesday morning. Which is how and why I wound up running the San Diego One Day with three days’ notice.
+- Besides, if I stopped for even a few seconds, starting up again would be near impossible.
+- Everyone who passed me was focused. Each in their own pain zone. They didn’t even see me.
+- I sat there with my head in my hands for twenty minutes
+- Only you, Goggins! You haven’t trained, you don’t know dick about hydration and performance—all you know is you refuse to quit.
+- It’s funny, **humans tend to hatch our most challenging goals and dreams, the ones that demand our greatest effort yet promise absolutely nothing, when we are tucked into our comfort zones**
+- I was in a soft environment, because it all sounds doable when you’re chilling on your fucking couch, with a glass of lemonade or a chocolate shake in your hand.
+- **If you aren’t prepared in advance, if you allow your mind to remain undisciplined in an environment of intense suffering (it won’t feel like it, but it is very much a choice you are making), the only answer you are likely to find is the one that will make it stop as fast as possible.**
+- Why?! Why are you still doing this to yourself, Goggins?!
+  **“Because you are one hard motherfucker,”** I screamed.
+- it wasn’t a miracle. God didn’t come down and bless my ass. I did this! I kept going when I should have quit five hours ago. I am the reason I still have a chance.
+- My fractured feet were still a bloody mess, full of blisters, the toenails peeling off almost every toe, but I kept pounding, and soon it was me who was slaloming runners with pained expressions as I raced the clock.
+- We all have a cookie jar inside us, because life, being what it is, has always tested us.
+- I guarantee you can think of a time or two when you overcame odds and tasted success. It doesn’t have to be a big victory either. It can be something small.
+- **You don’t drop one hundred pounds in less than three months without losing five pounds in a week first. Those first five pounds I lost were a small accomplishment, and it doesn’t sound like a lot, but at the time it was proof that I could lose weight and that my goal, however improbable, was not impossible!**
+- **The engine in a rocket ship does not fire without a small spark first.** We all need small sparks, small accomplishments in our lives to fuel the big ones.
+- When you want a bonfire, you don’t start by lighting a big log
+- You collect some witch’s hair—a small pile of hay or some dry, dead grass. You light that, and then add small sticks and bigger sticks before you feed your tree stump into the blaze.
+- **it’s the small sparks, which start small fires, that eventually build enough heat to burn the whole fucking forest down.**
+- Your small victories are your cookies to savor, and make sure you do savor them.
+- I also praised myself whenever I could claim a small victory, because we all need that, and very few of us take the time to celebrate our successes
+- I’m talking about utilizing past successes to fuel you to new and bigger ones.
+- We need to spark a bunch of small fires to become the motherfucking inferno.
+- But **digging into the Cookie Jar when things are going south takes focus and determination because at first the brain doesn’t want to go there. It wants to remind you that you’re suffering and that your goal is impossible. It wants to stop you so it can stop the pain.**
+- The pain was never gone, but I only felt it in waves because my brain was otherwise occupied, which allowed me to drown out the simple questions and shrink time.
+- d run ninety fucking miles with no training! Who does that shit? An hour later I was at ninety-five, and after nearly nineteen hours of running almost non-stop, I’d done it
+- My legs were stiff as fossils frozen in stone, and I leaned on her to slide into the backseat. She was frantic behind the wheel and wanted to take me directly to the ER, but I wanted to go home.
+- knew **if we went to the hospital they’d give me pain killers and I didn’t want to mask this pain. I’d just accomplished the most amazing feat in my entire life.**
+- **That there was a whole new level of performance out there to tap into.** That **the human body can withstand and accomplish a hell of a lot more than most of us think possible, and that it all begins and ends in the mind.**
+- **This wasn’t a theory. It wasn’t something I’d read in a damn book. I’d experienced it first hand on Hospitality Point.**
+- This was confirmation that I’d mastered my own mind—at least for a little while—and that what I’d just accomplished was something special
+- This pain and suffering
+- Crack your journal open again. Write it all out. Remember, this is not some breezy stroll through your personal trophy room
+- Don’t just write down your achievement hit list. Include life obstacles you’ve overcome as well, like quitting smoking or overcoming depression or a stutter.
+- Set ambitious goals before each workout and let those past victories carry you to new personal bests.
+- simply maintain a maximum heart rate for a full minute, then two minutes.
+- **If you’re at home, focus on pull-ups or push-ups.**
+**- Do as many as possible in two minutes.**
+- Then try to beat your best.
+- **When the pain hits and tries to stop you short of your goal, dunk your fist in, pull out a cookie, and let it fuel you!**
+- **If you’re more focused on intellectual growth, train yourself to study harder and longer than ever before, or read a record number of books in a given month.**
+- **if you perform this challenge correctly and truly challenge yourself, you’ll come to a point in any exercise where pain, boredom, or self-doubt kicks in, and you’ll need to push back to get through i**
+- **The Cookie Jar is your shortcut to taking control of your own thought process.**
+- **It’s to remember what a badass you are so you can use that energy to succeed again in the heat of battle!**
+## New highlights added March 28, 2022 at 10:23 PM
+- I couldn’t last longer than a quarter mile. So I didn’t plan on running as we rocked up to the Mandalay Bay Casino & Resort on race day.
+- The pain was serious for the first quarter mile, but after that adrenaline took over.
+- Before me was an opportunity, and if you give me an opportunity, I will break that motherfucker off!
+- What am I capable of?
+- I contemplated another simple question I couldn’t shake. It was a new one, and wasn’t fear-based, pain-spiked, or self-limiting. This one felt open.
+- What am I capable of?
+  I couldn’t answer that question, but as I looked around the finish line that day and considered what I’d accomplished, it became clear that we are all leaving a lot of money on the table without realizing it.
+- We settle as individuals, and we teach our children to settle for less than their best, and all of that ripples out, merges, and multiplies within our communities and society as a whole
+- **We habitually settle for less than our best; at work, in school, in our relationships, and on the playing field or race course.**
+- I only had about a month to build my strength and endurance before race day on January 14th.
+- His nickname was the Speedgoat, and he was trying to become the first person ever to complete the race in less than twenty-four hours.
+- Some criticize my level of passion, but I’m not down with the prevailing mentalities that tend to dominate American society these days; the ones that tell us to go with the flow or invite us to learn how to get more with less effort. Fuck that shortcut bullshit. The reason I embrace my own obsessions and demand and desire more of myself is because I’ve learned that it’s only when I push beyond pain and suffering, past my perceived limitations, that I’m capable of accomplishing more, physically and mentally—in endurance races but also in life as a whole.
+- ***The human body is like a stock car. We may look different on the outside, but under the hood we all have huge reservoirs of potential and a governor impeding us from reaching our maximum velocity***
+- Our governor is buried deep in our minds, intertwined with our very identity
+- it doesn’t have absolute control.
+- It’s the software that delivers personalized feedback—in the form of pain and exhaustion, but also fear and insecurity, and it uses all of that to encourage us to stop before we risk it all
+- **Unlike the governor in an engine, ours can’t stop us unless we buy into its bullshit and agree to quit.**
+- ***most of us give up when we’ve only given around 40 percent of our maximum effort.***
+- ***Even when we feel like we’ve reached our absolute limit, we still have 60 percent more to give!***
+- I call this The 40% Rule, and the reason it’s so powerful is that if you follow it, you will unlock your mind to new levels of performance and excellence in sports and in life, and your rewards will run far deeper than mere material success.
+- I know how it feels to be approaching an energetic dead end.
+- I understand the temptation to sell short, but I also know that impulse is driven by your mind’s desire for comfort, and it’s not telling you the truth.
+- It’s your identity trying to find sanctuary, not help you grow. It’s looking for status quo, not reaching for greatness or seeking wholeness
+- It takes twenty years to gain twenty years of experience, and the only way to move beyond your 40 percent is to callous your mind, day after day. Which means you’ll have to chase pain like it’s your damn job!
+- The change has happened within your brain. You’ve calloused your mind. Over a period of time, your tolerance for mental and physical suffering will have expanded because your software will have learned that you can take a hell of a lot more than one punch, and if you stay with any task that is trying to beat you down, you will reap rewards.
+- But **nobody taps their reserve 60 percent right away or all at once. The first step is to remember that your initial blast of pain and fatigue is your governor talking.**
+- I’ve run on broken legs, and that knowledge helped me endure all manner of agonies on the ultra circuit, which has revealed a clear spring of self confidence that I drink from whenever my tank is dry.
+- you can remind yourself that you are not as drained as you think
+- That you haven’t given it your all. Not even close
+- I didn’t want my suffering to continue. Nobody does! That’s why the line “fatigue makes cowards of us all” is true as shit.
+- ***it’s easy to be open minded when you leave yoga class and are taking a stroll by the beach, but when you’re suffering, keeping an open mind is hard work***
+- it’s extremely difficult to maintain the necessary discipline to force yourself to keep taking the test seriously
+- knew that staying in the fight is always the hardest, and most rewarding, first step.
+- There was no room for strategy. I just wanted to quit, but by moving a little bit further I’d reset my brain. I’d calmed down and realized I could chunk the race down to size, and staying in the game like that gave me hope, and hope is addictive.
+- hours. I became so tired I damn near fell asleep on my feet, and that’s dangerous on a trail with so many switchbacks and drop offs.
+- I remember most is how graceful he looked running at an incredible 6:30 per mile pace.
+- Watching that bad man glide across the most challenging terrain made me realize that there is a whole other level of athlete out there in the world, and that some of that was inside me too.
+- We don’t all have the same floor or ceiling, but we each have a lot more in us than we know, and when it comes to endurance sports like ultra running, everyone can achieve feats they once thought impossible. In order to do that we must change our minds, be willing to scrap our identity, and make the extra effort to always find more in order to become more.
+- We must remove our governor
+- My true potential was still undetermined. Looking back, I’d say I’d given 60 percent, which meant my tank was just shy of half-full.
+- In fact, it’s in all of us. I’m not saying that genetics don’t play a role in athletic performance, or that everyone has an undiscovered ability to run a four-minute mile, dunk like LeBron James, shoot like Steph Curry, or run the Hurt 100 in twenty-two hours
+- I finished Hurt 100 in thirty-three hours and twenty-three minutes, just shy of the thirty-six-hour cut off, good enough for ninth place.
+- I wanted to get my Badwater application done ASAP, so without so much as a cat nap, we polished that shit up.
+- Badwater was going to be different. I researched day and night. I studied the course, noted temperature and elevation variances, and charted them out. I wasn’t just interested in the air temperature. I drilled down deeper so I knew how hot the pavement would be on the hottest Death Valley day ever.
+- The sun would be setting by then and after driving that section, I pulled over, closed my eyes, and visualized it all.
+- Research is one part of preparation; visualization is another.
+- running downhill fucks you up bad, and this time I’d be doing it on asphalt
+- I sat at my kitchen table, read and re-read them, and visualized each mile the best I could, but I also knew that my body still hadn’t recovered from Hawaii, which hampered the other, even more important aspect of my Badwater prep: physical training.
+- **Most of us are motivated as hell to do anything to pursue our dreams until those around us remind us of the danger, the downside, our own limitations, and all the people before us that didn’t make it.**
+- **They really believe they are doing it for our own good but if you let them, these same people will talk you out of your dreams, and your governor will help them do it**
+- **We must create a system that constantly reminds us who the fuck we are when we are at our best, because life is not going to pick us up when we fall.**
+- ***accept the following as Goggins’ laws of nature:
+  You will be made fun of.
+  You will feel insecure.
+  You may not be the best all the time.
+  You may be the only black, white, Asian, Latino, female, male, gay, lesbian or [fill in your identity here] in a given situation.
+  There will be times when you feel alone.
+  Get over it!***
+- us. If you want to be one of the few to defy those trends in our ever-softening society, you will have to be willing to go to war with yourself and create a whole new identity, which requires an open mind.
+- Our minds are fucking strong, they are our most powerful weapon, but we have stopped using them.
+- The Team guys I was training considered me an alien being too, and a few of them were more frightened of me than the meth heads.
+- What they didn’t know was the battlefield for me was my own mind.
+- It takes a lot of will to push yourself when you are all alone. I hated getting up in the morning knowing what the day held for me
+- I had to be able to slay the one-second decisions in order to stay in the game and access my untapped 60 percent.
+- I’d have to do more than answer the simple questions as they came up. I’d have to stifle the quitting mind before it gained any traction at all.
+- Before I ever asked myself, “Why?” I’d need my Cookie Jar on recall to convince me that despite what my body was saying, I was immune to suffering.
+- People make the decision to quit hours before they ring that bell, so I needed to be present enough to recognize when my body and mind were starting to fail in order to short circuit the impulse to look for a way out long before I tumbled into that fatal funnel.
+- Don’t ignore them. Be prepared for them, because in any endurance event, in any high-stress environment, your weaknesses will surface like bad karma, build in volume, and overwhelm you. Unless you get ahead of them first.
+- This is an exercise in recognition and visualization.
+- **You must recognize what you are about to do, highlight what you do not like about it, and spend time visualizing each and every obstacle you can.**
+- ***told myself I was immune to suffering, but that didn’t mean I was immune to pain. I hurt like everybody else, but I was committed to working my way around and through it so it would not derail me.***
+- Excuses to quit piled up one after another. I didn’t listen. I responded by taking care of my dehydration issue and pounding more water than I wanted
+- In the military we always say ***we don’t rise to the level of our expectations, we fall to the level of our training,***
+- I wasn’t running, but I kept a strong pace and covered a lot of ground.
+- The only evidence of life on planet pain was the rhythm of my own hot breath, the burn of my cartoon blister, and the high beams and red taillights of road trippers blazing trails through the California night.
+- when I examined the splits and finishing times of all the competitors, I realized my biggest fear, the heat, had actually helped me. It was the great equalizer. It made fast runners slow.
+- I stopped running, got out of the way, and cheered them on.
+- d just finished one of the hardest races on planet earth. I’d visualized that moment ten times at least and thought I’d be elated, but I wasn’t.
+  ￼
+- I was broken, destroyed twenty different ways, but I’d passed another evolution, another crucible, and my reward was a lot more than a medal and a few minutes with Kostman’s microphone.
+- All of them had something I didn’t.
+- I stayed ahead of the quitting mind, answered the simple questions, and stayed in the race, but there was more to be done.
+- There is no finish line, Goggins. There is no finish line.
+- slowly start to remove the governor from your brain.
+- In 1999, when I weighed 297 pounds, my first run was a quarter mile. Fast forward to 2007, I ran 205 miles in thirty-nine hours, nonstop. I didn’t get there overnight, and I don’t expect you to either. Your job is to push past your normal stopping point.
+- ***get to the point where you are so tired and in pain that your mind is begging you to stop. Then push just 5 to 10 percent further.***
+- This gradual ramp-up will help prevent injury and allow your body and mind to slowly adapt to your new workload.
+- There is so much pain and suffering involved in physical challenges that it’s the best training to take command of your inner dialogue, and the newfound mental strength and confidence you gain by continuing to push yourself physically will carry over to other aspects in your life.
+- The bottom line is that life is one big mind game. ***The only person you are playing against is yourself.***
+- ***Stick with this process and soon what you thought was impossible will be something you do every fucking day of your life.***
+## New highlights added March 29, 2022 at 10:36 PM
+- It starts with a 2.4-mile swim followed by a 112-mile bike ride, and closes with a marathon run
+- I came to Kona to compete in a less celebrated form of even more intense masochism. I was there to compete for the title of Ultraman.
+- It was a generous gesture, but I was so focused on becoming the very best version of myself his glitz didn’t impress me
+- In my mind, I still hadn’t achieved shit. If anything, staying in his house only inflated the chip on my shoulder.
+- Talk about heart. That man had a presence beyond his stature.
+- They weren’t trying to push themselves every day of their lives, and I wanted to be around people who thought and trained uncommon 24/7, not just when duty called.
+- On a bicycle, mountains produce pain, and pain was my business.
+- I tried not to think of bad luck and missed opportunities. I needed to finish strong and get myself within striking distance by the end of the day, because day three would bring a double marathon, and I was convinced that I was the best runner in the fiel
+- I’d raced hard, but if I’d run smarter and handled the bike situation better, I would have given myself a better chance to win.
+- To become an Admiral is to rise through the ranks of tens of thousands
+- That’s right, the shit you see me do on social media isn’t new. I’ve been living this life for eleven years!
+- I always made sure to finish strong, and when I sprinted home he approached me with a wide smile and said, “I drove two hours just to see you finish!”
+- you never know who you’re affecting. My poor race results meant less than nothing to that young man because I’d helped open his eyes to a new world of possibility and capability that he sensed within himself.
+- ***Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort.***
+- **it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work.**
+- Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.
+- It may be satisfactory, but that’s another word for mediocrity. Don’t settle for a forty-hour work week. There are 168 hours in a week! That means you have the hours to put in that extra time at work without skimping on your exercise.
+- Look, we all have work obligations, none of us want to lose sleep, and you’ll need time with the family or they’ll trip the fuck out. I get it, and if that’s your situation, you must win the morning.
+- His priorities are clear, and he remains dedicated to his priorities
+- I’m not talking about general priorities here either. Each hour of his week is dedicated to a particular task and when that hour shows up in real time, he focuses 100 percent on that task. That’s how I do it too, because that is the only way to minimize wasted hours.
+- Evaluate your life in its totality! ***We all waste so much time doing meaningless bullshit. We burn hours on social media and watching television, which by the end of the year would add up to entire days and weeks if you tabulated time like you do your taxes.***
+- **if you knew the truth you’d deactivate your Facebook account STAT, and cut your cable.**
+- **For years I’ve lived like a monk. I don’t see or spend time with a lot of people. My circle is very tight.**
+- you and I probably don’t share the same goals. But I know you have goals too, and room for improvement, or you wouldn’t be reading my book, and I guarantee that if you audited your schedule you’d find time for more work and less bullshit.
+- Look at your whole life, list your obligations and tasks. Put a time stamp on them.
+- Block everything into windows of time, and once your day is scheduled out, you’ll know how much flexibility you have to exercise on a given day and how to maximize it.
+- How many hours are required to shop, eat, and clean? How much sleep do you need? What’s your commute like? Can you make it there under your own power?
+- Analyze your schedule, kill your empty habits, burn out the bullshit, and see what’s left.
+- If one task bleeds into overtime, make sure you know it, and begin to transition into your next prioritized task straight away.
+- Use your smartphone for productivity hacks, not click bait. Turn on your calendar alerts. Have those alarms set.
+- even when you are doing everything right in life, shit storms appear and multiply. Chaos can and will descend without warning, and when (not if) that happens, there won’t be anything you can do to stop it.
+- Very few people enjoy working on their weaknesses, so if you’re a terrific runner with a knee injury that will prevent you from running for twelve weeks, that is a great time to get into yoga, increasing your flexibility and your overall strength, which will make you a better and less injury-prone athlete.
+- The point is not to allow a setback to shatter our focus, or our detours to dictate our mindset. Always be ready to adjust, recalibrate, and stay after it to become better, somehow.
+- Life will always be the most grueling endurance sport, and when you train hard, get uncomfortable, and callous your mind, you will become a more versatile competitor, trained to find a way forward no matter what.
+- Sometimes life hits you dead in the fucking heart.
+- When people in white coats are treating your heart as a puzzle to be solved right in front of you, it’s hard not to think that you’re probably pretty fucked up.
+- According to the doctor, I was only supplying about half of the necessary oxygen my muscles and organs needed for optimal performance.
+- I wasn’t alone in this fight. One out of every ten children are born with this same defect, but in most cases the hole closes on its own, and surgery isn’t required
+- I knew that if I maintained a victim’s mentality I wouldn’t get anything at all out of a fucked-up situation, and I didn’t want to sit home defeated all day long.
+- Schedule it in!
+- It’s time to compartmentalize your day
+- Too many of us have become multitaskers, and that’s created a nation of half-asses.
+- During week one, go about your normal schedule, but take notes. When do you work?
+- How long are your meal breaks?
+- How long is your commute? Are you driving? I want you to get super detailed and document it all with timestamps.
+- This will be your baseline, and you’ll find plenty of fat to trim
+- Most people waste four to five hours on a given day, and if you can learn to identify and utilize it, you’ll be on your way toward increased productivity.
+- build an optimal schedule. Lock everything into place in fifteen- to thirty-minute blocks.
+- Some tasks will take multiple blocks or entire days
+- **When you work, only work on one thing at a time, think about the task in front of you and pursue it relentlessly.**
+- **No checking email or bullshitting on social media. If you are going to work hard you must also rest your brain.**
+- Make sure your meal breaks are adequate but not open-ended, and schedule in exercise and rest too. But when it’s time to rest, actually rest
+- Make notes with timestamps in week two. You may still find some residual dead space.
+# Can't Hurt Me: Master Your Mind and Defy the Odds
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png)
+
+## Metadata
+- Author: [[David Goggins]]
+- Full Title: Can't Hurt Me: Master Your Mind and Defy the Odds
+- Category: #books
+
+## Highlights
+- I could knock out six pull-ups on the minute, every minute, for twenty-four hours, I’d shatter it. That’s roughly ten seconds of effort, and fifty seconds of rest, each minute.
+- When an activity or exercise that you’ve always relied on gets taken away from you, like running was for me, it’s easy to get stuck in a mental rut and stop doing any exercise at all, but I didn’t have a quitter’s mentality. I gravitated toward the pull-up bar and replicated the workouts I used to do with Sledge.
+- To prepare for the attempt I did 400 pull-ups a day during the week, which took me about seventy minutes
+- 750. All that work strengthened my lats, triceps, biceps, and back, prepared my shoulder and elbow joints to take extreme punishment, helped me develop a powerful gorilla-type grip, and built up my lactic acid tolerance so my muscles could still function long after they were overworked.
+- From the very first pull-up I noticed that the bar had a lot more give than I was used to. I didn’t have my usual power and anticipated a long fucking day. At first, I blocked that shit out. Had to. A looser bar just meant a stronger effort and gave me another opportunity to be uncommon.
+- at the 1,500 mark my forearms hurt like hell.
+- with 2,000 pull-ups in the bank, I took my first ten-minute break.
+- My carbohydrate drink wasn’t giving me the power I needed, and I didn’t have a Plan B, so I ordered and downed a cheeseburger. It felt good to have some real food.
+- It took me five hours to do another 500 pull-ups—that’s an average of under two pull-ups per minute.
+- tension and lactic acid had overwhelmed my system and my upper body was a lump of dough. I had never hit muscle failure before in my life
+- I was verging on total muscle failure after doing only 1,000 more pull-ups than I would rock in three hours at the gym on a typical Saturday with no ill effects. How was that possible?
+- There would be no celebratory breakfast with Savannah and Matt.
+- **To me a failure is just a stepping stone to future success**
+- There would be no celebration at all. I failed, and I’d failed in front of millions of people.
+- I needed zero distractions and time enough to go back through what I’d done well and where I’d fallen short.
+- To break this record, I needed an optimal environment, and that realization blasted me like a surprise attack
+- **my lack of focus and attention to detail cost me a shot at immortality.**
+- Before my attempt, haters found me online and predicted my failure, but I ignored them and didn’t fully absorb the hard truths couched in their negativity
+- , I wasn’t as well-prepared as I should have been.
+- **You can’t prepare for unknown factors, but if you have a better pre-game focus, you will likely only have to deal with one or two rather than ten.**
+- I weighed 210 pounds, much heavier than anyone else who had ever tried to break that record, and my probability of failure was high.
+- **“People have been running for decades, and running long distances, but 4,000 pull-ups, the human body isn’t designed to do that. So to get a chance to witness something like that was pretty neat.”**
+- the first ten sets I rose up chest high. Then I remembered my game plan to minimize needless movement and wasted energy.
+- I remained hyper vigilant, scanning for any physical issues that could crop up and derail the attempt
+- This time I had more stability and power, but over time that hard-ass bar did damage.
+- Ten hours into the attempt, I hit a wall. I was down to three pull-ups a minute on the minute. The pain was excruciating and I needed some relief.
+- **Show no weakness remained my motto, but that didn’t mean I felt strong.**
+- **Fuck rationality. I held up my left palm and had Regina sink her needle in.**
+- as long as I remained in the fight, I still believed anything was possible.
+- First I used four fingers, then three. I was able to gut out one hundred more pull-ups, then one hundred more. Hours ticked by.
+- A lot of us surround ourselves with people who speak to our desire for comfort. Who would rather treat the pain of our wounds and prevent further injury than help us callous over them and try again
+- **We need to surround ourselves with people who will tell us what we need to hear, not what we want to hear, but at the same time not make us feel we’re up against the impossible.**
+- ***Most wars are won or lost in our own heads,*** and when we’re in a foxhole we usually aren’t alone, and we need to be confident in the quality of the heart, mind, and dialogue of the person hunkered down with us.
+- You can’t let a simple failure derail your mission, or let it worm so far up your ass it takes over your brain and sabotages your relationships with people who are close to you
+- Everyone fails sometimes and life isn’t supposed to be fair, much less bend to your every whim.
+- Don’t focus on what you think you deserve. Take aim on what you are willing to earn! I never blamed anyone for my failures, and I didn’t hang my head in Nashville.
+- That wasn’t easy because after my second failure in as many attempts, the doubters were everywhere online.
+- **When Bannister was trying to break the four-minute mile in the 1950s, experts told him it couldn’t be done, but that didn’t stop him.**
+- Six weeks later, his record was eclipsed, and by now over 1,000 runners have done what was once thought to be beyond human capability.
+- He failed again and again, but he persevered, and when he ran his historic mile in 3:59.4 on May 6, 1954, he didn’t just break a record, he broke open the floodgates simply by proving it possible.
+- **We are all guilty of allowing so-called experts, or just people who have more experience in a given field than we do, to cap our potential.**
+- Six pull-ups per minute on the minute had failed me twice. Yes, it placed me on a fast track to 4,020, but I never got there.
+- I needed to stay true to my strategy and limit any long breaks to four minutes max.
+- I started slow and easy with five pull-ups on the minute.
+- My point of view narrowed into tunnel vision as I prepared my mind for the hell that was to come
+- I wasn’t in that gym to get happy or do what I wanted to be doing.
+- It takes great strength to be vulnerable enough to put your ass on the line, in public, and work toward a dream that feels like it’s slipping away.
+- Often our people don’t mean any harm. Nobody who cares about us actually wants us to get hurt. They want us to be safe, comfortable, and happy, and not to have to stare at the floor in a dungeon sifting through shards of our broken dreams
+- There’s a lot of potential in those moments of pain. And if you figure out how to piece that picture back together, you’ll find a hell of a lot of power there too!
+- had to find an edge somewhere, and if you find it in the person standing in your way, that’s potent.
+- When I hit 3,800 pull-ups I felt like I could see the mountain top
+- You never know when you’ll reach your 100 percent and hit the point of total muscle fatigue.
+- After seventeen hours of pain, around 3 a.m. on January 20, 2013, I did my 4,020th and 4,021st pull-up, and the record was mine
+- In one day, I’d lifted the equivalent of 846,030 pounds, nearly three times the weight of the Space Shuttle!
+- I was not in the mood to celebrate.
+  Does that shock you too? You know that my refrigerator is never full, and it never will be because I live a mission-driven life, always on the hunt for the next challenge
+- **life is one long motherfucking imaginary game that has no scoreboard, no referee, and isn’t over until we’re dead and buried.**
+- It meant becoming the hardest motherfucker who ever lived
+- That’s how I thought back then, anyway. Because I had no clue how close to the end I already was.
+- Think about your most recent and your most heart-wrenching failures. Break out that journal one last time. Log off the digital version and write them out long-hand. I want you to feel this process because you are about to file your own, belated After Action Reports.
+- ***make a list of things you can fix. This isn’t time to be soft or generous. Be brutally honest, write them all out. Study them. Then look at your calendar and schedule another attempt as soon as possible.***
+- As you prepare, keep that AAR handy, consult your Accountability Mirror, and make all necessary adjustments.
+- Control your mindset. Dominate your thought process. This life is all a fucking mind game. Realize that. Own it
+- When it comes time to execute, keep everything we’ve learned about the power of a calloused mind, the Cookie Jar, and The 40% Rule in the forefront of your mind.
+- if you fail again, so the fuck be it. Take the pain. Repeat these steps and keep fighting. That’s what it’s all about. Share your stories from preparation, training, and execution on social media
+## New highlights added March 31, 2022 at 7:52 AM
+- I created a new dialogue and told myself to finish the race strong and worry about amputated toes at the hospital after I was crowned champion.
+- They say it takes sixty-six days to build a habit. For me it takes a hell of a lot longer than that, but I eventually get there, and during all those years of ultra training and competition I was working on my craft.
+- I’ve never enjoyed the brutality of running down a steep incline because it shreds the quads, but I also thought it would allow me to reset and calm my breath
+- My coworkers didn’t know anything about my decline because I continued to show no weakness. My whole life I’d been hiding all my insecurities and trauma. I kept all my vulnerabilities locked down beneath an iron veneer, but eventually the pain became so bad I couldn’t even get out of bed.
+- until **I took ownership and started to change. Since then I’d been obese. I was married and divorced. I had two heart surgeries, taught myself to swim, and learned to run on broken legs. I was terrified of heights, then took up high altitude sky diving. Water scared the living shit out of me, yet I became a technical diver and underwater navigator, which is several degrees of difficulty beyond scuba diving.**
+- **I competed in more than sixty ultra distance races, winning several, and set a pull-up record. I stuttered through my early years in primary school and grew up to become the Navy SEALs’ most trusted public speaker. I’d served my country on the battlefield. Along the way I became driven to make sure that I could not be defined by the abuse I was born into or the bullying that I grew up with. I wouldn’t be defined by talent either, I didn’t have much, or my own fears and weaknesses**
+- **I was the sum total of the obstacles I’d overcome.**
+- In my mind, I didn’t have the time to waste. I never hit snooze on my life clock because there was always something else to do
+- My brain wasn’t wired to appreciate, it was programmed to do work, scan the horizon, ask what’s next, and get it done.
+- feats. I was always on the hunt for the next big thing, but as I lay there in bed, my body taut with tension and throbbing with pain, I had a clear idea what was next for me. The cemetery. After years of abuse, I’d finally shredded my physical body beyond repair.
+- **was only thirty-eight years old, but I’d lived ten lives and experienced a hell of a lot more than most eighty-year-olds. I wasn’t feeling sorry for myself. It made sense that at some point the toll would come due.**
+- My eyes welled with tears. Not because I was afraid, but because at my lowest point I found clarity
+- It was a lonely journey from there to here. I missed out on so much. I didn’t have a lot of fun. Happiness wasn’t my cocktail of choice. My brain had me on constant blast.
+- I lived in fear and doubt, terrified of being a nobody and contributing nothing.
+- Rage is a powerful thing. For years I’d raged at the world, channeled all my pain from my past and used it as fuel to propel me into the motherfucking stratosphere, but I couldn’t always control the blast radius
+- Sometimes my rage scorched people who weren’t as strong as I’d become, or didn’t work as hard, and I didn’t swallow my tongue or hide my judgmen
+- ***The long list of haters, doubters, racists, and abusers that populated my past, I just couldn’t hate them anymore. I appreciated them because they helped create me. And as that feeling stretched out, my mind quieted down***
+- In this life there are countless trails to self-realization, though most demand intense discipline, so very few take them
+- do know that ***pain unlocks a secret doorway in the mind. One that leads to both peak performance and beautiful silence.***
+- At first, when you push beyond your perceived capability your mind won’t shut the fuck up about it.
+- For hours, I floated in that tranquil space, surrounded by light, feeling as much gratitude as pain, as much appreciation as there was discomfort
+- The problem with most of the guys, he said, was our overuse of muscles without the appropriate balance of flexibility, and those issues traced back to Hell Week, when we were asked to do thousands of flutter kicks, then lie
+- Optimal range of motion required a larger commitment. When he got to me he took a good look and shook his head.
+## New highlights added March 31, 2022 at 1:44 PM
+- One of my mottos these days is peaceful but never satisfied
+- “What was happening to you is an extreme case of what happens to 90 percent of the population,” he said. “Your muscles were so locked up that your blood wasn’t circulating very well. They were like a frozen steak. You can’t inject blood into a frozen steak, and that’s why you were shutting down
+- I came up with a routine, starting at my neck and shoulders before moving into the hips, psoas, glutes, quads, hamstrings, and calves. Stretching became my new obsession.
+- the more I stretched the more my condition improved. I kept at it for at least six hours a day for weeks. Then months and years. I’m still doing it.
+- stretching helped me get my powers back. A
+- Eventually, I started running again, this time with zero side effects, and when I got back into decent enough shape,
+- **To exist in this world, we must contend with humiliation, broken dreams, sadness, and loss. That’s just nature.**
+- **The Buddha famously said that life is suffering. I’m not a Buddhist, but I know what he meant and so do you.**
+- **most of us are programmed to seek comfort as a way to numb it all out and cushion the blows. We carve out safe spaces. We consume media that confirms our beliefs, we take up hobbies aligned with our talents, we try to spend as little time as possible doing the tasks we fucking loathe, and that makes us soft.**
+- We live a life defined by the limits we imagine and desire for ourselves because it’s comfortable as hell in that box.
+- our imagination jumps those walls and hunts down dreams that in the immediate aftermath feel attainable. Because most dreams are.
+- it’s not the external voice that will break you down. It’s what you tell yourself that matters. The most important conversations you’ll ever have are the ones you’ll have with yourself.
+- You can’t stop it from blooming in your brain, but you can neutralize it, and all the other external chatter by asking, What if?
+- What if is an exquisite fuck-you to anyone who has ever doubted your greatness or stood in your way.
+- **We live in a world with a lot of insecure, jealous people. Some of them are our best friends. They are blood relatives. Failure terrifies them. So does our success.**
+- **Your light enables them to see the contours of their own prison, their own self-limitations. But if they are truly the great people you always believed them to be, their jealousy will evolve, and soon their imagination might hop its fence, and it will be their turn to change for the better.**
+- You’ll feel pain, but if you accept it, endure it, and callous your mind, you’ll reach a point where not even pain can hurt you. There is a catch, however. When you live this way, there is no end to it.
+- know I’ll continue to give it my all and set goals that seem impossible to most. And when those motherfuckers say so, I’ll look them dead in the eye and respond with one simple question.
+  What if?

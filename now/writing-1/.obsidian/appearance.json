@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "baseFontSize": 17,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "moonstone",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "Bubble Space",
+    "Blockquote",
+    "Bold & Italics",
+    "Headlines Custom",
+    "Custom font",
+    "something"
+  ],
+  "interfaceFontFamily": "Roboto,Arial",
+  "textFontFamily": "Roboto,Arial",
+  "monospaceFontFamily": "Roboto,Arial"
+}

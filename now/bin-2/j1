@@ -1,0 +1,60 @@
+#!/bin/bash
+
+sleep .3
+xdotool key super+1
+sleep .3
+xdotool key super+d
+sleep .3
+xdotool key super+d+i+s
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Enter
+sleep .3
+xdotool key v
+sleep .3
+xdotool key Enter
+
+sleep .3
+xdotool key super+shift+u
+sleep .3
+mounter 
+# sleep .3
+st -e bash -c "lf /mnt/3/2.\ The\ Complete\ Haskell\ Course\ From\ Zero\ to\ Expert\!\ 2023-8/-1.\ Algorithms\ and\ Data\ Structures\ Masterclass\ \(JavaScript\)/01\ -\ Introduction" &
+sleep 2 
+xdotool key super+9
+sleep .3
+st -e bash -c "cd /home/fahmida/.local/bin/ && ./pr" &
+sleep 3 
+xdotool key super+2
+sleep .3
+# Define an array of URLs you want to open
+urls=(
+    "https://www.amplenote.com/notes/10a06c5a-53c6-11ef-8104-0663d8339c46"
+)
+
+# "https://www.amplenote.com/notes/jots"
+# "https://www.amplenote.com/notes/71e60d32-559a-11ef-987b-360e25dcc291"
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+
+# Open each URL in a new tab
+# for url in "${urls[@]}"; do
+#     "$chrome" --new-tab "$url" &
+#     sleep 1
+# done
+# sleep 7 
+
+xdotool key super+1
+sleep .3
+xdotool key super+shift+Enter
+sleep .3
+xdotool key c
+sleep .3
+xdotool key Enter
+sleep .3

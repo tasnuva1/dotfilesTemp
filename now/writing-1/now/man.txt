@@ -1,0 +1,1750 @@
+dmenu - dynamic menu
+dwm - dynamic window manager (Luke Smith <https://lukesmith.xyz>'s build)
+st - simple terminal
+stest - filter a list of files by properties
+aafire - aalib example programs
+aainfo - aalib example programs
+aasavefont - aalib example programs
+aatest - aalib example programs
+abook - text-based address book program
+aclocal - manual page for aclocal 1.16.5
+acyclic - make directed graph acyclic
+addftinfo - add font metrics to troff fonts for use with groff
+addr2line - convert addresses or symbol+offset into file names and line numbers
+afmtodit - adapt Adobe Font Metrics files for groff PostScript and PDF output
+apropos - search the manual page names and descriptions
+ar - create, modify, and extract from archives
+arandr - visual front end for XRandR 1.2
+AS - the portable GNU assembler.
+asn1Coding - ASN.1 DER encoder
+asn1Decoding - ASN.1 DER decoder
+asn1Parser - ASN.1 syntax tree generator for libtasn1
+atool - A script for managing file archives of various types
+attr - extended attributes on XFS filesystem objects
+Audio - Audio recorder for GNOME and Unity Desktops
+autoconf - Generate configuration scripts
+autoheader - Create a template header for configure
+autom4te - Generate files and scripts thanks to M4
+automake - manual page for automake 1.16.5
+autopoint - copies standard gettext infrastructure
+autoreconf - Update generated configuration files
+autoscan - Generate a preliminary configure.ac
+autoupdate - Update a configure.ac to a newer Autoconf
+avahi-bookmarks - Web service showing mDNS/DNS-SD announced HTTP services using the Avahi daemon
+avahi-browse - Browse for mDNS/DNS-SD services using the Avahi daemon
+avahi-discover - Browse for mDNS/DNS-SD services using the Avahi daemon
+avahi-publish-service - Register an mDNS/DNS-SD service or host name or address mapping using the Avahi daemon
+avahi-resolve - Resolve one or more mDNS/DNS host name(s) to IP address(es) (and vice versa) using the Avahi daemon
+avahi-set-host-name - Change mDNS host name
+b2sum - compute and check BLAKE2 message digest
+base32 - base32 encode/decode data and print to standard output
+base64 - base64 encode/decode data and print to standard output
+basename - strip directory and suffix from filenames
+basenc - Encode/decode data and print to standard output
+bash - GNU Bourne-Again SHell
+bashbug - report a bug in bash
+bat - a cat(1) clone with syntax highlighting and Git integration.
+bc - An arbitrary precision calculator language
+bcomps - biconnected components filter for graphs
+bison - GNU Project parser generator (yacc replacement)
+blueman-adapters - an utility to set adapter properties
+blueman-applet - a tray applet for managing bluetooth
+blueman-manager - bluetooth device manager
+blueman-sendto - application for sending files to bluetooth devices
+blueman-services - Configure local bluetooth services
+blueman-tray - a status icon application for blueman
+bond2team - Converts bonding configuration to team
+broadwayd - Broadway display server
+brotli - brotli, unbrotli - compress or decompress files
+bsdcat - expand files to standard output
+cpio - copy files to and from archives
+tar - manipulate tape archives
+bssh/bvnc/bshell - Browse for SSH/VNC servers on the local network
+btattach - Attach serial devices to BlueZ stack
+btmon - Bluetooth monitor
+busctl - Introspect the bus
+bzip2 - a block-sorting file compressor, v1.0.8
+bunzip2 - a block-sorting file compressor, v1.0.8
+bzcat - decompresses files to stdout
+bzip2recover - recovers data from damaged bzip2 files
+caca-config - script to get information about the installed version of libcaca
+cacademo - libcaca's demonstration applications
+cacafire - libcaca's demonstration applications
+cacaplay - play libcaca files
+cacaserver - telnet server for libcaca
+cacaview - ASCII image browser
+cal - display a calendar
+fB-Font]calc_tickadj - Calculates optimal value for tick given ntp drift file.
+CA.pl - friendlier interface for OpenSSL certificate programs
+capsh - capability shell wrapper
+captoinfo - convert a termcap description into a terminfo description
+cat - concatenate files and print on the standard output
+ccomps - connected components filter for graphs
+cd-drive - show CD-ROM drive characteristics
+cd-info - shows Information about a CD or CD-image
+/usr/share/man/man1/cd-paranoia.1.gz: parse failed
+/usr/share/man/man1/cdparanoia.1.gz: parse failed
+cd-read - reads Information from a CD or CD-image
+cec-compliance - An application to verify remote CEC devices
+cec-ctl - An application to control cec devices
+cec-follower - An application to emulate CEC followers
+fB-Font]certtool - GnuTLS certificate tool
+certutil - Manage keys and certificate in both NSS databases and other NSS tokens
+c++filt - demangle C++ and Java symbols
+chacl - change the access control list of a file or directory
+chage - change user password expiry information
+chattr - change file attributes on a Linux file system
+chcon - change file security context
+chem - embed chemical structure diagrams in groff documents
+chfn - change your finger information
+chgrp - change group ownership
+chmod - change file mode bits
+choom - display and adjust OOM-killer score.
+chown - change file owner and group
+chronic - runs a command quietly unless it fails
+chroot - run command or interactive shell with special root directory
+chrt - manipulate the real-time attributes of a process
+chsh - change your login shell
+chvt - change foreground virtual terminal
+cjpeg - compress an image file to a JPEG file
+cjxl - compress images to JPEG XL
+cksum - compute and verify file checksums
+clear - clear the terminal screen
+cluster - find clusters in a graph and augment the graph with this information.
+cmp - compare two files byte by byte
+cmsutil - Performs basic cryptograpic operations, such as encryption and decryption, on Cryptographic Message Syntax (CMS) messages.
+codepage - extract a codepage from an MSDOS codepage file
+col - filter reverse line feeds from input
+colcrt - filter nroff output for CRT previewing
+colrm - remove columns from a file
+column - columnate lists
+combine - combine sets of lines from two files using boolean operations
+comm - compare two sorted files line by line
+compile_et - error table compiler
+copydatabase - Perform a document-by-document copy of one or more Xapian databases
+corelist - a commandline frontend to Module::CoreList
+cp - copy files and directories
+cpan - easily interact with CPAN from the command line
+cpp - The C Preprocessor
+crlutil - List, generate, modify, or delete CRLs within the NSS security database file(s) and list, create, modify or delete certificates entries in a particular CRL.
+csplit - split a file into sections determined by context lines
+curl - transfer a URL
+curl-config - Get information about a libcurl installation
+cut - remove sections from each line of files
+cvt - calculate VESA CVT mode lines
+cvtsudoers - convert between sudoers file formats
+cwebp - compress an image file to a WebP file
+cxpm - Check an XPM (X PixMap) file, versions XPM 1, 2, or 3.
+date - print or set the system date and time
+dbus-binding-tool - C language dbus-glib bindings generation utility.
+dbus-cleanup-sockets - clean up leftover sockets in a directory
+dbus-daemon - Message bus daemon
+dbus-launch - Utility to start a message bus from a shell script
+dbus-monitor - debug probe to print message bus messages
+dbus-run-session - start a process as a new D-Bus session
+dbus-send - Send a message to a message bus
+dbus-test-tool - D-Bus traffic generator and test tool
+dbus-update-activation-environment - update environment used for D-Bus session services
+dbus-uuidgen - Utility to generate UUIDs
+dc - an arbitrary precision calculator
+dconf - Simple tool for manipulating a dconf database
+dconf-service - D-Bus service for writes to the dconf database
+dd - convert and copy a file
+ddrescue - data recovery tool
+ddrescuelog - tool for ddrescue mapfiles
+deallocvt - deallocate unused virtual consoles
+debugedit - debug source path manipulation tool
+delaunay - constructs the constrained Delaunay triangulation of the input
+derb - disassemble a resource bundle
+desktop-file-install - Installation and edition of desktop files
+desktop-file-edit - Installation and edition of desktop files
+desktop-file-install - Installation and edition of desktop files
+desktop-file-edit - Installation and edition of desktop files
+desktop-file-validate - Validate desktop entry files
+df - report file system space usage
+diff - compare files line by line
+diff3 - compare three files line by line
+diffimg - Calculates intersection between two images
+dijkstra - single-source distance filter for Graphviz
+dir - list directory contents
+dircolors - color setup for ls
+dirmngr-client - Tool to access the Dirmngr services
+dirname - strip last component from file name
+djpeg - decompress a JPEG file to an image file
+djxl - decompress JPEG XL images
+dmesg - print or control the kernel ring buffer
+dot - filter for drawing directed graphs
+neato - filter for drawing undirected graphs
+twopi - filter for radial layouts of graphs
+circo - filter for circular layout of graphs
+fdp - filter for drawing undirected graphs
+sfdp - filter for drawing large undirected graphs
+patchwork - filter for squarified tree maps
+osage - filter for array-based layouts
+drill - get (debug) information out of DNS(SEC)
+du - estimate file space usage
+dubdv - insert audio into a digital video stream
+dumpiso - dump IEEE 1394 isochronous channel packets
+dumpkeys - dump keyboard translation tables
+dunst - A customizable and lightweight notification-daemon
+dunstctl - Command line control utility for dunst, a customizable and lightweight notification-daemon
+dvb-fe-tool - DVBv5 tool for frontend settings inspect/change
+dvb-format-convert - DVBv5 tool for file format conversions
+dvbv5-scan - DVBv5 tool for frequency scanning
+dvbv5-zap - DVBv5 tool for service tuning
+dvconnect - receive or transmit raw DV using the video1394 device
+dvcont - send control commands to DV cameras
+dvipdf - Convert TeX DVI file to PDF using ghostscript and dvips
+dwebp - decompress a WebP file to an image file
+echo - display a line of text
+edgepaint - edge coloring to disambiguate crossing edges
+eject - eject removable media
+elfedit - update ELF header and program property of ELF files
+elogind-inhibit - Execute a program with an inhibition lock taken
+enc2xs - - Perl Encode Module Generator
+encguess - guess character encodings of files
+encodedv - encode a series of images to a digital video stream
+env - run a program in a modified environment
+envsubst - substitutes environment variables in shell format strings
+eqn - format mathematics (equations) for groff or MathML
+eqn2graph - convert an eqn equation into a cropped image
+errno - look up errno names and descriptions
+expand - convert tabs to spaces
+expiry - check and enforce password expiration policy
+expr - evaluate expressions
+faad - Process an Advanced Audio Codec stream
+factor - factor numbers
+fadvise - utility to use the posix_fadvise system call
+faked - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+fakeroot - run a command in an environment faking root privileges for file manipulation
+fallocate - preallocate or deallocate space to a file
+false - do nothing, unsuccessfully
+fax2ps - convert a TIFF facsimile to compressed PostScript™
+fax2tiff - create a TIFF Class F fax file from raw fax data
+fc-cache - build font information cache files
+fc-cat - read font information cache files
+fc-conflist - list the configuration files processed by Fontconfig
+fc-list - list available fonts
+fc-match - match available fonts
+fc-pattern - parse and show pattern
+fc-query - query font files
+fc-scan - scan font files or directories
+fc-validate - validate font files
+ffmpeg - ffmpeg video converter
+ffmpeg - ffmpeg video converter
+ffmpeg-bitstream-filters - FFmpeg bitstream filters
+ffmpeg-codecs - FFmpeg codecs
+ffmpeg-devices - FFmpeg devices
+ffmpeg-filters - FFmpeg filters
+ffmpeg-formats - FFmpeg formats
+ffmpeg-protocols - FFmpeg protocols
+ffmpeg-resampler - FFmpeg Resampler
+ffmpeg-scaler - FFmpeg video scaling and pixel format converter
+ffmpegthumbnailer - fast and lightweight video thumbnailer
+ffmpeg-utils - FFmpeg utilities
+ffplay - FFplay media player
+ffplay - FFplay media player
+ffprobe - ffprobe media prober
+ffprobe - ffprobe media prober
+fftwf-wisdom - create wisdom (pre-optimized FFTs)
+fftwl-wisdom - create wisdom (pre-optimized FFTs)
+fftwq-wisdom - create wisdom (pre-optimized FFTs)
+fftw-wisdom - create wisdom (pre-optimized FFTs)
+fftw-wisdom-to-conf - generate FFTW wisdom (pre-planned transforms)
+fgconsole - print the number of the active VT.
+file - determine file type
+fincore - count pages of file contents in core
+find - search for files in a directory hierarchy
+find-debuginfo - finds debuginfo and processes it
+flac - Free Lossless Audio Codec
+flex - the fast lexical analyser generator
+flock - manage locks from shell scripts
+FluidSynth - a SoundFont synthesizer
+fmt - simple optimal text formatter
+fold - wrap each input line to fit in specified width
+free - Display amount of free and used memory in the system
+funzip - filter for extracting from a ZIP archive in a pipe
+fuser - identify processes using files or sockets
+fusermount - mount and unmount FUSE filesystems
+fusermount3 - mount and unmount FUSE filesystems
+fzf - a command-line fuzzy finder
+fzf-tmux - open fzf in tmux split pane
+gcc - GNU project C and C++ compiler
+gapplication - D-Bus application launcher
+gawk - pattern scanning and processing language
+gawkbug - report a bug in gawk
+gc - count graph components
+gcc - GNU project C and C++ compiler
+gcov - coverage testing tool
+gcov-dump - offline gcda and gcno profile dump tool
+gcov-tool - offline gcda profile processing tool
+gdbm_dump - dump a GDBM database to a file
+gdbm_load - re-create a GDBM database from a dump file.
+gdbmtool - examine and modify a GDBM database
+gdbus - Tool for working with D-Bus objects
+gdbus-codegen - D-Bus code and documentation generator
+gdiffmk - mark differences between groff / nroff / troff files
+gdk-pixbuf-csource - C code generation utility for GdkPixbuf images
+gdk-pixbuf-query-loaders - GdkPixbuf loader registration utility
+genbrk - Compiles ICU break iteration rules source files into binary data files
+gencfu - Generates Unicode Confusable data files
+gencnval - compile the converters aliases file
+gendict - Compiles word list into ICU string trie dictionary
+genrb - compile a resource bundle
+getfacl - get file access control lists
+getfattr - get extended attributes of filesystem objects
+getopt - parse command options (enhanced)
+getsubids - get the subordinate id ranges for a user
+gettext - translate message
+gettextize - install or upgrade gettext infrastructure
+gif2rgb - convert images saved as GIF to 24-bit RGB triplets
+gif2webp - Convert a GIF image to WebP
+gifbg - generate a test-pattern GIF
+gifbuild - dump GIF data in a textual format, or undump it to a GIF
+gifclrmp - extract colormaps from GIF images
+gifcolor - generate color test-pattern GIFs
+gifecho - generate a GIF from ASCII text
+giffix - attempt to fix up broken GIFs
+gifhisto - make a color histogram from GIF colr frequencies
+gifinto - save GIF on stdin to file if size over set threshold
+giflib - GIFLIB utilities
+giftext - dump GIF pixels and metadata as text
+giftool - GIF transformation tool
+gifwedge - create a GIF test pattern
+gio - GIO commandline tool
+gio-querymodules - GIO module cache creation
+git - the stupid content tracker
+git-add - Add file contents to the index
+git-am - Apply a series of patches from a mailbox
+git-annotate - Annotate file lines with commit information
+git-apply - Apply a patch to files and/or to the index
+git-archimport - Import a GNU Arch repository into Git
+git-archive - Create an archive of files from a named tree
+git-bisect - Use binary search to find the commit that introduced a bug
+git-blame - Show what revision and author last modified each line of a file
+git-branch - List, create, or delete branches
+git-bugreport - Collect information for user to file a bug report
+git-bundle - Move objects and refs by archive
+git-cat-file - Provide content or type and size information for repository objects
+git-check-attr - Display gitattributes information
+git-check-ignore - Debug gitignore / exclude files
+git-check-mailmap - Show canonical names and email addresses of contacts
+git-checkout - Switch branches or restore working tree files
+git-checkout-index - Copy files from the index to the working tree
+git-check-ref-format - Ensures that a reference name is well formed
+git-cherry - Find commits yet to be applied to upstream
+git-cherry-pick - Apply the changes introduced by some existing commits
+git-citool - Graphical alternative to git-commit
+git-clean - Remove untracked files from the working tree
+git-clone - Clone a repository into a new directory
+git-column - Display data in columns
+git-commit - Record changes to the repository
+git-commit-graph - Write and verify Git commit-graph files
+git-commit-tree - Create a new commit object
+git-config - Get and set repository or global options
+git-count-objects - Count unpacked number of objects and their disk consumption
+git-credential - Retrieve and store user credentials
+git-credential-cache - Helper to temporarily store passwords in memory
+git-credential-cache--daemon - Temporarily store user credentials in memory
+git-credential-store - Helper to store credentials on disk
+git-cvsexportcommit - Export a single commit to a CVS checkout
+git-cvsimport - Salvage your data out of another SCM people love to hate
+git-cvsserver - A CVS server emulator for Git
+git-daemon - A really simple server for Git repositories
+git-describe - Give an object a human readable name based on an available ref
+git-diagnose - Generate a zip archive of diagnostic information
+git-diff - Show changes between commits, commit and working tree, etc
+git-diff-files - Compares files in the working tree and the index
+git-diff-index - Compare a tree to the working tree or index
+git-difftool - Show changes using common diff tools
+git-diff-tree - Compares the content and mode of blobs found via two tree objects
+git-fast-export - Git data exporter
+git-fast-import - Backend for fast Git data importers
+git-fetch - Download objects and refs from another repository
+git-fetch-pack - Receive missing objects from another repository
+git-filter-branch - Rewrite branches
+git-fmt-merge-msg - Produce a merge commit message
+git-for-each-ref - Output information on each ref
+git-for-each-repo - Run a Git command on a list of repositories
+git-format-patch - Prepare patches for e-mail submission
+git-fsck - Verifies the connectivity and validity of the objects in the database
+git-fsck-objects - Verifies the connectivity and validity of the objects in the database
+git-fsmonitor--daemon - A Built-in Filesystem Monitor
+git-gc - Cleanup unnecessary files and optimize the local repository
+git-get-tar-commit-id - Extract commit ID from an archive created using git-archive
+git-grep - Print lines matching a pattern
+git-gui - A portable graphical interface to Git
+git-hash-object - Compute object ID and optionally creates a blob from a file
+git-help - Display help information about Git
+git-hook - Run git hooks
+git-http-backend - Server side implementation of Git over HTTP
+git-http-fetch - Download from a remote Git repository via HTTP
+git-http-push - Push objects over HTTP/DAV to another repository
+git-imap-send - Send a collection of patches from stdin to an IMAP folder
+git-index-pack - Build pack index file for an existing packed archive
+git-init - Create an empty Git repository or reinitialize an existing one
+git-init-db - Creates an empty Git repository
+git-instaweb - Instantly browse your working repository in gitweb
+git-interpret-trailers - Add or parse structured information in commit messages
+gitk - The Git repository browser
+git-log - Show commit logs
+git-ls-files - Show information about files in the index and the working tree
+git-ls-remote - List references in a remote repository
+git-ls-tree - List the contents of a tree object
+git-mailinfo - Extracts patch and authorship from a single e-mail message
+git-mailsplit - Simple UNIX mbox splitter program
+git-maintenance - Run tasks to optimize Git repository data
+git-merge - Join two or more development histories together
+git-merge-base - Find as good common ancestors as possible for a merge
+git-merge-file - Run a three-way file merge
+git-merge-index - Run a merge for files needing merging
+git-merge-one-file - The standard helper program to use with git-merge-index
+git-mergetool - Run merge conflict resolution tools to resolve merge conflicts
+git-mergetool--lib - Common Git merge tool shell scriptlets
+git-merge-tree - Perform merge without touching index or working tree
+git-mktag - Creates a tag object with extra validation
+git-mktree - Build a tree-object from ls-tree formatted text
+git-multi-pack-index - Write and verify multi-pack-indexes
+git-mv - Move or rename a file, a directory, or a symlink
+git-name-rev - Find symbolic names for given revs
+git-notes - Add or inspect object notes
+git-p4 - Import from and submit to Perforce repositories
+git-pack-objects - Create a packed archive of objects
+git-pack-redundant - Find redundant pack files
+git-pack-refs - Pack heads and tags for efficient repository access
+git-patch-id - Compute unique ID for a patch
+git-prune - Prune all unreachable objects from the object database
+git-prune-packed - Remove extra objects that are already in pack files
+git-pull - Fetch from and integrate with another repository or a local branch
+git-push - Update remote refs along with associated objects
+git-quiltimport - Applies a quilt patchset onto the current branch
+git-range-diff - Compare two commit ranges (e.g. two versions of a branch)
+git-read-tree - Reads tree information into the index
+git-rebase - Reapply commits on top of another base tip
+git-receive-pack - Receive what is pushed into the repository
+git-reflog - Manage reflog information
+git-remote - Manage set of tracked repositories
+git-remote-ext - Bridge smart transport to external command.
+git-remote-fd - Reflect smart transport stream back to caller
+git-repack - Pack unpacked objects in a repository
+git-replace - Create, list, delete refs to replace objects
+git-request-pull - Generates a summary of pending changes
+git-rerere - Reuse recorded resolution of conflicted merges
+git-reset - Reset current HEAD to the specified state
+git-restore - Restore working tree files
+git-revert - Revert some existing commits
+git-rev-list - Lists commit objects in reverse chronological order
+git-rev-parse - Pick out and massage parameters
+git-rm - Remove files from the working tree and from the index
+git-send-email - Send a collection of patches as emails
+git-send-pack - Push objects over Git protocol to another repository
+git-shell - Restricted login shell for Git-only SSH access
+git-sh-i18n - Git's i18n setup code for shell scripts
+git-sh-i18n--envsubst - Git's own envsubst(1) for i18n fallbacks
+git-shortlog - Summarize 'git log' output
+git-show - Show various types of objects
+git-show-branch - Show branches and their commits
+git-show-index - Show packed archive index
+git-show-ref - List references in a local repository
+git-sh-setup - Common Git shell script setup code
+git-sparse-checkout - Reduce your working tree to a subset of tracked files
+git-stage - Add file contents to the staging area
+git-stash - Stash the changes in a dirty working directory away
+git-status - Show the working tree status
+git-stripspace - Remove unnecessary whitespace
+git-submodule - Initialize, update or inspect submodules
+git-subtree - Merge subtrees together and split repository into subtrees
+git-svn - Bidirectional operation between a Subversion repository and Git
+git-switch - Switch branches
+git-symbolic-ref - Read, modify and delete symbolic refs
+git-tag - Create, list, delete or verify a tag object signed with GPG
+git-unpack-file - Creates a temporary file with a blob's contents
+git-unpack-objects - Unpack objects from a packed archive
+git-update-index - Register file contents in the working tree to the index
+git-update-ref - Update the object name stored in a ref safely
+git-update-server-info - Update auxiliary info file to help dumb servers
+git-upload-archive - Send archive back to git-archive
+git-upload-pack - Send objects packed back to git-fetch-pack
+git-var - Show a Git logical variable
+git-verify-commit - Check the GPG signature of commits
+git-verify-pack - Validate packed Git archive files
+git-verify-tag - Check the GPG signature of tags
+git-version - Display version information about Git
+gitweb - Git web interface (web frontend to Git repositories)
+git-web--browse - Git helper script to launch a web browser
+git-whatchanged - Show logs with difference each commit introduces
+git-worktree - Manage multiple working trees
+git-write-tree - Create a tree object from the current index
+glib-compile-resources - GLib resource compiler
+glib-compile-schemas - GSettings schema compiler
+glib-genmarshal - C code marshaller generation utility for GLib closures
+glib-gettextize - gettext internationalization utility
+glib-mkenums - C language enum description generation utility
+glilypond - embed LilyPond musical notation in groff documents
+`glslc` - A command-line GLSL/HLSL to SPIR-V compiler with Clang-compatible arguments.
+gml2gv - GML-DOT converters
+gv2gml - GML-DOT converters
+gnome-keyring - The gnome-keyring commandline tool
+gnome-keyring-daemon - The gnome-keyring daemon
+fB-Font]gnutls-cli - GnuTLS client
+fB-Font]gnutls-cli-debug - GnuTLS debug client
+fB-Font]gnutls-serv - GnuTLS server
+gobject-query - display a tree of types
+google-chrome - the web browser from Google
+gpasswd - administer /etc/group and /etc/gshadow
+gperl - execute Perl commands in groff documents
+gpg - OpenPGP encryption and signing tool
+gpg-agent - Secret key management for GnuPG
+gpg-check-pattern - Check a passphrase on stdin against the patternfile
+gpgconf - Modify .gnupg home directories
+gpg-connect-agent - Communicate with a running agent
+gpgparsemail - Parse a mail message into an annotated format
+gpg-preset-passphrase - Put a passphrase into gpg-agent's cache
+gpgrt-config - Helper script to get information about the installed version of gpg libraries
+gpgsm - CMS encryption and signing tool
+gpgtar - Encrypt or sign files into an archive
+gpgv - Verify OpenPGP signatures
+gpg-wks-client - Client for the Web Key Service
+gpg-wks-server - Server providing the Web Key Service
+gpinyin - use Hanyu Pinyin Chinese in groff documents
+gpm-root - a default handler for gpm, used to draw menus on the root window
+gprof - display call graph profile data
+gprofng - GNU gprofng
+grap2graph - convert a grap diagram into a cropped image
+graphml2gv - GRAPHML-DOT converter
+grep - print lines that match patterns
+gresource - GResource tool
+grn - embed Gremlin images in groff documents
+grodvi - groff output driver for TeX DVI format
+groff - front end to the GNU roff document formatting system
+grog - “groff guess”-infer the groff command a document requires
+grohtml - groff output driver for HTML
+post-grohtml - groff output driver for HTML
+pre-grohtml - groff output driver for HTML
+grolbp - groff output driver for Canon CaPSL printers
+grolj4 - groff output driver for HP LaserJet 4 and compatible printers
+gropdf - groff output driver for Portable Document Format
+grops - groff output driver for PostScript
+grotty - groff output driver for typewriter-like (terminal) devices
+groups - display current group names
+grub-editenv - edit GRUB environment block
+grub-file - check file type
+grub-fstest - debug tool for GRUB filesystem drivers
+grub-glue-efi - generate a fat binary for EFI
+grub-kbdcomp - generate a GRUB keyboard layout file
+grub-menulst2cfg - transform legacy menu.lst into grub.cfg
+grub-mkfont - make GRUB font files
+grub-mkimage - make a bootable image of GRUB
+grub-mklayout - generate a GRUB keyboard layout file
+grub-mknetdir - prepare a GRUB netboot directory.
+grub-mkpasswd-pbkdf2 - generate hashed password for GRUB
+grub-mkrelpath - make a system path relative to its root
+grub-mkrescue - make a GRUB rescue image
+grub-mkstandalone - make a memdisk-based GRUB image
+grub-mount - export GRUB filesystem with FUSE
+grub-render-label - generate a .disk_label for Apple Macs.
+grub-script-check - check grub.cfg for syntax errors
+grub-syslinux2cfg - transform syslinux config into grub.cfg
+gs - Ghostscript (PostScript and PDF language interpreter and previewer)
+gsasl - SASL library command line interface
+gsettings - GSettings configuration tool
+gslp - Format and print text using ghostscript
+gsbj - Format and print text for BubbleJet printer using ghostscript
+gsdj - Format and print text for DeskJet printer using ghostscript
+gsdj500 - Format and print text for DeskJet 500 BubbleJet using ghostscript
+gslj - Format and print text for LaserJet printer using ghostscript
+gsnd - Run ghostscript (PostScript and PDF engine) without display
+gst-device-monitor-1.0 - Simple command line testing tool for GStreamer device monitors
+gst-discoverer-1.0 - Display file metadata and stream information
+gst-inspect-1.0 - print info about a GStreamer plugin or element
+gst-launch-1.0 - build and run a GStreamer pipeline
+gst-play-1.0 - Simple command line playback testing tool
+gst-stats-1.0 - print info gathered from a GStreamer log file
+gst-typefind-1.0 - print Media type of file
+gtester - test running utility
+gtester-report - test report formatting utility
+gtf - calculate VESA GTF mode lines
+gtk4-update-icon-cache - Icon theme caching utility
+gtk-builder-tool - GtkBuilder file utility
+gtk-encode-symbolic-svg - Symbolic icon conversion utility
+gtk-launch - Launch an application
+gtk-query-immodules-3.0 - Input method module registration utility
+gtk-query-settings - Utility to print name and value of all GtkSettings properties
+gts2dxf - converts a GTS file to DXF format.
+gts2oogl - converts a GTS file to OOGL file format (Geomview).
+gts2stl - converts a GTS file to STL format
+gtscheck - checks that a surface defines a closed, orientable non self-intersecting manifold.
+gtscompare - compare two GTS files.
+gts-config - defines values for programs using gts.
+gtstemplate - generates of a template used to create new object classes.
+guile - The GNU Project Extension Language
+gvcolor - flow colors through a ranked digraph
+gvedit - simple graph editor and viewer
+gvgen - generate graphs
+gvmap - find clusters and create a geographical map highlighting clusters.
+gvmap.sh - pipeline for running gvmap
+gvpack - merge and pack disjoint graphs
+gvpr - graph pattern scanning and processing language
+gxditview - display groff intermediate output files in X11
+gxl2gv - GXL-GV converters
+gv2gxl - GXL-GV converters
+gzexe - compress executable files in place
+gzip - compress or expand files
+gunzip - compress or expand files
+zcat - compress or expand files
+h2ph - convert .h C header files to .ph Perl header files
+h2xs - convert .h C header files to Perl extensions
+happrox - returns a simplified triangulation of a set of points using algorithm III of Garland and Heckbert (1995).
+hardlink - link multiple copies of a file
+head - output the first part of files
+heif-convert - convert HEIC/HEIF image
+heif-enc - convert image to HEIC/HEIF
+heif-info - show information on HEIC/HEIF file
+heif-thumbnailer - create thumbnails from HEIC/HEIF files
+hexdump - display file contents in hexadecimal, decimal, octal, or ascii
+hmac256 - Compute an HMAC-SHA-256 MAC
+hostid - print the numeric identifier for the current host
+hpftodit - create font description files for use with groff and grolj4
+htop - interactive process viewer
+pcp-htop - interactive process viewer
+hwloc-annotate - Modify attributes in a XML topology
+hwloc-bind - Launch a command that is bound to specific processors and/or memory, or consult the binding of an existing program
+hwloc-calc - Operate on cpu mask strings and objects
+hwloc-compress-dir - Compress a directory of XML topologies
+hwloc-diff - Compute differences between two XML topologies
+hwloc-distrib - Build a number of cpu masks distributed on the system
+hwloc-dump-hwdata - Dump topology and locality information from hardware tables
+hwloc-gather-cpuid - Dumps the relevant x86 cpuid values for later (possibly offline) usage
+hwloc-gather-topology - Saves the relevant Linux and x86 topology files and the lstopo textual and XML outputs for later (possibly offline) usage
+hwloc-info - Show some information about some objects or about a topology or about support features
+hwloc-patch - Apply a topology difference to an existing XML topology
+hwloc-ps - List currently-running processes or threads that are bound
+icu-config - output ICU build options
+icuexportdata - Writes text files with Unicode properties data from ICU.
+id - print real and effective user and group IDs
+idn - Internationalized Domain Names command line tool
+idn2 - Libidn2 Internationalized Domain Names conversion tool
+ifdata - get network interface info without parsing ifconfig output
+ifnames - Extract CPP conditionals from a set of files
+ifne - Run command if the standard input is not empty
+ijs-config - script to get information about the installed version of ijs
+img2txt - convert images to various text-based coloured files
+img2webp - create animated WebP file from a sequence of input images.
+indxbib - make inverted index for bibliographic databases
+info - read Info documents
+infocmp - compare or print out terminfo descriptions
+infotocap - convert a terminfo description into a termcap description
+install - copy files and set attributes
+install-info - update info/dir entries
+instmodsh - A shell to examine installed modules
+ionice - set or get process I/O scheduling class and priority
+ipcmk - make various IPC resources
+ipcrm - remove certain IPC resources
+ipcs - show information on IPC facilities
+iptables-xml - Convert iptables-save format to XML
+ir-ctl - a swiss-knife tool to handle raw IR and to set lirc options
+ir-keytable - a swiss-knife tool to handle Remote Controllers.
+irqtop - utility to display kernel interrupt information
+iso-info - shows Information about an ISO 9660 image
+iso-read - reads portions of an ISO 9660 image
+isotest - ISO testing
+isutf8 - check whether files are valid UTF-8
+jackd - JACK Audio Connection Kit sound server
+jbig2dec - File format converter specialized in JBIG2 decoding
+join - join lines of two files on a common field
+jpegtran - lossless transformation of JPEG files
+jpgicc - little cms ICC profile applier for JPEG.
+json-glib-format - JSON-GLib formatting tool
+json-glib-validate - JSON-GLib validation tool
+json_pp - JSON::PP command utility
+k5srvutil - host key table (keytab) manipulation utility
+kadmin - Kerberos V5 database administration program
+kbdinfo - read information about keyboard state
+kbd_mode - report or set the keyboard mode
+kccachetest - command line interface to test the cache hash database
+kcdirmgr - command line interface to manage the directory hash database
+kcdirtest - command line interface to test the directory hash database
+kcforestmgr - command line interface to manage the directory tree database
+kcforesttest - command line interface to test the directory tree database
+kcgrasstest - command line interface to test the cache tree database
+kchashmgr - command line interface to manage the file hash database
+kchashtest - command line interface to test the file hash database
+kclangctest - command line interface to test the C language binding
+kcpolymgr - command line interface to manage the polymorphic database
+kcpolytest - command line interface to test the polymorphic database
+kcprototest - command line interface to test the prototype database
+kcstashtest - command line interface to test the stash database
+kctreemgr - command line interface to manage the file tree database
+kctreetest - command line interface to test the file tree database
+kcutilmgr - command line interface of miscellaneous utilities
+kcutiltest - command line interface to test the utility functions
+kdestroy - destroy Kerberos tickets
+keyctl - key management facility control
+kill - terminate a process
+killall - kill processes by name
+kinit - obtain and cache Kerberos ticket-granting ticket
+klist - list cached Kerberos tickets
+kpasswd - change a user's Kerberos password
+krb5-config - tool for linking against MIT Kerberos libraries
+ksu - Kerberized super-user
+kswitch - switch primary ticket cache
+ktutil - Kerberos keytab file maintenance utility
+kvno - print key version numbers of Kerberos principals
+l2ping - Send L2CAP echo request and receive answer
+lame - create mp3 audio files
+last - show a listing of last logged in users
+lastb - show a listing of last logged in users
+lckdo - run a program with a lock held
+ld - The GNU linker
+ldns-chaos - give some information about a nameserver
+ldns-compare-zones - read and compare two zonefiles and print differences
+ldns-config - show compiler and linker flags for ldns usage.
+ldnsd - simple daemon example code
+ldns-dane - verify or create TLS authentication with DANE (RFC6698)
+dpa - DNS Packet Analyzer. Analyze DNS packets in ip trace files
+ldns-gen-zone - read a zonefile and print it while adding DS records and extra RR's
+ldns-key2ds - transform a DNSKEY RR to a DS RR
+ldns-keyfetcher - retrieve the DNSSEC DNSKEYs for a zone
+ldns-keygen - generate a DNSSEC key pair
+ldns-mx - print out the mx record(s) for a domain
+ldns-notify - notify DNS servers that updates are available
+ldns-nsec3-hash - print out the NSEC3 hash for a domain name
+ldns-read-zone - read a zonefile and print it
+ldns-resolver - tries to create a resolver from a resolv.conf file.
+ldns-revoke - sets the revoke bit of a DNSKEY
+ldns-rrsig - print out the inception and expiration dates in human readable form
+ldns-signzone - sign a zonefile with DNSSEC data
+ldns-test-edns - test if dns cache supports EDNS and DNSSEC.
+ldns-testns - simple fake nameserver tool
+ldns-update - send a dynamic update packet
+ldns-verify-zone - read a DNSSEC signed zone and verify it.
+ldns-version - print out the version of the ldns-library and tools on this system
+ldns-walk - Retrieve the contents of a DNSSEC signed zone
+ldns-zcat - reunite (z)split up a zone files
+ldns-zsplit - split up a zone file
+less - opposite of more
+lessecho - expand metacharacters
+lesskey - customize key bindings for less
+lexgrog - parse header information in man pages
+lf - terminal file manager
+libevdev-tweak-device - modify an evdev kernel device
+libinput - tool to interface with libinput
+libinput-analyze - analyze device data
+libinput-analyze-per-slot-delta - analyze the per-event delta movement for touch slots
+libinput-analyze-recording - analyze a device recording
+libinput-analyze-touch-down-state - analyze the touch states
+libinput-debug-events - debug helper for libinput
+libinput-debug-gui - visual debug helper for libinput
+libinput-debug-tablet - debug and visualize tablet axes
+libinput-list-devices - list local devices as recognized by libinput and default values of their configuration
+libinput-list-kernel-devices - list all kernel input devices
+libinput-measure - measure properties of devices
+libinput-measure-fuzz - measure absolute axis fuzz
+libinput-measure-touchpad-pressure - measure pressure properties of devices
+libinput-measure-touchpad-size - measure the size of a touchpad
+libinput-measure-touchpad-tap - measure tap-to-click properties of devices
+libinput-measure-touch-size - measure touch size and orientation of devices
+libinput-quirks - quirk debug helper for libinput
+libinput-quirks - quirk debug helper for libinput
+libinput-quirks - quirk debug helper for libinput
+libinput-record - record kernel events
+libinput-replay - replay kernel events from a recording
+libinput-test - test various components of libinput itself
+libinput-test-suite - run the libinput test suite
+libmikmod-config - script to get information about the installed version of libmikmod.
+libnetcfg - configure libnet
+libtool - manual page for libtool 2.4.7.4-1ec8f-dirty
+libtoolize - manual page for libtoolize 2.4.7.4-1ec8f-dirty
+libuv - libuv documentation
+libwacom-list-devices - utility to list supported tablet devices
+libwacom-list-local-devices - utility to list tablet devices
+link - call the link function to create a link to a file
+linkicc - little cms device link generator.
+lkbib - search bibliographic databases
+ln - make links between files
+loadkeys - load keyboard translation tables
+logger - enter messages into the system log
+login - begin session on the system
+loginctl - Control the elogind login manager
+logname - print user's login name
+look - display lines beginning with a given string
+lookbib - search bibliographic databases
+ls - list directory contents
+lsattr - list file attributes on a Linux second extended file system
+lscpu - display information about the CPU architecture
+lsfd - list file descriptors
+lsinitcpio - Examine an initramfs
+lsipc - show information on IPC facilities currently employed in the system
+lsirq - utility to display kernel interrupt information
+lslogins - display information about known users in the system
+lsmem - list the ranges of available memory with their online status
+lstopo - Show the topology of the system
+lstopo-no-graphics - Show the topology of the system
+hwloc-ls - Show the topology of the system
+lua - Lua interpreter
+lua - Lua interpreter
+luac - Lua compiler
+luac - Lua compiler
+luajit - Just-In-Time Compiler for the Lua Language
+lv2apply - apply an LV2 plugin to an audio file
+lv2bench - benchmark all installed and supported LV2 plugins
+lv2info - print information about an installed LV2 plugin
+lv2ls - list all installed LV2 plugins
+lynx - a general purpose distributed information browser for the World Wide Web
+lz4 - lz4, unlz4, lz4cat - Compress or decompress .lz4 files
+lzmainfo - show information stored in the .lzma file header
+m4 - macro processor
+mailsync - sync mail accounts set up with mw.
+maim - make image
+make - GNU Make utility to maintain groups of programs
+makeconv - compile a converter table
+texi2any - translate Texinfo documents
+makepkg-template - package build templating utility
+man - an interface to the system reference manuals
+manconv - convert manual page from one encoding to another
+manpath - determine search path for manual pages
+man-recode - convert manual pages to another encoding
+mbsync - synchronize IMAP4 and Maildir mailboxes
+mcookie - generate magic cookies for xauth
+md2html - convert Markdown to HTML
+md5sum - compute and check MD5 message digest
+mdb_copy - LMDB environment copy tool
+mdb_dump - LMDB environment export tool
+mdb_load - LMDB environment import tool
+mdb_stat - LMDB environment status tool
+mdconvert - Maildir mailbox UID storage scheme converter
+mesg - display (or do not display) messages from other users
+metaflac - program to list, add, remove, or edit metadata in one or more FLAC files.
+mev - a program to report mouse events
+mispipe - pipe two commands, returning the exit status of the first
+mk_cmds - error table compiler
+mkdir - make directories
+mkfifo - make FIFOs (named pipes)
+mknod - make block or character special files
+mkrfc2734 - Make Linux 2.4 IP over IEEE 1394 capable.
+mktemp - create a temporary file or directory
+mm2gv - Matrix Market-DOT converters
+mmroff - cross-referencing front end for GNU roff mm macro package
+modutil - Manage PKCS #11 module information within the security module database.
+more - display the contents of a file in a terminal
+mountpoint - see if a directory or file is a mountpoint
+mouse-dpi-tool - mouse resolution estimation tool
+mouse-test - a tool for determining mouse type and device it's attached to.
+mpc - mpc Documentation
+mpd - MPD documentation
+mpg123 - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+mpic++ - Open MPI C++ wrapper compiler
+mpicc - Open MPI C wrapper compiler
+mpicxx - Open MPI C++ wrapper compiler
+orterun - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+mpirun - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+mpiexec - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+mpif77 - Deprecated Open MPI Fortran wrapper compilers
+mpif90 - Deprecated Open MPI Fortran wrapper compilers
+mpif77 - Deprecated Open MPI Fortran wrapper compilers
+mpif90 - Deprecated Open MPI Fortran wrapper compilers
+mpifort - Open MPI Fortran wrapper compiler
+orterun - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+mpirun - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+mpiexec - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+mpv - a media player
+msgattrib - attribute matching and manipulation on message catalog
+msgcat - combines several message catalogs
+msgcmp - compare message catalog and template
+msgcomm - match two message catalogs
+msgconv - character set conversion for message catalog
+msgen - create English message catalog
+msgexec - process translations of message catalog
+msgfilter - edit translations of message catalog
+msgfmt - compile message catalog to binary format
+msggrep - pattern matching on message catalog
+msginit - initialize a message catalog
+msgmerge - merge message catalog and template
+msgunfmt - uncompile message catalog from binary format
+msguniq - unify duplicate translations in message catalog
+msmtp - An SMTP client
+msmtpd - A minimal SMTP server
+mv - move (rename) files
+mw - mutt-wizard - autoconfigure email accounts for neomutt and isync
+namei - follow a pathname until a terminal point is found
+nano - Nano's ANOther editor, inspired by Pico
+ncmpcpp - An ncurses Music Player Daemon (MPD) client.
+ncursesw6-config - helper script for ncurses libraries
+neomutt - The NeoMutt Mail User Agent (MUA)
+neqn - format equations for character-cell terminal output
+newgidmap - set the gid mapping of a user namespace
+newgrp - log in to a new group
+newsboat - an RSS/Atom feed reader for text terminals
+newuidmap - set the uid mapping of a user namespace
+nfs-cat - Utility to read a file off NFS
+nfs-cp - Utility to copy files to/from and NFS server
+nfs-ls - Utility to list NFS servers, exports and directories
+ngettext - translate message and choose plural form
+nice - run a program with modified scheduling priority
+nl - number lines of files
+nm - list symbols from object files
+nmbug - manage notmuch bugs with git
+nmcli - command-line tool for controlling NetworkManager
+nm-online - ask NetworkManager whether the network is connected
+nmtui - Text User Interface for controlling NetworkManager
+nohup - run a command immune to hangups, with output to a non-tty
+nop - pretty-print graph file
+notify-send - a program to send desktop notifications
+notmuch - thread-based email index, search, and tagging
+notmuch-address - output addresses from matching messages
+notmuch-compact - compact the notmuch database
+notmuch-config - access notmuch configuration file
+notmuch-count - count messages matching the given search terms
+notmuch-dump - creates a plain-text dump of the tags of each message
+notmuch-emacs-mua - send mail with notmuch and emacs
+notmuch-git - manage notmuch tags with git
+notmuch-insert - add a message to the maildir and notmuch database
+notmuch-new - incorporate new mail into the notmuch database
+notmuch-reindex - re-index matching messages
+notmuch-reply - constructs a reply template for a set of messages
+notmuch-restore - restores the tags from the given file (see notmuch dump)
+notmuch-search - search for messages matching the given search terms
+notmuch-setup - getting started with notmuch
+notmuch-show - show messages matching the given search terms
+notmuch-tag - add/remove tags for all messages matching the search terms
+nproc - print the number of processing units available
+nroff - format documents with groff for TTY (terminal) devices
+nsenter - run program in different namespaces
+nsxiv - Neo Simple X Image Viewer
+fB-Font]ntpd - NTP daemon program
+fB-Font]ntpdc - vendor-specific NTPD control program
+fB-Font]ntp-keygen - Create a NTP host key
+fB-Font]ntpq - standard NTP query program
+fB-Font]ntptrace - Trace peers of an NTP server
+fB-Font]ntp-wait - Wait for ntpd to stabilize the system clock
+numfmt - Convert numbers from/to human-readable strings
+nvim - edit text
+objcopy - copy and translate object files
+objdump - display information from object files
+fB-Font]ocsptool - GnuTLS OCSP tool
+od - dump files in octal and other formats
+orte-clean - Cleans up any stale processes and files leftover from Open MPI jobs.
+ompi_info - Display information about the Open MPI installation
+ompi-server - Server for supporting name publish/lookup operations.
+omxregister-bellagio - register OpenMAX/Bellagio components
+opal_wrapper - Back-end Open MPI wrapper command
+openmpt123 - command line module music player based on libopenmpt
+openssl - OpenSSL command line program
+openssl-asn1parse - ASN.1 parsing command
+openssl-ca - sample minimal CA application
+openssl-ciphers - SSL cipher display and cipher list command
+asn1parse - OpenSSL application commands
+ca - OpenSSL application commands
+ciphers - OpenSSL application commands
+cmp - OpenSSL application commands
+cms - OpenSSL application commands
+crl - OpenSSL application commands
+crl2pkcs7 - OpenSSL application commands
+dgst - OpenSSL application commands
+dhparam - OpenSSL application commands
+dsa - OpenSSL application commands
+dsaparam - OpenSSL application commands
+ec - OpenSSL application commands
+ecparam - OpenSSL application commands
+enc - OpenSSL application commands
+engine - OpenSSL application commands
+errstr - OpenSSL application commands
+gendsa - OpenSSL application commands
+genpkey - OpenSSL application commands
+genrsa - OpenSSL application commands
+info - OpenSSL application commands
+kdf - OpenSSL application commands
+mac - OpenSSL application commands
+nseq - OpenSSL application commands
+ocsp - OpenSSL application commands
+passwd - OpenSSL application commands
+pkcs12 - OpenSSL application commands
+pkcs7 - OpenSSL application commands
+pkcs8 - OpenSSL application commands
+pkey - OpenSSL application commands
+pkeyparam - OpenSSL application commands
+pkeyutl - OpenSSL application commands
+prime - OpenSSL application commands
+rand - OpenSSL application commands
+rehash - OpenSSL application commands
+req - OpenSSL application commands
+rsa - OpenSSL application commands
+rsautl - OpenSSL application commands
+s_client - OpenSSL application commands
+s_server - OpenSSL application commands
+s_time - OpenSSL application commands
+sess_id - OpenSSL application commands
+smime - OpenSSL application commands
+speed - OpenSSL application commands
+spkac - OpenSSL application commands
+srp - OpenSSL application commands
+storeutl - OpenSSL application commands
+ts - OpenSSL application commands
+verify - OpenSSL application commands
+version - OpenSSL application commands
+x509 - OpenSSL application commands
+openssl-cmp - Certificate Management Protocol (CMP, RFC 4210) application
+openssl-cms - CMS command
+openssl-crl - CRL command
+openssl-crl2pkcs7 - Create a PKCS#7 structure from a CRL and certificates
+openssl-dgst - perform digest operations
+openssl-dhparam - DH parameter manipulation and generation
+openssl-dsa - DSA key processing
+openssl-dsaparam - DSA parameter manipulation and generation
+openssl-ec - EC key processing
+openssl-ecparam - EC parameter manipulation and generation
+openssl-enc - symmetric cipher routines
+openssl-engine - load and query engines
+openssl-errstr - lookup error codes
+openssl-fipsinstall - perform FIPS configuration installation
+openssl-format-options - OpenSSL command input and output format options
+openssl-gendsa - generate a DSA private key from a set of parameters
+openssl-genpkey - generate a private key
+openssl-genrsa - generate an RSA private key
+openssl-info - print OpenSSL built-in information
+openssl-kdf - perform Key Derivation Function operations
+openssl-list - list algorithms and features
+openssl-mac - perform Message Authentication Code operations
+openssl-namedisplay-options - Distinguished name display options
+openssl-nseq - create or examine a Netscape certificate sequence
+openssl-ocsp - Online Certificate Status Protocol command
+openssl-passphrase-options - Pass phrase options
+openssl-passwd - compute password hashes
+openssl-pkcs12 - PKCS#12 file command
+openssl-pkcs7 - PKCS#7 command
+openssl-pkcs8 - PKCS#8 format private key conversion command
+openssl-pkey - public or private key processing command
+openssl-pkeyparam - public key algorithm parameter processing command
+openssl-pkeyutl - public key algorithm command
+openssl-prime - compute prime numbers
+openssl-rand - generate pseudo-random bytes
+openssl-rehash - Create symbolic links to files named by the hash values
+c_rehash - Create symbolic links to files named by the hash values
+openssl-req - PKCS#10 certificate request and certificate generating command
+openssl-rsa - RSA key processing command
+openssl-rsautl - RSA command
+openssl-s_client - SSL/TLS client program
+openssl-sess_id - SSL/TLS session handling command
+openssl-smime - S/MIME command
+openssl-speed - test library performance
+openssl-spkac - SPKAC printing and generating command
+openssl-srp - maintain SRP password file
+openssl-s_server - SSL/TLS server program
+openssl-s_time - SSL/TLS performance timing program
+openssl-storeutl - STORE command
+openssl-ts - Time Stamping Authority command
+openssl-verification-options - generic X.509 certificate verification options
+openssl-verify - certificate verification command
+openssl-version - print OpenSSL version information
+openssl-x509 - Certificate display and signing command
+openvt - start a program on a new virtual terminal (VT).
+opj_compress - This program reads in an image of a certain type and converts it to a jpeg2000 file. It is part of the OpenJPEG library.
+opj_decompress - This program reads in a jpeg2000 image and converts it to another image type. It is part of the OpenJPEG library.
+opj_dump - This program reads in a jpeg2000 image and dumps the contents to stdout. It is part of the OpenJPEG library.
+orte-clean - Cleans up any stale processes and files leftover from Open MPI jobs.
+orted - Start an Open RTE User-Level Daemon
+orte-info - Display information about the ORTE installation
+orterun - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+mpirun - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+mpiexec - Execute serial and parallel jobs in Open MPI. oshrun, shmemrun - Execute serial and parallel jobs in Open SHMEM.
+ompi-server - Server for supporting name publish/lookup operations.
+osage - filter for drawing clustered graphs
+out123 - send raw PCM audio or a waveform pattern to an output device
+fB-Font]p11tool - GnuTLS PKCS #11 tool
+pacat - Play back or record raw or encoded audio streams on a PulseAudio sound server
+pactl - Control a running PulseAudio sound server
+padsp - PulseAudio OSS Wrapper
+pal2rgb - convert a palette color TIFF image to a full color image
+panelctl - manual page for panelctl 0.2
+pango-view - "Pango text viewer"
+paper - print paper size information
+parallel - run programs in parallel
+pass - stores, retrieves, generates, and synchronizes passwords securely
+passwd - change user password
+paste - merge lines of files
+patch - apply a diff file to an original
+patchwork - filter for drawing clustered graphs as treemaps
+pathchk - check whether file names are valid or portable
+pause - don't exit, efficiently
+pcap-config - write libpcap compiler and linker flags to standard output
+pcre2-config - program to return PCRE2 configuration
+pcre2grep - a grep with Perl-compatible regular expressions.
+pcre2test - a program for testing Perl-compatible regular expressions.
+pcre-config - program to return PCRE configuration
+pcregrep - a grep with Perl-compatible regular expressions.
+pcretest - a program for testing Perl-compatible regular expressions.
+pcsc-spy - A PC/SC spy command
+pdf2dsc - generate a PostScript page list of a PDF document
+pdf2ps - Ghostscript PDF to PostScript translator
+pdfattach - Portable Document Format (PDF) document embedded file creator (version 3.03)
+pdfdetach - Portable Document Format (PDF) document embedded file extractor (version 3.03)
+pdffonts - Portable Document Format (PDF) font analyzer (version 3.03)
+pdfimages - Portable Document Format (PDF) image extractor (version 3.03)
+pdfinfo - Portable Document Format (PDF) document information extractor (version 3.03)
+pdfmom - produce PDF documents using the mom macro package for groff
+pdfroff - construct files in Portable Document Format using groff
+pdfseparate - Portable Document Format (PDF) page extractor
+pdfsig - Portable Document Format (PDF) digital signatures tool
+pdftocairo - Portable Document Format (PDF) to PNG/JPEG/TIFF/PDF/PS/EPS/SVG using cairo
+pdftohtml - program to convert PDF files into HTML, XML and PNG images
+pdftoppm - Portable Document Format (PDF) to Portable Pixmap (PPM) converter (version 3.03)
+pdftops - Portable Document Format (PDF) to PostScript converter (version 3.03)
+pdftotext - Portable Document Format (PDF) to text converter (version 3.03)
+pdfunite - Portable Document Format (PDF) page merger
+pee - tee standard input to pipes
+peekfd - peek at file descriptors of running processes
+perl - The Perl 5 language interpreter
+perl5004delta - what's new for perl5.004
+perl5005delta - what's new for perl5.005
+perl5100delta - what is new for perl 5.10.0
+perl5101delta - what is new for perl v5.10.1
+perl5120delta - what is new for perl v5.12.0
+perl5121delta - what is new for perl v5.12.1
+perl5122delta - what is new for perl v5.12.2
+perl5123delta - what is new for perl v5.12.3
+perl5124delta - what is new for perl v5.12.4
+perl5125delta - what is new for perl v5.12.5
+perl5140delta - what is new for perl v5.14.0
+perl5141delta - what is new for perl v5.14.1
+perl5142delta - what is new for perl v5.14.2
+perl5143delta - what is new for perl v5.14.3
+perl5144delta - what is new for perl v5.14.4
+perl5160delta - what is new for perl v5.16.0
+perl5161delta - what is new for perl v5.16.1
+perl5162delta - what is new for perl v5.16.2
+perl5163delta - what is new for perl v5.16.3
+perl5180delta - what is new for perl v5.18.0
+perl5181delta - what is new for perl v5.18.1
+perl5182delta - what is new for perl v5.18.2
+perl5184delta - what is new for perl v5.18.4
+perl5200delta - what is new for perl v5.20.0
+perl5201delta - what is new for perl v5.20.1
+perl5202delta - what is new for perl v5.20.2
+perl5203delta - what is new for perl v5.20.3
+perl5220delta - what is new for perl v5.22.0
+perl5221delta - what is new for perl v5.22.1
+perl5222delta - what is new for perl v5.22.2
+perl5223delta - what is new for perl v5.22.3
+perl5224delta - what is new for perl v5.22.4
+perl5240delta - what is new for perl v5.24.0
+perl5241delta - what is new for perl v5.24.1
+perl5242delta - what is new for perl v5.24.2
+perl5243delta - what is new for perl v5.24.3
+perl5244delta - what is new for perl v5.24.4
+perl5260delta - what is new for perl v5.26.0
+perl5261delta - what is new for perl v5.26.1
+perl5262delta - what is new for perl v5.26.2
+perl5263delta - what is new for perl v5.26.3
+perl5280delta - what is new for perl v5.28.0
+perl5281delta - what is new for perl v5.28.1
+perl5282delta - what is new for perl v5.28.2
+perl5283delta - what is new for perl v5.28.3
+perl5300delta - what is new for perl v5.30.0
+perl5301delta - what is new for perl v5.30.1
+perl5302delta - what is new for perl v5.30.2
+perl5303delta - what is new for perl v5.30.3
+perl5320delta - what is new for perl v5.32.0
+perl5321delta - what is new for perl v5.32.1
+perl5340delta - what is new for perl v5.34.0
+perl5341delta - what is new for perl v5.34.1
+perl5360delta - what is new for perl v5.36.0
+perldelta - what is new for perl v5.36.1
+perl561delta - what's new for perl v5.6.1
+perl56delta - what's new for perl v5.6.0
+perl581delta - what is new for perl v5.8.1
+perl582delta - what is new for perl v5.8.2
+perl583delta - what is new for perl v5.8.3
+perl584delta - what is new for perl v5.8.4
+perl585delta - what is new for perl v5.8.5
+perl586delta - what is new for perl v5.8.6
+perl587delta - what is new for perl v5.8.7
+perl588delta - what is new for perl v5.8.8
+perl589delta - what is new for perl v5.8.9
+perl58delta - what is new for perl v5.8.0
+perlaix - Perl version 5 on IBM AIX (UNIX) systems
+perlamiga - Perl under AmigaOS 4.1
+perlandroid - Perl under Android
+perlapi - autogenerated documentation for the perl public API
+perlapio - perl's IO abstraction interface.
+perlartistic - the Perl Artistic License
+perlbook - Books about and related to Perl
+perlboot - Links to information on object-oriented programming in Perl
+perlbot - Links to information on object-oriented programming in Perl
+perlbs2000 - building and installing Perl for BS2000.
+perlbug - how to submit bug reports on Perl
+perlcall - Perl calling conventions from C
+perlcheat - Perl 5 Cheat Sheet
+perlclib - Internal replacements for standard C library functions
+perlcn - XXXX Perl XX
+perlcommunity - a brief overview of the Perl community
+perlcygwin - Perl for Cygwin
+perldata - Perl data types
+perldbmfilter - Perl DBM Filters
+perldebguts - Guts of Perl debugging
+perldebtut - Perl debugging tutorial
+perldebug - Perl debugging
+perldelta - what is new for perl v5.36.1
+perldeprecation - list Perl deprecations
+perldiag - various Perl diagnostics
+perldoc - Look up Perl documentation in Pod format.
+perldocstyle - A style guide for writing Perl's documentation
+perldsc - Perl Data Structures Cookbook
+perldtrace - Perl's support for DTrace
+perlebcdic - Considerations for running Perl on EBCDIC platforms
+perlembed - how to embed perl in your C program
+perlexperiment - A listing of experimental features in Perl
+perlfaq1 - General Questions About Perl
+perlfaq - Frequently asked questions about Perl
+perlfaq2 - Obtaining and Learning about Perl
+perlfaq3 - Programming Tools
+perlfaq4 - Data Manipulation
+perlfaq5 - Files and Formats
+perlfaq6 - Regular Expressions
+perlfaq7 - General Perl Language Issues
+perlfaq8 - System Interaction
+perlfaq9 - Web, Email and Networking
+perlfilter - Source Filters
+perlfork - Perl's fork() emulation
+perlform - Perl formats
+perlfreebsd - Perl version 5 on FreeBSD systems
+perlfunc - Perl builtin functions
+perlgit - Detailed information about git and the Perl repository
+perlglossary - Perl Glossary
+perlgov - Perl Rules of Governance
+perlgpl - the GNU General Public License, version 1
+perlguts - Introduction to the Perl API
+perlhack - How to hack on Perl
+perlhacktips - Tips for Perl core C code hacking
+perlhacktut - Walk through the creation of a simple C code patch
+perlhaiku - Perl version 5.10+ on Haiku
+perlhist - the Perl history records
+perlhpux - Perl version 5 on Hewlett-Packard Unix (HP-UX) systems
+perlhurd - Perl version 5 on Hurd
+perlintern - autogenerated documentation of purely internal Perl functions
+perlinterp - An overview of the Perl interpreter
+perlintro - a brief introduction and overview of Perl
+perliol - C API for Perl's implementation of IO in Layers.
+perlipc - Perl interprocess communication (signals, fifos, pipes, safe subprocesses, sockets, and semaphores)
+perlirix - Perl version 5 on Irix systems
+perlivp - Perl Installation Verification Procedure
+perljp - XXX Perl XXX
+perlko - XXX Perl XXX
+perllexwarn - Perl Lexical Warnings
+perllinux - Perl version 5 on Linux systems
+perllocale - Perl locale handling (internationalization and localization)
+perllol - Manipulating Arrays of Arrays in Perl
+perlmacosx - Perl under Mac OS X
+perlmod - Perl modules (packages and symbol tables)
+perlmodinstall - Installing CPAN Modules
+perlmodlib - constructing new Perl modules and finding existing ones
+perlmodstyle - Perl module style guide
+perlmroapi - Perl method resolution plugin interface
+perlnewmod - preparing a new module for distribution
+perlnumber - semantics of numbers and numeric operations in Perl
+perlobj - Perl object reference
+perlootut - Object-Oriented Programming in Perl Tutorial
+perlop - Perl operators and precedence
+perlopenbsd - Perl version 5 on OpenBSD systems
+perlopentut - simple recipes for opening files and pipes in Perl
+perlos2 - Perl under OS/2, DOS, Win0.3*, Win0.95 and WinNT.
+perlos390 - building and installing Perl for z/OS (previously called OS/390)
+perlos400 - Perl version 5 on OS/400
+perlpacktut - tutorial on "pack" and "unpack"
+perlperf - Perl Performance and Optimization Techniques
+perlplan9 - Plan 9-specific documentation for Perl
+perlpod - the Plain Old Documentation format
+perlpodspec - Plain Old Documentation: format specification and notes
+perlpodstyle - Perl POD style guide
+perlpolicy - Various and sundry policies and commitments related to the Perl core
+perlport - Writing portable Perl
+perlpragma - how to write a user pragma
+perlqnx - Perl version 5 on QNX
+perlre - Perl regular expressions
+perlreapi - Perl regular expression plugin interface
+perlrebackslash - Perl Regular Expression Backslash Sequences and Escapes
+perlrecharclass - Perl Regular Expression Character Classes
+perlref - Perl references and nested data structures
+perlreftut - Mark's very short tutorial about references
+perlreguts - Description of the Perl regular expression engine.
+perlrepository - Links to current information on the Perl source repository
+perlrequick - Perl regular expressions quick start
+perlreref - Perl Regular Expressions Reference
+perlretut - Perl regular expressions tutorial
+perlriscos - Perl version 5 for RISC OS
+perlrun - how to execute the Perl interpreter
+perlsec - Perl security
+perlsecpolicy - Perl security report handling policy
+perlsolaris - Perl version 5 on Solaris systems
+perlsource - A guide to the Perl source tree
+perlstyle - Perl style guide
+perlsub - Perl subroutines
+perlsyn - Perl syntax
+perlsynology - Perl 5 on Synology DSM systems
+perlthrtut - Tutorial on threads in Perl
+perltie - how to hide an object class in a simple variable
+perltoc - perl documentation table of contents
+perltodo - Link to the Perl to-do list
+perltooc - Links to information on object-oriented programming in Perl
+perltoot - Links to information on object-oriented programming in Perl
+perltrap - Perl traps for the unwary
+perltru64 - Perl version 5 on Tru64 (formerly known as Digital UNIX formerly known as DEC OSF/1) systems
+perltw - XXXX Perl XX
+perlunicode - Unicode support in Perl
+perlunicook - cookbookish examples of handling Unicode in Perl
+perlunifaq - Perl Unicode FAQ
+perluniintro - Perl Unicode introduction
+perluniprops - Index of Unicode Version 14.0.0 character properties in Perl
+perlunitut - Perl Unicode Tutorial
+perlutil - utilities packaged with the Perl distribution
+perlvar - Perl predefined variables
+perlvms - VMS-specific documentation for Perl
+perlvos - Perl for Stratus OpenVOS
+perlwin32 - Perl under Windows
+perlxs - XS language reference manual
+perlxstut - Tutorial for writing XSUBs
+perlxstypemap - Perl XS C/Perl type mapping
+pf2afm - Make an AFM file from Postscript (PFB/PFA/PFM) font files using ghostscript
+pfbtopfa - Convert Postscript .pfb fonts to .pfa format using ghostscript
+pfbtops - translate PostScript Printer Font Binary files to Printer Font ASCII
+pg - browse pagewise through text files
+pgpewrap - NeoMutt command line munging tool
+pgrep - look up, signal, or wait for processes based on name and other attributes
+pkill - look up, signal, or wait for processes based on name and other attributes
+pidwait - look up, signal, or wait for processes based on name and other attributes
+pic - compile pictures for troff or TeX
+pic2graph - convert a pic diagram into a cropped image
+piconv - - iconv(1), reinvented in perl
+pidof - find the process ID of a running program
+pinky - lightweight finger
+pipesz - set or examine pipe and FIFO buffer sizes
+pipewire - The PipeWire media server
+pipewire-pulse - The PipeWire PulseAudio replacement
+pk12util - Export and import keys and certificate to or from a PKCS #12 file and the NSS database
+pkaction - Get details about a registered action
+pkcheck - Check whether a process is authorized
+pkexec - Execute a command as another user
+pkgconf - a system for configuring build dependency information
+pkgdata - package data for use by ICU
+pkttyagent - Textual authentication helper
+pl2pm - Rough tool to translate Perl4 .pl files to Perl5 .pm modules.
+plugctl - a program to get or set any MPR or PCR register value
+plugreport - a program to read all MPR/PCR registers from all devices and report them.
+pmap - report memory map of a process
+/usr/share/man/man1/pm-gawk.1.gz: parse failed
+/usr/share/man/man1/pmix_info.1.gz: parse failed
+pod2html - convert .pod files to .html files
+pod2man - Convert POD data to formatted *roff input
+pod2texi - convert Pod to Texinfo
+pod2text - Convert POD data to formatted ASCII text
+pod2usage - print usage messages from embedded pod docs in files
+podboat - a podcast download manager for text terminals
+podchecker - check the syntax of POD format documentation files
+ppm2tiff - create a TIFF file from PPM, PGM and PBM image files
+pprof - manual page for pprof (part of gperftools)
+pr - convert text files for printing
+preconv - prepare files for typesetting with groff
+printafm - Print the metrics from a Postscript font in AFM format using ghostscript
+printenv - print all or part of environment
+printf - format and print data
+prlimit - get and set process resource limits
+prove - Run tests through a TAP harness.
+prtstat - print statistics of a process
+prune - Prune directed graphs
+ps - report a snapshot of the current processes.
+ps2ascii - Ghostscript translator from PostScript or PDF to ASCII
+ps2epsi - generate conforming Encapsulated PostScript
+ps2pdf - Convert PostScript to PDF using ghostscript
+ps2pdf12 - Convert PostScript to PDF 1.2 (Acrobat 3-and-later compatible) using ghostscript
+ps2pdf13 - Convert PostScript to PDF 1.3 (Acrobat 4-and-later compatible) using ghostscript
+ps2pdf14 - Convert PostScript to PDF 1.4 (Acrobat 5-and-later compatible) using ghostscript
+ps2pdfwr - Convert PostScript to PDF without specifying CompatibilityLevel, using ghostscript
+ps2ps - Ghostscript PostScript "distiller"
+eps2eps - Ghostscript PostScript "distiller"
+psfaddtable - add a Unicode character table to a console font
+psfgettable - extract the embedded Unicode character table from a console font
+psfstriptable - remove the embedded Unicode character table from a console font
+psfxtable - handle Unicode character tables for console fonts
+psicc - little cms PostScript converter.
+fB-Font]psktool - GnuTLS PSK tool
+psl - Explore the Public Suffix List
+psl-make-dafsa - generate a compact and optimized DAFSA from a Public Suffix List
+pslog - report current logs path of a process
+pstree - display a tree of processes
+ptar - a tar-like program written in perl
+ptardiff - program that diffs an extracted archive against an unextracted one
+ptargrep - Apply pattern matching to the contents of files in a tar archive
+ptx - produce a permuted index of file contents
+pw-cat - Play and record media with PipeWire
+pw-cli - The PipeWire Command Line Interface
+pw-config - Debug PipeWire Config parsing
+pwd - print name of current/working directory
+pw-dot - The PipeWire dot graph dump
+pwdx - report current working directory of a process
+pw-link - The PipeWire Link Command
+pw-metadata - The PipeWire metadata
+pw-mididump - The PipeWire MIDI dump
+pw-mon - The PipeWire monitor
+pw-profiler - The PipeWire profiler
+pw-top - The PipeWire process viewer
+python - an interpreted, interactive, object-oriented programming language
+qBittorrent - a Bittorrent client written in C++ / Qt
+quest - Xapian command line search tool
+qv4l2 - A test bench application for video4linux devices
+qvidcap - A v4l2 video capture viewer
+ranlib - generate an index to an archive
+raw2tiff - create a TIFF file from a raw data file
+rctest - RFCOMM testing
+rdjpgcom - display text comments from a JPEG file
+readelf - display information about ELF files
+readlink - print resolved symbolic links or canonical file names
+realpath - print the resolved path
+recode-sr-latin - convert Serbian text from Cyrillic to Latin script
+refer - process bibliographic references for groff
+rename - rename files
+renice - alter priority of running processes
+rev - reverse lines characterwise
+rgb2ycbcr - convert non-YCbCr TIFF images to a YCbCr TIFF image
+rm - remove files or directories
+rmdir - remove empty directories
+rnano - a restricted nano
+rsvg-convert - Render SVG documents to PNG images, or convert them to PDF or PS.
+runcon - run command with specified security context
+runuser - run a command with substitute user and group ID
+scalar - A tool for managing large Git repositories
+sccmap - extract strongly connected components of directed graphs
+scdaemon - Smartcard daemon for the GnuPG system
+sc-im - A curses based, vim-like spreadsheet calculator
+sclient - sample Kerberos version 5 client
+scmp_sys_resolver - Resolve system calls
+scp - OpenSSH secure file copy
+screendump - dump the contents of a virtual console to stdout
+script - make typescript of terminal session
+scriptlive - re-run session typescripts, using timing information
+scriptreplay - play back typescripts, using timing information
+sdiff - side-by-side merge of file differences
+secret-tool - Store and retrieve passwords
+sed - stream editor for filtering and transforming text
+sendiso - send IEEE 1394 isochronous packets from dump file
+sensors - print sensors information
+sepdebugcrcfix - fixes CRC for separate .debug files
+seq - print a sequence of numbers
+serdi - read and write RDF syntax
+setfacl - set file access control lists
+setfattr - set extended attributes of filesystem objects
+setleds - set the keyboard leds
+setmetamode - define the keyboard meta key handling
+setpriv - run a program with different Linux privilege settings
+setsid - run a program in a new session
+setterm - set terminal attributes
+setxkbmap - set the keyboard using the X Keyboard Extension
+sfconvert - convert audio files
+sfinfo - display information about audio files
+sftp - OpenSSH secure file transfer
+sg - execute command as different group ID
+sha1sum - compute and check SHA1 message digest
+sha224sum - compute and check SHA224 message digest
+sha256sum - compute and check SHA256 message digest
+sha384sum - compute and check SHA384 message digest
+sha512sum - compute and check SHA512 message digest
+shasum - Print or Check SHA Checksums
+shout - Icecast source client
+showkey - examine the codes sent by the keyboard
+shred - overwrite a file to hide its contents, and optionally delete it
+shuf - generate random permutations
+signtool - Digitally sign objects and files.
+signver - Verify a detached PKCS#7 signature for a file.
+SIMPLE-MTPFS - filesystem driver for MTP based devices
+size - list section sizes and total size of binary files
+slabtop - display kernel slab cache information in real time
+sleep - delay for a specified amount of time
+slock - simple X screen locker
+slop - select operation
+slsh - Interpreter for S-Lang scripts
+smime_keys - Utility to add S/MIME certificate to the internal database used by neomutt
+sndfile-cmp - compare two audio files
+sndfile-concat - concatenate audio data from two or more audio files
+sndfile-convert - convert sound files from one format to another
+sndfile-interleave - convert mono files into a multi-channel file and vice versa
+sndfile-deinterleave - convert mono files into a multi-channel file and vice versa
+sndfile-info - display information about sound files
+sndfile-interleave - convert mono files into a multi-channel file and vice versa
+sndfile-deinterleave - convert mono files into a multi-channel file and vice versa
+sndfile-metadata-get - get or set metadata in a sound file
+sndfile-metadata-set - get or set metadata in a sound file
+sndfile-metadata-get - get or set metadata in a sound file
+sndfile-metadata-set - get or set metadata in a sound file
+sndfile-play - play a sound file
+sndfile-salvage - salvage audio data from WAV files longer than 4G
+fB-Font]sntp - standard Simple Network Time Protocol client program
+socat - Multipurpose relay (SOcket CAT)
+soelim - recursively interpolate source requests in roff or other text files
+sordi - Load and re-serialise RDF data
+sord_validate - Validate RDF data
+sort - sort lines of text files
+speexdec - The reference implementation speex decoder.
+speexenc - The reference implementation speex encoder.
+diagnostics - produce verbose warning diagnostics
+splain - produce verbose warning diagnostics
+split - split a file into pieces
+splitfont - extract characters from an ISO-type font.
+sponge - soak up standard input and write to a file
+sqlite3 - A command line interface for SQLite version 3
+ssh - OpenSSH remote login client
+ssh-add - adds private key identities to the OpenSSH authentication agent
+ssh-agent - OpenSSH authentication agent
+ssh-copy-id - use locally available keys to authorise logins on a remote machine
+ssh-keygen - OpenSSH authentication key utility
+ssh-keyscan - gather SSH public keys from servers
+ssltap - Tap into SSL connections and display the data going by
+startx - initialize an X session
+stat - display file or file system status
+stdbuf - Run COMMAND, with modified buffering operations for its standard streams.
+stl2gts - convert an STL file to GTS format.
+streamzip - create a zip file from stdin
+strings - print the sequences of printable characters in files
+strip - discard symbols and other data from object files
+stty - change and print terminal line settings
+su - run a command with substitute user and group ID
+sum - checksum and count the blocks in a file
+sxpm - Show an XPM (X PixMap) file and/or convert XPM 1 or 2 files to XPM 3.
+sync - Synchronize cached writes to persistent storage
+synctex - command line client tool to support the Synchronize TeXnology available in most TeX engines.
+tabs - set tabs on a terminal
+tac - concatenate and print files in reverse
+tail - output the last part of files
+tar - an archiving utility
+taskset - set or retrieve a process's CPU affinity
+tbl - prepare tables for groff documents
+tee - read from standard input and write to standard output and files
+test - check file types and compare values
+testlibraw - run basic functionality tests on libraw1394
+texi2dvi - convert Texinfo documents to DVI or PDF
+texindex - sort Texinfo index files
+tfmtodit - adapt TeX Font Metrics files for use with groff and grodvi
+thumbnail - create a TIFF file with thumbnail images
+tic - the terminfo entry-description compiler
+tiff2bw - convert a color TIFF image to greyscale
+tiff2pdf - convert a TIFF image to a PDF document
+tiff2ps - convert TIFF image to PostScript™
+tiff2rgba - convert a TIFF image to RGBA color space
+tiffcmp - compare two TIFF files
+tiffcp - copy (and possibly convert) a TIFF file
+tiffcrop - select, copy, crop, convert, extract, and/or process one or more TIFF files
+tiffdither - convert a greyscale TIFF image to bilevel using dithering
+tiffdump - print verbatim information about TIFF files
+tiffgt - display an image stored in a TIFF file (Silicon Graphics version)
+tiffinfo - print information about TIFF files
+tiffmedian - apply the median cut algorithm to data in a TIFF file
+tiffset - set or unset a field in a TIFF header
+tiffsplit - split a multi-image TIFF into single-image TIFF files
+tificc - little cms ICC profile applier for TIFF.
+timeout - run a command with a time limit
+tload - graphic representation of system load average
+toast - GSM 06.10 lossy sound compression
+toe - table of (terminfo) entries
+top - display Linux processes
+touch - change file timestamps
+touchpad-edge-detector - print the axis ranges for a touchpad device
+fB-Font]tpmtool - GnuTLS TPM tool
+tput - initialize a terminal or query terminfo database
+reset - initialize a terminal or query terminfo database
+tr - translate or delete characters
+transform - apply geometric transformations to the input.
+transicc - little cms ColorSpace conversion calculator.
+tred - transitive reduction filter for directed graphs
+tree - list contents of directories in a tree-like format.
+trietool - trie manipulation tool
+troff - GNU roff typesetter and document formatter
+true - do nothing, successfully
+truncate - shrink or extend the size of a file to the specified size
+trust - Tool for operating on the trust policy store
+ts - timestamp input
+ts_calibrate - A test program to calibrate a touch screen used by tslib.
+ts_conf - A test program to test the ts_conf_get() and ts_conf_set() API
+tset - terminal initialization
+reset - terminal initialization
+ts_finddev - Discover touch screen devices.
+tsget - Time Stamping HTTP/HTTPS client
+ts_harvest - Harvest hundreds of raw touch screen coordinates.
+tsort - perform topological sort
+tsp - task spooler. A simple unix batch system
+ts_print - A very basic test routine for tslib.
+ts_print_raw - A very basic test routine for tslib.
+ts_print_mt - A very basic multitouch test routine for tslib.
+ts_print - A very basic test routine for tslib.
+ts_print_raw - A very basic test routine for tslib.
+ts_test - A basic test routine for tslib.
+ts_test_mt - A basic multitouch test program for tslib.
+ts_uinput - A daemon program creating a tslib-filtered and calibrated input event device
+ts_verify - A basic test routine for tslib's API.
+tty - print the file name of the terminal connected to standard input
+twolame - an optimised MPEG Audio Layer 2 (MP2) encoder
+uchardet - Universal Charset Detector
+uclampset - manipulate the utilization clamping attributes of the system or a process
+uconv - convert data from one encoding to another
+ul - do underlining
+ulockmgr_server - Lock Manager Server for FUSE filesystems
+uname - print system information
+unclutter-xfixes - rewrite of unclutter using the X11-Xfixes extension
+unexpand - convert spaces to tabs
+unflatten - adjust directed graphs to improve layout aspect ratio
+unicode_start - put keyboard and console in unicode mode
+unicode_stop - revert keyboard and console from unicode mode
+uniq - report or omit repeated lines
+unlink - call the unlink function to remove the specified file
+unshare - run program in new namespaces
+unxrandr - inverse tool of xrandr
+unzip - list, test and extract compressed files in a ZIP archive
+unzipsfx - self-extracting stub for prepending to ZIP archives
+update-desktop-database - Build cache database of MIME types handled by desktop files
+fB-Font]update-leap - leap-seconds file manager/updater
+update-mime-database - a program to build the Shared MIME-Info database cache
+uptime - Tell how long the system has been running.
+users - print the user names of users currently logged in to the current host
+utmpdump - dump UTMP and WTMP files in raw format
+uuidgen - create a new UUID value
+uuidparse - a utility to parse unique identifiers
+v4l2-compliance - An application to test video4linux drivers
+v4l2-ctl - An application to control video4linux drivers
+v4l2-tracer - An application to trace and replay stateless video decoding.
+vdir - list directory contents
+vidir - edit directories and filenames
+vim - Vi IMproved, a programmer's text editor
+vimdiff - edit between two and eight versions of a file with Vim and show differences
+vimdot - Combined text editor and dot viewer
+vimtutor - the Vim tutor
+vipe - edit pipe
+vlock - Virtual Console lock program
+w - Show who is logged on and what they are doing.
+waitpid - utility to wait for arbitrary processes
+wall - write a message to all users
+watch - execute a program periodically, showing output fullscreen
+watchgnupg - Read and print logs from a socket
+wavpack - encode audio files to wavpack
+wc - print newline, word, and byte counts for each file
+webpinfo - print out the chunk level structure of WebP files along with basic integrity checks.
+webpmux - create animated WebP files from non-animated WebP images, extract frames from animated WebP images, and manage XMP/EXIF metadata and ICC profile.
+Wget - The non-interactive network downloader.
+whatis - display one-line manual page descriptions
+whereis - locate the binary, source, and manual page files for a command
+which - shows the full path of (shell) commands.
+whiptail - display dialog boxes from shell scripts
+who - show who is logged on
+whoami - print effective user name
+wildmidi - example player for libWildMidi
+write - send a message to another user
+wrjpgcom - insert text comments into a JPEG file
+wvgain - adds ReplayGain information to wavpack files
+wvtag - metadata utility for wavpack files
+wvunpack - decodes wavpack encoded files
+xapian-check - Check the consistency of a database or table
+xapian-compact - Compact a database, or merge and compact several
+xapian-config - report information about the installed version of xapian
+delve - Inspect the contents of a Xapian database
+xapian-metadata - Read and write user metadata
+xapian-pos - Debug positional data in a Xapian database
+xapian-progsrv - Piped server for use with Xapian's remote backend
+xapian-replicate - Replicate a database from a master server to a local copy
+xapian-replicate-server - Service database replication requests from clients
+xapian-tcpsrv - TCP daemon for use with Xapian's remote backend
+xargs - build and execute command lines from standard input
+xauth - X authority file utility
+xbacklight - adjust backlight brightness using RandR extension
+xcape - use a modifier key as another key
+xclip - command line interface to X selections (clipboard)
+xclip-copyfile - copy and move files via the X clipboard
+xclip-cutfile - copy and move files via the X clipboard
+xclip-pastefile - copy and move files via the X clipboard
+xcompmgr - sample X compositing manager
+xdg-desktop-icon - command line tool for (un)installing icons to the desktop
+xdg-desktop-menu - command line tool for (un)installing desktop menu items
+xdg-email - command line tool for sending mail using the user's preferred e-mail composer
+xdg-icon-resource - command line tool for (un)installing icon resources
+xdg-mime - command line tool for querying information about file type handling and adding descriptions for new file types
+xdg-open - opens a file or URL in the user's preferred application
+xdg-screensaver - command line tool for controlling the screensaver
+xdg-settings - get various settings from the desktop environment
+xdotool - command-line X11 automation tool
+xgettext - extract gettext strings from source
+xinit - X Window System initializer
+xkbcli - tool to interact with XKB keymaps
+/usr/share/man/man1/xkbcli-compile-keymap.1.gz: parse failed
+/usr/share/man/man1/xkbcli-how-to-type.1.gz: parse failed
+/usr/share/man/man1/xkbcli-interactive-evdev.1.gz: parse failed
+/usr/share/man/man1/xkbcli-interactive-wayland.1.gz: parse failed
+/usr/share/man/man1/xkbcli-interactive-x11.1.gz: parse failed
+/usr/share/man/man1/xkbcli-list.1.gz: parse failed
+xkbcomp - compile XKB keyboard description
+xml2-config - script to get information about the installed version of libxml2
+xmlcatalog - Command line tool to parse and manipulate XML or SGML catalog files.
+xmllint - command line XML tool
+xmlwf - Determines if an XML document is well-formed
+xmodmap - utility for modifying keymaps and pointer button mappings in X
+Xorg - X11R7 X server
+Xorg.wrap - Xorg X server binary wrapper
+xprop - property displayer for X
+xrandr - primitive command line interface to RandR extension
+xrdb - X server resource database utility
+Xserver - X Window System display server
+xset - user preference utility for X
+xsubpp - compiler to convert Perl XS code into C code
+xtotroff - convert X font metrics into groff font metrics
+xwallpaper - wallpaper setting utility for X
+xwininfo - window information utility for X
+xxd - make a hexdump or do the reverse.
+xz - Compress or decompress .xz and .lzma files
+unxz - Compress or decompress .xz and .lzma files
+xzcat - Compress or decompress .xz and .lzma files
+lzma - Compress or decompress .xz and .lzma files
+unlzma - Compress or decompress .xz and .lzma files
+lzcat - Compress or decompress .xz and .lzma files
+xzdec - Small .xz and .lzma decompressors
+lzmadec - Small .xz and .lzma decompressors
+xzcmp - compare compressed files
+xzdiff - compare compressed files
+lzcmp - compare compressed files
+lzdiff - compare compressed files
+xzgrep - search compressed files for a regular expression
+xzless - view xz or lzma compressed (text) files
+lzless - view xz or lzma compressed (text) files
+xzmore - view xz or lzma compressed (text) files
+lzmore - view xz or lzma compressed (text) files
+yacc - GNU Project parser generator
+yes - output a string repeatedly until killed
+yt-dlp - A youtube-dl fork with additional features and patches
+zathura - a document viewer
+zcmp - compare compressed files
+zdiff - compare compressed files
+zforce - force a '.gz' extension on all gzip files
+zgrep - search possibly compressed files for a regular expression
+zipcmp - compare contents of zip archives
+zipdetails - display the internal structure of zip files
+zipgrep - search files in a ZIP archive for lines matching a pattern
+zipinfo - list detailed information about a ZIP archive
+zipmerge - merge zip archives
+ziptool - modify zip archives
+zless - file perusal filter for crt viewing of compressed text
+zmore - file perusal filter for crt viewing of compressed text
+znew - recompress .Z files to .gz files
+zrun - automatically uncompress arguments to command
+zsh - the Z shell
+zshall - the Z shell meta-man page
+zshbuiltins - zsh built-in commands
+zshcalsys - zsh calendar system
+zshcompctl - zsh programmable completion
+zshcompsys - zsh completion system
+zshcompwid - zsh completion widgets
+zshcontrib - user contributions to zsh
+zshexpn - zsh expansion and substitution
+zshmisc - everything and then some
+zshmodules - zsh loadable modules
+zshoptions - zsh options
+zshparam - zsh parameters
+zshroadmap - informal introduction to the zsh manual The Zsh Manual, like the shell itself, is large and often complicated. This section of the manual provides some pointers to areas of the shell that are likely to be of particular interest to new users, and indicates where in the rest of the manual the documentation is to be found.
+zshtcpsys - zsh tcp system
+zshzftpsys - zftp function front-end
+zshzle - zsh command line editor
+zsoelim - satisfy .so requests in roff input
+zstd - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files
+zstdgrep - print lines matching a pattern in zstandard-compressed files
+zstdless - view zstandard-compressed files

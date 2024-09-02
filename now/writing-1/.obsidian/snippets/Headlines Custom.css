@@ -1,0 +1,163 @@
+Headlines Custom CSS
+
+
+  /* HEADINGS */
+
+  /* H1 */
+  /*Image attribute: 
+  <a href='https://www.freepik.com/vectors/brush'>Brush vector created by Creative_hat - www.freepik.com</a> */
+
+  .HyperMD-header-1, .markdown-preview-section h1 {
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    border-radius: 10px;
+    border-bottom: 5px solid #55423d;
+    font-weight: 900;
+    padding:20px;
+    font-size: 20px;
+    transition: 1s;
+    
+}
+
+
+.cm-header-1.cm-header-1.cm-header-1,
+.markdown-preview-view h1 {
+	font-size: 40px;
+  color: #000000;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    font-weight: 900;
+  border-radius: 10px;
+}
+
+.markdown-preview-section h1:hover{
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    filter: invert(100%);
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.theme-dark.markdown-preview-section h1:hover{
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  filter: invert(100%);
+  border-radius: 10px;
+  transition: 1s;
+}
+
+
+/* H2 */
+
+.cm-header-2.cm-header-2.cm-header-2,
+.markdown-preview-view h2 {
+}
+
+.markdown-preview-section h2,
+.HyperMD-header-2 { 
+    color: #ffe4f6;
+    border-bottom: 5px solid #55423d;
+    padding: 3px;
+    font-size: 32px;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+
+.markdown-preview-section h2:hover {
+  font-weight: 900;
+  background-color: rgba(255, 255, 255, 0.863);
+  color: blue;
+  border-radius: 8px;
+  border-bottom: 5px solid blue;
+  transition: 0.5s;
+
+}
+
+.markdown-preview-section h2::before{
+    font-size: 11px;
+    content: "H2 ";
+    font-weight: 700;
+    color: brown;
+    padding-right: 5px;
+
+
+}
+/* H3    */
+
+.cm-header-3.cm-header-3.cm-header-3,
+.markdown-preview-view h3 {
+	font-size: 25px;
+}
+
+.markdown-preview-section h3,
+.HyperMD-header-3 {
+    color: #893b97;
+    border-bottom: 5px solid #893b97;
+    padding: 3px;
+    font-size: 25px;
+    transition: 1s;
+}
+
+.markdown-preview-section h3::before {
+    font-size: 11px;
+    content: "H3 ";
+    font-weight: 700;
+    color: black;
+    padding-right: 5px;
+}
+
+.markdown-preview-section h3:hover {
+  font-weight: 900;
+  background-color: rgba(255, 255, 255, 0.863);
+  color: blue;
+  border-radius: 8px;
+  border-bottom: 5px solid blue;
+  transition: 0.5s;
+
+}
+ 
+ /* H4   */
+
+.cm-header-4.cm-header-4.cm-header-4,
+.markdown-preview-view h4 {
+	font-size: 20px;
+}
+
+.markdown-preview-section h4,
+.HyperMD-header-4 {
+    border-bottom: 5px solid #fe546f;
+    padding: 3px;
+    font-size: 20px;
+    transition: 1s;
+}
+
+.markdown-preview-section h4:hover {
+  font-weight: 900;
+  background-color: rgba(255, 255, 255, 0.863);
+  color: blue;
+  border-radius: 8px;
+  border-bottom: 5px solid blue;
+  transition: 0.5s;
+
+}
+/* H5   */
+.cm-header-5.cm-header-5.cm-header-5,
+.markdown-preview-view h5 {
+	font-size: 20px;
+}
+
+.markdown-preview-section h5,
+.HyperMD-header-5 {
+
+    border-bottom: 5px solid #00ffff;
+    padding: 3px;
+    font-size: 20px;
+    transition: 1s;
+}
+
+.markdown-preview-section h5:hover {
+  font-weight: 900;
+  background-color: rgba(255, 255, 255, 0.863);
+  color: blue;
+  border-radius: 8px;
+  border-bottom: 5px solid blue;
+  transition: 0.5s;
+
+}

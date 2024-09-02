@@ -1,0 +1,116 @@
+---
+---
+**Creator:** Michael Simmons
+**Price:** $339 and 3 days free
+**Link:** [Welcome! | Michael Simmons' Course (learningritual.com)](https://learningritual.com/courses/1656135/lectures/37710761)
+**Type:** #litnote [[Courses]] 
+**Topics:** [[Learning]]
+
+---
+- Social Learning
+- The learning pyramid
+	- Passive: Reading without note-taking
+	- Active: Highlight and copying notes
+	- Constructive: Mind mapping, taking notes in own words, answers and questions
+	- Interactive: debating, dialoguing and explaining it to someone else
+- Explanation effect
+	- More accountability
+	- Connecting with others
+	- Deeper learning
+	- Building an asset   
+	- Proof of skill
+- You need a learning network and learning challenge
+- Wealth of information creates poverty of attention
+- **Learn skills others find difficult to master**
+-  **Micro-skills**
+	- Break skills into their subskills
+	- Identify the $1000/Hour skills with little competition
+- Suggestion for getting started
+	- [[Imposter syndrome]]
+	- Under your name or brand
+	- Format
+	- Medium
+	- Distribution
+- **Build your curriculum**:
+	- Make a public commitment
+	- Skill Selection
+	- and Heuristics for selection
+	- Top Mental Models
+	- Fields
+	- Top Books on Fields
+	- Top Trends
+	- Tracking trends
+	- How to search
+		- 80/20 RULE
+		- Keywords 
+		- Sites used for search
+- **Learning how to learn**
+	- Full spectrum reading
+	- learn using as many processing systems as you can
+- **Daily Learning Schedule**
+	- If someone were watching you learn over your shoulder, what would be they be most surprised by?
+	- Curation
+- **Explore 20+ books on a topic**
+	- *Get a landscape view*
+	- Use fractal reading
+		- Skipping to find the most important parts or  pages.
+		- No you won't miss anything
+		- It will double your speed.
+		- Metadata is much valuable than the whole book.
+		- Consume your book before you read it Get key ideas
+		- Ask questions; Should you read this book? What are the important points/chapters
+- **Make time**
+	- Make time for learning sacred. Let no one touch your time 
+- **Turn your learning into knowledge assets**
+	- People take detailed notes but don't share publicly what they learn.
+	- Learn to overcome imposter syndrome
+	- No more writers block
+		- Remember what you learn with [[spaced repititon]] using your desktop and mobile wallpaper
+	- Highlight text and share what you have learned.
+- **Learn virality hacks for social medias**
+	- Learn how to get attention online and how social media algorithms work.
+	- Switch aspect ratio
+	- Highlight text
+	- Add images
+	- Change colors
+	- Make slides
+	- Make animations
+- **The challanges of online thought leaderships**
+	- It's hard and is going to be harder: *A wealth of attention creates a poverty of attention.*
+	- **So make blockbuster**
+		- You have less competition
+		- Winner takes the most
+		- Prefer quality over quantity
+		- *Create evergreen content*
+	- **Be the first and or best**
+		- What you say
+		- Who you say it to 
+		- How you say it
+		- Where you say it
+		- Ship
+	- Before you begin to learn
+		- Clean your desk
+		- Use bathroo
+		- Go somewhere quiet
+		- Eat food if hungry
+		- Tell others that you are busy
+		- Close your email and social media
+		- Put phoneo n airplane mode
+	- **Clarify**
+		- What do you want to create at the end of the hour?
+	- **Thought Leader opportunities**
+		- *Curation--- Summarization--- Connection*
+			- Find highest quality resources and highest quality excerpts
+			- Easy, scalable, takes less time to produce it and people will pay for it.
+			- Newsletters, Books, Books list.
+			- Explain the curation process
+				- I spend 30 hours every week searching for the top articles, videos, and this is my #h1 
+				- Explain why you picked the item
+					- This is unique and interesting, changed the way I think, Helped me get results faster
+				- **Don't do**
+					- Post a link
+					- Give no context
+					- expect people to value it
+		- **As you research, you collect information, how do you want to package what you collect at the end of the month**
+		- **Collect diverse rare and valuable data
+		- **Use [[mental models]] to get unique insights**

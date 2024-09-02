@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Define an array of URLs you want to open
+urls=(
+    "https://rust-book.cs.brown.edu/ch08-00-common-collections.html"
+    "https://google.github.io/comprehensive-rust/methods-and-traits.html"
+    "https://doc.rust-lang.org/stable/reference/"
+    "https://learn.letsgetrusty.com/beginner/constants-statics.html"
+    "https://rust-unofficial.github.io/too-many-lists/"
+)
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+xdotool key super+w &
+sleep 5 
+# Open each URL in a new tab
+for url in "${urls[@]}"; do
+    "$chrome" --new-tab "$url" &
+    sleep 1
+done
+
+sleep 1
+xdotool key ctrl+1 &
+sleep 1
+xdotool key ctrl+w &
+
+
+

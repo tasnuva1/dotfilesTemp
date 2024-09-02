@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# What to backup.
+backup_files="/home"
+
+# Where to backup to.
+dest="/mnt/3/home-backup"
+
+# Create archive filename.
+day=$(date "+%Y-%m-%d")
+archive_file="my-$day.tgz"
+
+tar -cvjf $dest/$archive_file $backup_files
+
+# Print end status message.
+echo "Backup finished"
+date
+ls /mnt/3/home-backup

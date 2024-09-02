@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Define the list of items
+items=(
+  "chain-of-task"
+  "current"
+  "myown-building-problem-sloving-mindset"
+  "UNDERSTANDING-REFINING"
+  "OPTIONS-FOR-PROBLEM-SLOVING"
+  "LEARNING-WHAT-YOU-CAN-DO"
+  "WHAT-YOU-CAN-DO-AND-UNDESTAND"
+  "EXCELLENT-COMMUNICATOR"
+  "ONE-UNDERSTANDING-REFINING"
+  "ONE-MARGE-CODE-SEEN-AND-UNDESTAND"
+  "ONE-NEW-KNOWLADGE-WHAT-YOU-CAN-DO"
+)
+
+# Create a list of item names for dmenu
+items_list=$(printf "%s\n" "${items[@]}")
+
+# Print the final output
+selected_item=$(echo -e "$items_list" | dmenu -i -l 11 -p "Select an item:")
+
+# Check if the selected item is in the list of items and execute the corresponding script
+if [[ " ${items[*]} " =~ " $selected_item " ]]; then
+    "$selected_item"
+else
+    echo "Invalid selection"
+fi
+
+# wait
+

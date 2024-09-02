@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# How to talk
+# How to express
+# lessening quran small sura resiteation.
+# in backgroud : song : quran resiteation.
+xdotool key super+4 &
+mounter &
+st -e bash -c 'echo "Running CLI Tool 4"; mpv /home/fahmida/downloads/videos/youtube/Al\ Fatiha\ \ Ayatul\ Kursi\ \ 4\ Quls\ Al\ Ikhlas\ \ Al\ Falaq\ \ Annas\ Be\ Heaven\ Omar\ Hisham_1080p.mp4' &
+sleep 1 
+st -e bash -c 'echo "Running CLI Tool 1";  mpv /home/fahmida/downloads/videos/youtube/How\ to\ talk.mp4' &
+sleep 1 
+st -e bash -c 'echo "Running CLI Tool 4"; mpv /home/fahmida/downloads/videos/youtube/How\ to\ express.mp4' &
+sleep 1 
+st -e bash -c 'echo "Running CLI Tool 5"; mpv /mnt/3/Courses/media/audiobooks/Quran/Quran\ 02\ Surah\ Baqarah\ The\ Cow\ \ \ Quran\ with\ Urdu\ Translation\ \ Quran\ just\ Translation_v144P.mp4' &
+sleep 1 

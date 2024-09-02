@@ -1,0 +1,38 @@
+#!/bin/bash
+
+# Function to convert 12-hour format to 24-hour format
+convert_to_24hr() {
+    # Extract hours, minutes, and AM/PM from the input time
+    input_time="$1"
+    # hours=$(echo "$input_time" | cut -d: -f1)
+    # minutes=$(echo "$input_time" | cut -d: -f2 | cut -d' ' -f1)
+    hours=$(echo "$input_time" | sed 's/^0*//' | cut -d: -f1) # Remove leading zeros
+    minutes=$(echo "$input_time" | sed 's/^0*//' | cut -d: -f2 | cut -d' ' -f1) # Remove leading zeros
+
+    am_pm=$(echo "$input_time" | cut -d' ' -f2)
+
+    # If the time is PM and not already 12, add 12 to the hours
+    if [ "$am_pm" == "pm" ] && [ "$hours" -lt 12 ]; then
+        hours=$(expr "$hours" + 12)
+    fi
+
+    # If the time is AM and is 12, set hours to 0
+    if [ "$am_pm" == "am" ] && [ "$hours" -eq 12 ]; then
+        hours=0
+    fi
+
+    # Print the time in 24-hour format
+    # printf "%02d:%02d\n" "$hours" "$minutes"
+    # Print the time in 24-hour format
+    printf "%02d:%02d\n" "$((10#$hours))" "$((10#$minutes))"
+
+}
+
+# Usage: ./script.sh "6:39 pm"
+input_time="$1"
+converted_time=$(convert_to_24hr "$input_time")
+# echo "12-hour format: $input_time ---"
+# echo "24-hour format: $converted_time ---"
+
+# "${am_pm_part//\"/}"
+echo "$converted_time"

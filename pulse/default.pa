@@ -1,0 +1,4 @@
+# audible bell
+load-sample-lazy bell-window-system /usr/share/sounds/freedesktop/stereo/alarm-clock-elapsed.oga
+
+load-module module-x11-bell
